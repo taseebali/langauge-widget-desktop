@@ -1,0 +1,124 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "german": "der Hund",
+      "english": "dog",
+      "gender": "masculine",
+      "pronunciation": "dair HOONT",
+      "category": "animals",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Der Hund bellt laut.", "english": "The dog barks loudly."}
+      ]
+    },
+    {
+      "id": 2,
+      "german": "die Katze",
+      "english": "cat",
+      "gender": "feminine",
+      "pronunciation": "dee KAT-suh",
+      "category": "animals",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Die Katze schläft auf dem Sofa.", "english": "The cat sleeps on the sofa."}
+      ]
+    },
+    {
+      "id": 3,
+      "german": "der Vogel",
+      "english": "bird",
+      "gender": "masculine",
+      "pronunciation": "dair FOH-gel",
+      "category": "animals",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Der Vogel singt schön.", "english": "The bird sings beautifully."}
+      ]
+    },
+    {
+      "id": 4,
+      "german": "das Pferd",
+      "english": "horse",
+      "gender": "neuter",
+      "pronunciation": "dass PFAIRT",
+      "category": "animals",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Das Pferd läuft schnell.", "english": "The horse runs fast."}
+      ]
+    },
+    {
+      "id": 5,
+      "german": "die Schildkröte",
+      "english": "turtle",
+      "gender": "feminine",
+      "pronunciation": "dee SHILT-krœ-tuh",
+      "category": "animals",
+      "difficulty": "A2",
+      "examples": [
+        {"german": "Die Schildkröte bewegt sich langsam.", "english": "The turtle moves slowly."}
+      ]
+    },
+    {
+      "id": 6,
+      "german": "der Fisch",
+      "english": "fish",
+      "gender": "masculine",
+      "pronunciation": "dair FISH",
+      "category": "animals",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Der Fisch schwimmt im Wasser.", "english": "The fish swims in the water."}
+      ]
+    },
+    {
+      "id": 7,
+      "german": "die Maus",
+      "english": "mouse",
+      "gender": "feminine",
+      "pronunciation": "dee MOWS",
+      "category": "animals",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Die Maus ist sehr klein.", "english": "The mouse is very small."}
+      ]
+    },
+    {
+      "id": 8,
+      "german": "der Elefant",
+      "english": "elephant",
+      "gender": "masculine",
+      "pronunciation": "dair ay-lay-FAHNT",
+      "category": "animals",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Der Elefant ist groß und stark.", "english": "The elephant is big and strong."}
+      ]
+    },
+    {
+      "id": 9,
+      "german": "die Schlange",
+      "english": "snake",
+      "gender": "feminine",
+      "pronunciation": "dee SHLAHN-guh",
+      "category": "animals",
+      "difficulty": "A2",
+      "examples": [
+        {"german": "Die Schlange kriecht auf dem Boden.", "english": "The snake crawls on the ground."}
+      ]
+    },
+    {
+      "id": 10,
+      "german": "der Löwe",
+      "english": "lion",
+      "gender": "masculine",
+      "pronunciation": "dair LŒ-vuh",
+      "category": "animals",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Der Löwe ist der König der Tiere.", "english": "The lion is the king of animals."}
+      ]
+    }
+  ]
+}

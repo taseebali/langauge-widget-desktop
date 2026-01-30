@@ -1,0 +1,3065 @@
+{
+  "category": "body",
+  "words": [
+    {
+      "id": 22,
+      "german": "abklären",
+      "english": "clear",
+      "gender": null,
+      "pronunciation": "ABKLAEREN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist abklären.",
+          "english": "It is clear."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "german": "abnutzen",
+      "english": "wear down",
+      "gender": null,
+      "pronunciation": "ABNUTZEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist abnutzen.",
+          "english": "It is wear down."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "german": "die Abnutzung",
+      "english": "wear",
+      "gender": "feminine",
+      "pronunciation": "ABNUTZUNG",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Abnutzung.",
+          "english": "That is the wear."
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "german": "der Alarm",
+      "english": "alarm",
+      "gender": "masculine",
+      "pronunciation": "ALARM",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Alarm.",
+          "english": "That is the alarm."
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "german": "der alle Völker der Erde",
+      "english": "all the peoples of the earth",
+      "gender": "masculine",
+      "pronunciation": "ALLE VOELKER ERDE",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der alle Völker Erde.",
+          "english": "That is the all the peoples of the earth."
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "german": "am Körper tragen",
+      "english": "wear (irr.)",
+      "gender": null,
+      "pronunciation": "AM KOERPER TRAGEN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist am Körper tragen.",
+          "english": "It is wear (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "german": "an der Spitze von",
+      "english": "at the head of",
+      "gender": null,
+      "pronunciation": "AN SPITZE VON",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist an Spitze von.",
+          "english": "It is at the head of."
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "german": "der Angst",
+      "english": "fear",
+      "gender": "masculine",
+      "pronunciation": "ANGST",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Angst.",
+          "english": "That is the fear."
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "german": "der Arm",
+      "english": "arm",
+      "gender": "masculine",
+      "pronunciation": "ARM",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Arm.",
+          "english": "That is the arm."
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "german": "arm",
+      "english": "poor",
+      "gender": null,
+      "pronunciation": "ARM",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist arm.",
+          "english": "It is poor."
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "german": "der Armbanduhr",
+      "english": "wristwatch",
+      "gender": "masculine",
+      "pronunciation": "ARMBANDUHR",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Armbanduhr.",
+          "english": "That is the wristwatch."
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "german": "der Armut",
+      "english": "poverty",
+      "gender": "masculine",
+      "pronunciation": "ARMUT",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Armut.",
+          "english": "That is the poverty."
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "german": "der auf der Suche",
+      "english": "searching",
+      "gender": "masculine",
+      "pronunciation": "AUF SUKHE",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der auf Suche.",
+          "english": "That is the searching."
+        }
+      ]
+    },
+    {
+      "id": 335,
+      "german": "das Auge",
+      "english": "eye",
+      "gender": "neuter",
+      "pronunciation": "AUGE",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist das Auge.",
+          "english": "That is the eye."
+        }
+      ]
+    },
+    {
+      "id": 336,
+      "german": "der Augenblick",
+      "english": "moment",
+      "gender": "masculine",
+      "pronunciation": "AUGENBLICK",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Augenblick.",
+          "english": "That is the moment."
+        }
+      ]
+    },
+    {
+      "id": 337,
+      "german": "der Augenbraue",
+      "english": "eyebrow",
+      "gender": "masculine",
+      "pronunciation": "AUGENBRAUE",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Augenbraue.",
+          "english": "That is the eyebrow."
+        }
+      ]
+    },
+    {
+      "id": 342,
+      "german": "aus Erfahrung lernen",
+      "english": "learn by experience",
+      "gender": null,
+      "pronunciation": "AUS ERFAHRUNG LERNEN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist aus Erfahrung lernen.",
+          "english": "It is learn by experience."
+        }
+      ]
+    },
+    {
+      "id": 344,
+      "german": "der aus Furcht",
+      "english": "for fear",
+      "gender": "masculine",
+      "pronunciation": "AUS FURKHT",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der aus Furcht.",
+          "english": "That is the for fear."
+        }
+      ]
+    },
+    {
+      "id": 345,
+      "german": "aus Furcht daß",
+      "english": "for fear that",
+      "gender": null,
+      "pronunciation": "AUS FURKHT DASS",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist aus Furcht daß.",
+          "english": "It is for fear that."
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "german": "ausdrücken",
+      "english": "express",
+      "gender": null,
+      "pronunciation": "AUSDRUECKEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist ausdrücken.",
+          "english": "It is express."
+        }
+      ]
+    },
+    {
+      "id": 421,
+      "german": "auswendig",
+      "english": "by heart",
+      "gender": null,
+      "pronunciation": "AUSWENDIG",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist auswendig.",
+          "english": "It is by heart."
+        }
+      ]
+    },
+    {
+      "id": 446,
+      "german": "der Bart",
+      "english": "beard",
+      "gender": "masculine",
+      "pronunciation": "BART",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Bart.",
+          "english": "That is the beard."
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "german": "der Bauer",
+      "english": "farmer",
+      "gender": "masculine",
+      "pronunciation": "BAUER",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Bauer.",
+          "english": "That is the farmer."
+        }
+      ]
+    },
+    {
+      "id": 450,
+      "german": "die Bäuerin",
+      "english": "farmer's wife",
+      "gender": "feminine",
+      "pronunciation": "BOYERIN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Bäuerin.",
+          "english": "That is the farmer's wife."
+        }
+      ]
+    },
+    {
+      "id": 451,
+      "german": "der Bauernhof",
+      "english": "farm",
+      "gender": "masculine",
+      "pronunciation": "BAUERNHOF",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Bauernhof.",
+          "english": "That is the farm."
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "german": "behandeln",
+      "english": "treat",
+      "gender": null,
+      "pronunciation": "BEHANDELN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist behandeln.",
+          "english": "It is treat."
+        }
+      ]
+    },
+    {
+      "id": 509,
+      "german": "die Behandlung",
+      "english": "treatment",
+      "gender": "feminine",
+      "pronunciation": "BEHANDLUNG",
+      "category": "body",
+      "difficulty": "B2",
+      "examples": [
+        {
+          "german": "Das ist die Behandlung.",
+          "english": "That is the treatment."
+        }
+      ]
+    },
+    {
+      "id": 586,
+      "german": "beschädigen",
+      "english": "harm",
+      "gender": null,
+      "pronunciation": "BESKHAEDIGEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist beschädigen.",
+          "english": "It is harm."
+        }
+      ]
+    },
+    {
+      "id": 656,
+      "german": "der bewaffnete Leute",
+      "english": "armed men",
+      "gender": "masculine",
+      "pronunciation": "BEWAFFNETE LOYTE",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der bewaffnete Leute.",
+          "english": "That is the armed men."
+        }
+      ]
+    },
+    {
+      "id": 669,
+      "german": "bezaubern",
+      "english": "charm",
+      "gender": null,
+      "pronunciation": "BEZAUBERN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist bezaubern.",
+          "english": "It is charm."
+        }
+      ]
+    },
+    {
+      "id": 775,
+      "german": "der Briefkopf",
+      "english": "heading",
+      "gender": "masculine",
+      "pronunciation": "BREEFKOPF",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Briefkopf.",
+          "english": "That is the heading."
+        }
+      ]
+    },
+    {
+      "id": 798,
+      "german": "die Buchhandlung",
+      "english": "bookshop",
+      "gender": "feminine",
+      "pronunciation": "BUKHHANDLUNG",
+      "category": "body",
+      "difficulty": "B2",
+      "examples": [
+        {
+          "german": "Das ist die Buchhandlung.",
+          "english": "That is the bookshop."
+        }
+      ]
+    },
+    {
+      "id": 833,
+      "german": "der Chef",
+      "english": "head",
+      "gender": "masculine",
+      "pronunciation": "KHEF",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Chef.",
+          "english": "That is the head."
+        }
+      ]
+    },
+    {
+      "id": 915,
+      "german": "den Knopf drücken",
+      "english": "press the button",
+      "gender": null,
+      "pronunciation": "DEN KNOPF DRUECKEN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist den Knopf drücken.",
+          "english": "It is press the button."
+        }
+      ]
+    },
+    {
+      "id": 1046,
+      "german": "drücken",
+      "english": "press",
+      "gender": null,
+      "pronunciation": "DRUECKEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist drücken.",
+          "english": "It is press."
+        }
+      ]
+    },
+    {
+      "id": 1351,
+      "german": "der Ende des Jahres",
+      "english": "end of the year",
+      "gender": "masculine",
+      "pronunciation": "ENDE DES JAHRES",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Ende des Jahres.",
+          "english": "That is the end of the year."
+        }
+      ]
+    },
+    {
+      "id": 1414,
+      "german": "der er handelt mit Schuhen",
+      "english": "he deals in shoes",
+      "gender": "masculine",
+      "pronunciation": "ER HANDELT MIT SKHUHEN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der er handelt mit Schuhen.",
+          "english": "That is the he deals in shoes."
+        }
+      ]
+    },
+    {
+      "id": 1429,
+      "german": "der Erbarmen",
+      "english": "mercy",
+      "gender": "masculine",
+      "pronunciation": "ERBARMEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Erbarmen.",
+          "english": "That is the mercy."
+        }
+      ]
+    },
+    {
+      "id": 1432,
+      "german": "der Erdbeben",
+      "english": "earthquake",
+      "gender": "masculine",
+      "pronunciation": "ERDBEBEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Erdbeben.",
+          "english": "That is the earthquake."
+        }
+      ]
+    },
+    {
+      "id": 1435,
+      "german": "der Erde",
+      "english": "earth",
+      "gender": "masculine",
+      "pronunciation": "ERDE",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Erde.",
+          "english": "That is the earth."
+        }
+      ]
+    },
+    {
+      "id": 1436,
+      "german": "der Erde und Mond",
+      "english": "the earth and the moon",
+      "gender": "masculine",
+      "pronunciation": "ERDE UND MOND",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Erde und Mond.",
+          "english": "That is the the earth and the moon."
+        }
+      ]
+    },
+    {
+      "id": 1496,
+      "german": "der Ernst",
+      "english": "earnest",
+      "gender": "masculine",
+      "pronunciation": "ERNST",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Ernst.",
+          "english": "That is the earnest."
+        }
+      ]
+    },
+    {
+      "id": 1497,
+      "german": "ernsthaft",
+      "english": "earnest",
+      "gender": null,
+      "pronunciation": "ERNSTHAFT",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist ernsthaft.",
+          "english": "It is earnest."
+        }
+      ]
+    },
+    {
+      "id": 1700,
+      "german": "der Feuerwaffen",
+      "english": "firearms",
+      "gender": "masculine",
+      "pronunciation": "FOYERWAFFEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Feuerwaffen.",
+          "english": "That is the firearms."
+        }
+      ]
+    },
+    {
+      "id": 1711,
+      "german": "der Finger",
+      "english": "finger",
+      "gender": "masculine",
+      "pronunciation": "FINGER",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Finger.",
+          "english": "That is the finger."
+        }
+      ]
+    },
+    {
+      "id": 1712,
+      "german": "der Fingerabdruck",
+      "english": "finger-mark",
+      "gender": "masculine",
+      "pronunciation": "FINGERABDRUCK",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Fingerabdruck.",
+          "english": "That is the finger-mark."
+        }
+      ]
+    },
+    {
+      "id": 1713,
+      "german": "der Fingernagel",
+      "english": "finger-nail",
+      "gender": "masculine",
+      "pronunciation": "FINGERNAGEL",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Fingernagel.",
+          "english": "That is the finger-nail."
+        }
+      ]
+    },
+    {
+      "id": 1739,
+      "german": "fluchen",
+      "english": "swear (irr.)",
+      "gender": null,
+      "pronunciation": "FLUKHEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist fluchen.",
+          "english": "It is swear (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 1768,
+      "german": "forschen",
+      "english": "research",
+      "gender": null,
+      "pronunciation": "FORSKHEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist forschen.",
+          "english": "It is research."
+        }
+      ]
+    },
+    {
+      "id": 1770,
+      "german": "die Forschung",
+      "english": "research",
+      "gender": "feminine",
+      "pronunciation": "FORSKHUNG",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Forschung.",
+          "english": "That is the research."
+        }
+      ]
+    },
+    {
+      "id": 1835,
+      "german": "früh aufstehen",
+      "english": "get up early",
+      "gender": null,
+      "pronunciation": "FRUEH AUFSTEHEN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist früh aufstehen.",
+          "english": "It is get up early."
+        }
+      ]
+    },
+    {
+      "id": 1836,
+      "german": "der Frühaufsteher",
+      "english": "early riser",
+      "gender": "masculine",
+      "pronunciation": "FRUEHAUFSTEHER",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Frühaufsteher.",
+          "english": "That is the early riser."
+        }
+      ]
+    },
+    {
+      "id": 1871,
+      "german": "furchtbar",
+      "english": "fearful",
+      "gender": null,
+      "pronunciation": "FURKHTBAR",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist furchtbar.",
+          "english": "It is fearful."
+        }
+      ]
+    },
+    {
+      "id": 1872,
+      "german": "fürchten",
+      "english": "fear",
+      "gender": null,
+      "pronunciation": "FUERKHTEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist fürchten.",
+          "english": "It is fear."
+        }
+      ]
+    },
+    {
+      "id": 1873,
+      "german": "furchtlos",
+      "english": "fearless",
+      "gender": null,
+      "pronunciation": "FURKHTLOS",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist furchtlos.",
+          "english": "It is fearless."
+        }
+      ]
+    },
+    {
+      "id": 1876,
+      "german": "der Fuß",
+      "english": "foot (irr.)",
+      "gender": "masculine",
+      "pronunciation": "FUSS",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Fuß.",
+          "english": "That is the foot (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 1877,
+      "german": "der Fußabdruck",
+      "english": "footprint",
+      "gender": "masculine",
+      "pronunciation": "FUSSABDRUCK",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Fußabdruck.",
+          "english": "That is the footprint."
+        }
+      ]
+    },
+    {
+      "id": 1878,
+      "german": "der Fußball",
+      "english": "football",
+      "gender": "masculine",
+      "pronunciation": "FUSSBALL",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Fußball.",
+          "english": "That is the football."
+        }
+      ]
+    },
+    {
+      "id": 1879,
+      "german": "der Fußboden",
+      "english": "floor",
+      "gender": "masculine",
+      "pronunciation": "FUSSBODEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Fußboden.",
+          "english": "That is the floor."
+        }
+      ]
+    },
+    {
+      "id": 1881,
+      "german": "der Fußgänger",
+      "english": "pedestrian",
+      "gender": "masculine",
+      "pronunciation": "FUSSGAENGER",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Fußgänger.",
+          "english": "That is the pedestrian."
+        }
+      ]
+    },
+    {
+      "id": 1882,
+      "german": "der Fußgängerüberweg",
+      "english": "pedestrian crossing",
+      "gender": "masculine",
+      "pronunciation": "FUSSGAENGERUEBERWEG",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Fußgängerüberweg.",
+          "english": "That is the pedestrian crossing."
+        }
+      ]
+    },
+    {
+      "id": 1883,
+      "german": "der Fußnote",
+      "english": "footnote",
+      "gender": "masculine",
+      "pronunciation": "FUSSNOTE",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Fußnote.",
+          "english": "That is the footnote."
+        }
+      ]
+    },
+    {
+      "id": 1884,
+      "german": "der Fußspur",
+      "english": "track",
+      "gender": "masculine",
+      "pronunciation": "FUSSSPUR",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Fußspur.",
+          "english": "That is the track."
+        }
+      ]
+    },
+    {
+      "id": 1885,
+      "german": "der Fußweg",
+      "english": "footpath",
+      "gender": "masculine",
+      "pronunciation": "FUSSWEG",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Fußweg.",
+          "english": "That is the footpath."
+        }
+      ]
+    },
+    {
+      "id": 1930,
+      "german": "gebraucht",
+      "english": "second-hand",
+      "gender": null,
+      "pronunciation": "GEBRAUKHT",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist gebraucht.",
+          "english": "It is second-hand."
+        }
+      ]
+    },
+    {
+      "id": 1934,
+      "german": "der gebrochenen Herzens",
+      "english": "heartbroken",
+      "gender": "masculine",
+      "pronunciation": "GEBROKHENEN HERZENS",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der gebrochenen Herzens.",
+          "english": "That is the heartbroken."
+        }
+      ]
+    },
+    {
+      "id": 1990,
+      "german": "geh voran",
+      "english": "go ahead",
+      "gender": null,
+      "pronunciation": "GEH VORAN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist geh voran.",
+          "english": "It is go ahead."
+        }
+      ]
+    },
+    {
+      "id": 1993,
+      "german": "gehandelt mit",
+      "english": "dealt in",
+      "gender": null,
+      "pronunciation": "GEHANDELT MIT",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist gehandelt mit.",
+          "english": "It is dealt in."
+        }
+      ]
+    },
+    {
+      "id": 2004,
+      "german": "gehört",
+      "english": "heard",
+      "gender": null,
+      "pronunciation": "GEHOERT",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist gehört.",
+          "english": "It is heard."
+        }
+      ]
+    },
+    {
+      "id": 2025,
+      "german": "Geld verdienen",
+      "english": "earn",
+      "gender": null,
+      "pronunciation": "GELD VERDEENEN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Geld verdienen.",
+          "english": "It is earn."
+        }
+      ]
+    },
+    {
+      "id": 2031,
+      "german": "gelegen (Gebäude etc)",
+      "english": "situated",
+      "gender": null,
+      "pronunciation": "GELEGEN GEBOYDE ETC",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist gelegen (Gebäude etc).",
+          "english": "It is situated."
+        }
+      ]
+    },
+    {
+      "id": 2032,
+      "german": "gelegen (perf.)",
+      "english": "lain",
+      "gender": null,
+      "pronunciation": "GELEGEN PERF.",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist gelegen (perf.).",
+          "english": "It is lain."
+        }
+      ]
+    },
+    {
+      "id": 2033,
+      "german": "gelegen kommen",
+      "english": "suit",
+      "gender": null,
+      "pronunciation": "GELEGEN KOMMEN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist gelegen kommen.",
+          "english": "It is suit."
+        }
+      ]
+    },
+    {
+      "id": 2035,
+      "german": "gelegentlich",
+      "english": "occasionally",
+      "gender": null,
+      "pronunciation": "GELEGENTLIKH",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist gelegentlich.",
+          "english": "It is occasionally."
+        }
+      ]
+    },
+    {
+      "id": 2036,
+      "german": "gelegt",
+      "english": "laid",
+      "gender": null,
+      "pronunciation": "GELEGT",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist gelegt.",
+          "english": "It is laid."
+        }
+      ]
+    },
+    {
+      "id": 2038,
+      "german": "gelehrt (adj.)",
+      "english": "learned",
+      "gender": null,
+      "pronunciation": "GELEHRT ADJ.",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist gelehrt (adj.).",
+          "english": "It is learned."
+        }
+      ]
+    },
+    {
+      "id": 2041,
+      "german": "gelernt",
+      "english": "learnt",
+      "gender": null,
+      "pronunciation": "GELERNT",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist gelernt.",
+          "english": "It is learnt."
+        }
+      ]
+    },
+    {
+      "id": 2067,
+      "german": "gepflegt",
+      "english": "cultivated",
+      "gender": null,
+      "pronunciation": "GEPFLEGT",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist gepflegt.",
+          "english": "It is cultivated."
+        }
+      ]
+    },
+    {
+      "id": 2079,
+      "german": "der Gerichtskosten",
+      "english": "legal expenses",
+      "gender": "masculine",
+      "pronunciation": "GERIKHTSKOSTEN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Gerichtskosten.",
+          "english": "That is the legal expenses."
+        }
+      ]
+    },
+    {
+      "id": 2137,
+      "german": "der Gesicht",
+      "english": "face",
+      "gender": "masculine",
+      "pronunciation": "GESIKHT",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Gesicht.",
+          "english": "That is the face."
+        }
+      ]
+    },
+    {
+      "id": 2138,
+      "german": "der Gesichtspuder",
+      "english": "face-powder",
+      "gender": "masculine",
+      "pronunciation": "GESIKHTSPUDER",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Gesichtspuder.",
+          "english": "That is the face-powder."
+        }
+      ]
+    },
+    {
+      "id": 2233,
+      "german": "der Glied des Körpers",
+      "english": "limb",
+      "gender": "masculine",
+      "pronunciation": "GLEED DES KOERPERS",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Glied des Körpers.",
+          "english": "That is the limb."
+        }
+      ]
+    },
+    {
+      "id": 2282,
+      "german": "der Griff",
+      "english": "handle",
+      "gender": "masculine",
+      "pronunciation": "GRIFF",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Griff.",
+          "english": "That is the handle."
+        }
+      ]
+    },
+    {
+      "id": 2342,
+      "german": "der Haar",
+      "english": "hair",
+      "gender": "masculine",
+      "pronunciation": "HAAR",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Haar.",
+          "english": "That is the hair."
+        }
+      ]
+    },
+    {
+      "id": 2343,
+      "german": "der Haarbürste",
+      "english": "hair-brush",
+      "gender": "masculine",
+      "pronunciation": "HAARBUERSTE",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Haarbürste.",
+          "english": "That is the hair-brush."
+        }
+      ]
+    },
+    {
+      "id": 2344,
+      "german": "der Haarnetz",
+      "english": "hair-net",
+      "gender": "masculine",
+      "pronunciation": "HAARNETZ",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Haarnetz.",
+          "english": "That is the hair-net."
+        }
+      ]
+    },
+    {
+      "id": 2345,
+      "german": "der Haarschnitt",
+      "english": "haircut",
+      "gender": "masculine",
+      "pronunciation": "HAARSKHNITT",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Haarschnitt.",
+          "english": "That is the haircut."
+        }
+      ]
+    },
+    {
+      "id": 2370,
+      "german": "die Hand",
+      "english": "hand",
+      "gender": "feminine",
+      "pronunciation": "HAND",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist die Hand.",
+          "english": "That is the hand."
+        }
+      ]
+    },
+    {
+      "id": 2371,
+      "german": "der Handbuch",
+      "english": "handbook",
+      "gender": "masculine",
+      "pronunciation": "HANDBUKH",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Handbuch.",
+          "english": "That is the handbook."
+        }
+      ]
+    },
+    {
+      "id": 2372,
+      "german": "der Händedruck",
+      "english": "handshake",
+      "gender": "masculine",
+      "pronunciation": "HAENDEDRUCK",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Händedruck.",
+          "english": "That is the handshake."
+        }
+      ]
+    },
+    {
+      "id": 2373,
+      "german": "der Handel",
+      "english": "trade",
+      "gender": "masculine",
+      "pronunciation": "HANDEL",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Handel.",
+          "english": "That is the trade."
+        }
+      ]
+    },
+    {
+      "id": 2374,
+      "german": "handeln",
+      "english": "bargain",
+      "gender": null,
+      "pronunciation": "HANDELN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist handeln.",
+          "english": "It is bargain."
+        }
+      ]
+    },
+    {
+      "id": 2375,
+      "german": "handeln mit",
+      "english": "deal in (irr.)",
+      "gender": null,
+      "pronunciation": "HANDELN MIT",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist handeln mit.",
+          "english": "It is deal in (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 2376,
+      "german": "handelte mit",
+      "english": "dealt in",
+      "gender": null,
+      "pronunciation": "HANDELTE MIT",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist handelte mit.",
+          "english": "It is dealt in."
+        }
+      ]
+    },
+    {
+      "id": 2377,
+      "german": "der Handgelenk",
+      "english": "wrist",
+      "gender": "masculine",
+      "pronunciation": "HANDGELENK",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Handgelenk.",
+          "english": "That is the wrist."
+        }
+      ]
+    },
+    {
+      "id": 2378,
+      "german": "der Handkoffer",
+      "english": "suitcase",
+      "gender": "masculine",
+      "pronunciation": "HANDKOFFER",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Handkoffer.",
+          "english": "That is the suitcase."
+        }
+      ]
+    },
+    {
+      "id": 2380,
+      "german": "handlich",
+      "english": "handy",
+      "gender": null,
+      "pronunciation": "HANDLIKH",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist handlich.",
+          "english": "It is handy."
+        }
+      ]
+    },
+    {
+      "id": 2381,
+      "german": "die Handlung",
+      "english": "action",
+      "gender": "feminine",
+      "pronunciation": "HANDLUNG",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Handlung.",
+          "english": "That is the action."
+        }
+      ]
+    },
+    {
+      "id": 2382,
+      "german": "der Handschrift",
+      "english": "handwriting",
+      "gender": "masculine",
+      "pronunciation": "HANDSKHRIFT",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Handschrift.",
+          "english": "That is the handwriting."
+        }
+      ]
+    },
+    {
+      "id": 2383,
+      "german": "der Handschuh",
+      "english": "glove",
+      "gender": "masculine",
+      "pronunciation": "HANDSKHUH",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Handschuh.",
+          "english": "That is the glove."
+        }
+      ]
+    },
+    {
+      "id": 2384,
+      "german": "der Handtasche",
+      "english": "bag",
+      "gender": "masculine",
+      "pronunciation": "HANDTASKHE",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Handtasche.",
+          "english": "That is the bag."
+        }
+      ]
+    },
+    {
+      "id": 2385,
+      "german": "der Handtuch",
+      "english": "towel",
+      "gender": "masculine",
+      "pronunciation": "HANDTUKH",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Handtuch.",
+          "english": "That is the towel."
+        }
+      ]
+    },
+    {
+      "id": 2386,
+      "german": "der Handzettel",
+      "english": "leaflet",
+      "gender": "masculine",
+      "pronunciation": "HANDZETTEL",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Handzettel.",
+          "english": "That is the leaflet."
+        }
+      ]
+    },
+    {
+      "id": 2390,
+      "german": "harmlos",
+      "english": "harmless",
+      "gender": null,
+      "pronunciation": "HARMLOS",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist harmlos.",
+          "english": "It is harmless."
+        }
+      ]
+    },
+    {
+      "id": 2428,
+      "german": "der Heer",
+      "english": "army",
+      "gender": "masculine",
+      "pronunciation": "HEER",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Heer.",
+          "english": "That is the army."
+        }
+      ]
+    },
+    {
+      "id": 2448,
+      "german": "der Henkel",
+      "english": "handle",
+      "gender": "masculine",
+      "pronunciation": "HENKEL",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Henkel.",
+          "english": "That is the handle."
+        }
+      ]
+    },
+    {
+      "id": 2483,
+      "german": "der Herz",
+      "english": "heart",
+      "gender": "masculine",
+      "pronunciation": "HERZ",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Herz.",
+          "english": "That is the heart."
+        }
+      ]
+    },
+    {
+      "id": 2484,
+      "german": "herzlich",
+      "english": "hearty",
+      "gender": null,
+      "pronunciation": "HERZLIKH",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist herzlich.",
+          "english": "It is hearty."
+        }
+      ]
+    },
+    {
+      "id": 2485,
+      "german": "herzlos",
+      "english": "heartless",
+      "gender": null,
+      "pronunciation": "HERZLOS",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist herzlos.",
+          "english": "It is heartless."
+        }
+      ]
+    },
+    {
+      "id": 2486,
+      "german": "der Herzschlag",
+      "english": "heartbeat",
+      "gender": "masculine",
+      "pronunciation": "HERZSKHLAG",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Herzschlag.",
+          "english": "That is the heartbeat."
+        }
+      ]
+    },
+    {
+      "id": 2524,
+      "german": "der Hitzkopf",
+      "english": "hot-head",
+      "gender": "masculine",
+      "pronunciation": "HITZKOPF",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Hitzkopf.",
+          "english": "That is the hot-head."
+        }
+      ]
+    },
+    {
+      "id": 2532,
+      "german": "der Hochschule",
+      "english": "college",
+      "gender": "masculine",
+      "pronunciation": "HOKHSKHULE",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Hochschule.",
+          "english": "That is the college."
+        }
+      ]
+    },
+    {
+      "id": 2554,
+      "german": "hören",
+      "english": "hear (irr.)",
+      "gender": null,
+      "pronunciation": "HOEREN",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist hören.",
+          "english": "It is hear (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 2559,
+      "german": "hörte",
+      "english": "heard",
+      "gender": null,
+      "pronunciation": "HOERTE",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist hörte.",
+          "english": "It is heard."
+        }
+      ]
+    },
+    {
+      "id": 2611,
+      "german": "der im Ernst",
+      "english": "in earnest",
+      "gender": "masculine",
+      "pronunciation": "IM ERNST",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der im Ernst.",
+          "english": "That is the in earnest."
+        }
+      ]
+    },
+    {
+      "id": 2640,
+      "german": "in der Nähe von",
+      "english": "near",
+      "gender": null,
+      "pronunciation": "IN NAEHE VON",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist in Nähe von.",
+          "english": "It is near."
+        }
+      ]
+    },
+    {
+      "id": 2755,
+      "german": "das Jahr",
+      "english": "year",
+      "gender": "neuter",
+      "pronunciation": "JAHR",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist das Jahr.",
+          "english": "That is the year."
+        }
+      ]
+    },
+    {
+      "id": 2758,
+      "german": "jährlich",
+      "english": "yearly",
+      "gender": null,
+      "pronunciation": "JAEHRLIKH",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist jährlich.",
+          "english": "It is yearly."
+        }
+      ]
+    },
+    {
+      "id": 2879,
+      "german": "klären",
+      "english": "clear",
+      "gender": null,
+      "pronunciation": "KLAEREN",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist klären.",
+          "english": "It is clear."
+        }
+      ]
+    },
+    {
+      "id": 2880,
+      "german": "der klarer Himmel",
+      "english": "clear sky",
+      "gender": "masculine",
+      "pronunciation": "KLARER HIMMEL",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der klarer Himmel.",
+          "english": "That is the clear sky."
+        }
+      ]
+    },
+    {
+      "id": 2924,
+      "german": "komm auf die Erde zurück",
+      "english": "come down to earth",
+      "gender": null,
+      "pronunciation": "KOMM AUF ERDE ZURUECK",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist komm auf Erde zurück.",
+          "english": "It is come down to earth."
+        }
+      ]
+    },
+    {
+      "id": 2964,
+      "german": "der Kopf",
+      "english": "head",
+      "gender": "masculine",
+      "pronunciation": "KOPF",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Kopf.",
+          "english": "That is the head."
+        }
+      ]
+    },
+    {
+      "id": 2965,
+      "german": "der Kopfkissen",
+      "english": "pillow",
+      "gender": "masculine",
+      "pronunciation": "KOPFKISSEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Kopfkissen.",
+          "english": "That is the pillow."
+        }
+      ]
+    },
+    {
+      "id": 2966,
+      "german": "der Kopfsalat",
+      "english": "lettuce",
+      "gender": "masculine",
+      "pronunciation": "KOPFSALAT",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Kopfsalat.",
+          "english": "That is the lettuce."
+        }
+      ]
+    },
+    {
+      "id": 2967,
+      "german": "der Kopfschmerzen",
+      "english": "headache",
+      "gender": "masculine",
+      "pronunciation": "KOPFSKHMERZEN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Kopfschmerzen.",
+          "english": "That is the headache."
+        }
+      ]
+    },
+    {
+      "id": 2968,
+      "german": "der Kopfweh",
+      "english": "headache",
+      "gender": "masculine",
+      "pronunciation": "KOPFWEH",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Kopfweh.",
+          "english": "That is the headache."
+        }
+      ]
+    },
+    {
+      "id": 2976,
+      "german": "der Körper",
+      "english": "body",
+      "gender": "masculine",
+      "pronunciation": "KOERPER",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Körper.",
+          "english": "That is the body."
+        }
+      ]
+    },
+    {
+      "id": 2977,
+      "german": "körperlich",
+      "english": "physical",
+      "gender": null,
+      "pronunciation": "KOERPERLIKH",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist körperlich.",
+          "english": "It is physical."
+        }
+      ]
+    },
+    {
+      "id": 2978,
+      "german": "der körperlicher Schaden",
+      "english": "harm",
+      "gender": "masculine",
+      "pronunciation": "KOERPERLIKHER SKHADEN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der körperlicher Schaden.",
+          "english": "That is the harm."
+        }
+      ]
+    },
+    {
+      "id": 3108,
+      "german": "legen",
+      "english": "put (irr.)",
+      "gender": null,
+      "pronunciation": "LEGEN",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist legen.",
+          "english": "It is put (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 3109,
+      "german": "legte",
+      "english": "laid",
+      "gender": null,
+      "pronunciation": "LEGTE",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist legte.",
+          "english": "It is laid."
+        }
+      ]
+    },
+    {
+      "id": 3140,
+      "german": "lernen",
+      "english": "learn (irr.)",
+      "gender": null,
+      "pronunciation": "LERNEN",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist lernen.",
+          "english": "It is learn (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 3141,
+      "german": "lernte",
+      "english": "learnt",
+      "gender": null,
+      "pronunciation": "LERNTE",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist lernte.",
+          "english": "It is learnt."
+        }
+      ]
+    },
+    {
+      "id": 3157,
+      "german": "lieb",
+      "english": "dear",
+      "gender": null,
+      "pronunciation": "LEEB",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist lieb.",
+          "english": "It is dear."
+        }
+      ]
+    },
+    {
+      "id": 3159,
+      "german": "die Liebe Mutter",
+      "english": "dear mother",
+      "gender": "feminine",
+      "pronunciation": "LEEBE MUTTER",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Liebe Mutter.",
+          "english": "That is the dear mother."
+        }
+      ]
+    },
+    {
+      "id": 3177,
+      "german": "linkshändig",
+      "english": "left-handed",
+      "gender": null,
+      "pronunciation": "LINKSHAENDIG",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist linkshändig.",
+          "english": "It is left-handed."
+        }
+      ]
+    },
+    {
+      "id": 3247,
+      "german": "der Marmelade",
+      "english": "jam",
+      "gender": "masculine",
+      "pronunciation": "MARMELADE",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Marmelade.",
+          "english": "That is the jam."
+        }
+      ]
+    },
+    {
+      "id": 3398,
+      "german": "der Modeartikel",
+      "english": "fancy articles",
+      "gender": "masculine",
+      "pronunciation": "MODEARTIKEL",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Modeartikel.",
+          "english": "That is the fancy articles."
+        }
+      ]
+    },
+    {
+      "id": 3427,
+      "german": "der Mund",
+      "english": "mouth",
+      "gender": "masculine",
+      "pronunciation": "MUND",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Mund.",
+          "english": "That is the mouth."
+        }
+      ]
+    },
+    {
+      "id": 3428,
+      "german": "der Mundstück",
+      "english": "mouthpiece",
+      "gender": "masculine",
+      "pronunciation": "MUNDSTUECK",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Mundstück.",
+          "english": "That is the mouthpiece."
+        }
+      ]
+    },
+    {
+      "id": 3486,
+      "german": "nahe",
+      "english": "near",
+      "gender": null,
+      "pronunciation": "NAHE",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist nahe.",
+          "english": "It is near."
+        }
+      ]
+    },
+    {
+      "id": 3500,
+      "german": "der Nase",
+      "english": "nose",
+      "gender": "masculine",
+      "pronunciation": "NASE",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Nase.",
+          "english": "That is the nose."
+        }
+      ]
+    },
+    {
+      "id": 3529,
+      "german": "der Neujahr",
+      "english": "New Year",
+      "gender": "masculine",
+      "pronunciation": "NOYJAHR",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Neujahr.",
+          "english": "That is the New Year."
+        }
+      ]
+    },
+    {
+      "id": 3530,
+      "german": "der Neujahrstag",
+      "english": "New Year's day",
+      "gender": "masculine",
+      "pronunciation": "NOYJAHRSTAG",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Neujahrstag.",
+          "english": "That is the New Year's day."
+        }
+      ]
+    },
+    {
+      "id": 3633,
+      "german": "das Ohr",
+      "english": "ear",
+      "gender": "neuter",
+      "pronunciation": "OHR",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist das Ohr.",
+          "english": "That is the ear."
+        }
+      ]
+    },
+    {
+      "id": 3634,
+      "german": "ohrenbetäubend",
+      "english": "deafening",
+      "gender": null,
+      "pronunciation": "OHRENBETOYBEND",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist ohrenbetäubend.",
+          "english": "It is deafening."
+        }
+      ]
+    },
+    {
+      "id": 3635,
+      "german": "der Ohrring",
+      "english": "ear-ring",
+      "gender": "masculine",
+      "pronunciation": "OHRRING",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Ohrring.",
+          "english": "That is the ear-ring."
+        }
+      ]
+    },
+    {
+      "id": 3696,
+      "german": "der Perle",
+      "english": "pearl",
+      "gender": "masculine",
+      "pronunciation": "PERLE",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Perle.",
+          "english": "That is the pearl."
+        }
+      ]
+    },
+    {
+      "id": 3711,
+      "german": "pflegen",
+      "english": "cultivate",
+      "gender": null,
+      "pronunciation": "PFLEGEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist pflegen.",
+          "english": "It is cultivate."
+        }
+      ]
+    },
+    {
+      "id": 3712,
+      "german": "pflegte zu (tun)",
+      "english": "used to (do)",
+      "gender": null,
+      "pronunciation": "PFLEGTE ZU TUN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist pflegte zu (tun).",
+          "english": "It is used to (do)."
+        }
+      ]
+    },
+    {
+      "id": 3882,
+      "german": "der Regenwurm",
+      "english": "earthworm",
+      "gender": "masculine",
+      "pronunciation": "REGENWURM",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Regenwurm.",
+          "english": "That is the earthworm."
+        }
+      ]
+    },
+    {
+      "id": 3958,
+      "german": "der Rohr",
+      "english": "tube",
+      "gender": "masculine",
+      "pronunciation": "ROHR",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Rohr.",
+          "english": "That is the tube."
+        }
+      ]
+    },
+    {
+      "id": 3971,
+      "german": "der Rücken",
+      "english": "back",
+      "gender": "masculine",
+      "pronunciation": "RUECKEN",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Rücken.",
+          "english": "That is the back."
+        }
+      ]
+    },
+    {
+      "id": 4041,
+      "german": "saugen",
+      "english": "suck",
+      "gender": null,
+      "pronunciation": "SAUGEN",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist saugen.",
+          "english": "It is suck."
+        }
+      ]
+    },
+    {
+      "id": 4045,
+      "german": "der Schaden",
+      "english": "harm",
+      "gender": "masculine",
+      "pronunciation": "SKHADEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schaden.",
+          "english": "That is the harm."
+        }
+      ]
+    },
+    {
+      "id": 4046,
+      "german": "schädlich",
+      "english": "harmful",
+      "gender": null,
+      "pronunciation": "SKHAEDLIKH",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist schädlich.",
+          "english": "It is harmful."
+        }
+      ]
+    },
+    {
+      "id": 4056,
+      "german": "der Schande",
+      "english": "shame",
+      "gender": "masculine",
+      "pronunciation": "SKHANDE",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schande.",
+          "english": "That is the shame."
+        }
+      ]
+    },
+    {
+      "id": 4073,
+      "german": "der schau ihm ins Gesicht",
+      "english": "look him in the face",
+      "gender": "masculine",
+      "pronunciation": "SKHAU IHM INS GESIKHT",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der schau ihm ins Gesicht.",
+          "english": "That is the look him in the face."
+        }
+      ]
+    },
+    {
+      "id": 4074,
+      "german": "schau voraus",
+      "english": "look ahead",
+      "gender": null,
+      "pronunciation": "SKHAU VORAUS",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist schau voraus.",
+          "english": "It is look ahead."
+        }
+      ]
+    },
+    {
+      "id": 4090,
+      "german": "der Scherz",
+      "english": "joke",
+      "gender": "masculine",
+      "pronunciation": "SKHERZ",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Scherz.",
+          "english": "That is the joke."
+        }
+      ]
+    },
+    {
+      "id": 4091,
+      "german": "scherzen",
+      "english": "joke",
+      "gender": null,
+      "pronunciation": "SKHERZEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist scherzen.",
+          "english": "It is joke."
+        }
+      ]
+    },
+    {
+      "id": 4231,
+      "german": "der Schusswaffen",
+      "english": "fire arms",
+      "gender": "masculine",
+      "pronunciation": "SKHUSSWAFFEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schusswaffen.",
+          "english": "That is the fire arms."
+        }
+      ]
+    },
+    {
+      "id": 4273,
+      "german": "schwören",
+      "english": "swear (irr.)",
+      "gender": null,
+      "pronunciation": "SKHWOEREN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist schwören.",
+          "english": "It is swear (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 4289,
+      "german": "der sehr geehrter Herr",
+      "english": "Dear Sir",
+      "gender": "masculine",
+      "pronunciation": "SEHR GEEHRTER HERR",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der sehr geehrter Herr.",
+          "english": "That is the Dear Sir."
+        }
+      ]
+    },
+    {
+      "id": 4333,
+      "german": "der Sessel",
+      "english": "armchair",
+      "gender": "masculine",
+      "pronunciation": "SESSEL",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Sessel.",
+          "english": "That is the armchair."
+        }
+      ]
+    },
+    {
+      "id": 4340,
+      "german": "sich abnutzen",
+      "english": "wear off",
+      "gender": null,
+      "pronunciation": "SIKH ABNUTZEN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist sich abnutzen.",
+          "english": "It is wear off."
+        }
+      ]
+    },
+    {
+      "id": 4463,
+      "german": "der Sodbrennen",
+      "english": "heartburn",
+      "gender": "masculine",
+      "pronunciation": "SODBRENNEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Sodbrennen.",
+          "english": "That is the heartburn."
+        }
+      ]
+    },
+    {
+      "id": 4622,
+      "german": "der Stirn",
+      "english": "forehead",
+      "gender": "masculine",
+      "pronunciation": "STIRN",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Stirn.",
+          "english": "That is the forehead."
+        }
+      ]
+    },
+    {
+      "id": 4686,
+      "german": "der Suche",
+      "english": "search",
+      "gender": "masculine",
+      "pronunciation": "SUKHE",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Suche.",
+          "english": "That is the search."
+        }
+      ]
+    },
+    {
+      "id": 4688,
+      "german": "suchen (nach)",
+      "english": "search for",
+      "gender": null,
+      "pronunciation": "SUKHEN NAKH",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist suchen (nach).",
+          "english": "It is search for."
+        }
+      ]
+    },
+    {
+      "id": 4689,
+      "german": "suchend",
+      "english": "searching",
+      "gender": null,
+      "pronunciation": "SUKHEND",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist suchend.",
+          "english": "It is searching."
+        }
+      ]
+    },
+    {
+      "id": 4731,
+      "german": "der Taschentuch",
+      "english": "handkerchief",
+      "gender": "masculine",
+      "pronunciation": "TASKHENTUKH",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Taschentuch.",
+          "english": "That is the handkerchief."
+        }
+      ]
+    },
+    {
+      "id": 4767,
+      "german": "telegrafieren",
+      "english": "telegraph",
+      "gender": null,
+      "pronunciation": "TELEGRAFEEREN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist telegrafieren.",
+          "english": "It is telegraph."
+        }
+      ]
+    },
+    {
+      "id": 4768,
+      "german": "der Telegramm",
+      "english": "telegram",
+      "gender": "masculine",
+      "pronunciation": "TELEGRAMM",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Telegramm.",
+          "english": "That is the telegram."
+        }
+      ]
+    },
+    {
+      "id": 4769,
+      "german": "der Telegramm(US)",
+      "english": "wire",
+      "gender": "masculine",
+      "pronunciation": "TELEGRAMMUS",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Telegramm(US).",
+          "english": "That is the wire."
+        }
+      ]
+    },
+    {
+      "id": 4823,
+      "german": "tragen",
+      "english": "wear (irr.)",
+      "gender": null,
+      "pronunciation": "TRAGEN",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist tragen.",
+          "english": "It is wear (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 4909,
+      "german": "überlege gut ehe du wählst",
+      "english": "consider well before you choose",
+      "gender": null,
+      "pronunciation": "UEBERLEGE GUT EHE DU WAEHLST",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist überlege gut ehe du wählst.",
+          "english": "It is consider well before you choose."
+        }
+      ]
+    },
+    {
+      "id": 4910,
+      "german": "überlegen",
+      "english": "consider",
+      "gender": null,
+      "pronunciation": "UEBERLEGEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist überlegen.",
+          "english": "It is consider."
+        }
+      ]
+    },
+    {
+      "id": 4911,
+      "german": "die Überlegung",
+      "english": "thought",
+      "gender": "feminine",
+      "pronunciation": "UEBERLEGUNG",
+      "category": "body",
+      "difficulty": "B2",
+      "examples": [
+        {
+          "german": "Das ist die Überlegung.",
+          "english": "That is the thought."
+        }
+      ]
+    },
+    {
+      "id": 4957,
+      "german": "umgehen mit",
+      "english": "handle",
+      "gender": null,
+      "pronunciation": "UMGEHEN MIT",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist umgehen mit.",
+          "english": "It is handle."
+        }
+      ]
+    },
+    {
+      "id": 4983,
+      "german": "unbewaffnet",
+      "english": "unarmed",
+      "gender": null,
+      "pronunciation": "UNBEWAFFNET",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist unbewaffnet.",
+          "english": "It is unarmed."
+        }
+      ]
+    },
+    {
+      "id": 5124,
+      "german": "der Verdienst",
+      "english": "earnings",
+      "gender": "masculine",
+      "pronunciation": "VERDEENST",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Verdienst.",
+          "english": "That is the earnings."
+        }
+      ]
+    },
+    {
+      "id": 5216,
+      "german": "die Verpflegung",
+      "english": "board",
+      "gender": "feminine",
+      "pronunciation": "VERPFLEGUNG",
+      "category": "body",
+      "difficulty": "B2",
+      "examples": [
+        {
+          "german": "Das ist die Verpflegung.",
+          "english": "That is the board."
+        }
+      ]
+    },
+    {
+      "id": 5237,
+      "german": "verschwinden",
+      "english": "disappear",
+      "gender": null,
+      "pronunciation": "VERSKHWINDEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist verschwinden.",
+          "english": "It is disappear."
+        }
+      ]
+    },
+    {
+      "id": 5238,
+      "german": "der Verschwinden",
+      "english": "disappearance",
+      "gender": "masculine",
+      "pronunciation": "VERSKHWINDEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Verschwinden.",
+          "english": "That is the disappearance."
+        }
+      ]
+    },
+    {
+      "id": 5362,
+      "german": "der von Shakespeare",
+      "english": "by Shakespeare",
+      "gender": "masculine",
+      "pronunciation": "VON SHAKESPEARE",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der von Shakespeare.",
+          "english": "That is the by Shakespeare."
+        }
+      ]
+    },
+    {
+      "id": 5372,
+      "german": "voran gehen",
+      "english": "go ahead",
+      "gender": null,
+      "pronunciation": "VORAN GEHEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist voran gehen.",
+          "english": "It is go ahead."
+        }
+      ]
+    },
+    {
+      "id": 5373,
+      "german": "voraus",
+      "english": "ahead",
+      "gender": null,
+      "pronunciation": "VORAUS",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist voraus.",
+          "english": "It is ahead."
+        }
+      ]
+    },
+    {
+      "id": 5384,
+      "german": "der Vorleger",
+      "english": "rug",
+      "gender": "masculine",
+      "pronunciation": "VORLEGER",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Vorleger.",
+          "english": "That is the rug."
+        }
+      ]
+    },
+    {
+      "id": 5423,
+      "german": "der Waffen",
+      "english": "arms",
+      "gender": "masculine",
+      "pronunciation": "WAFFEN",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Waffen.",
+          "english": "That is the arms."
+        }
+      ]
+    },
+    {
+      "id": 5458,
+      "german": "warm",
+      "english": "warm",
+      "gender": null,
+      "pronunciation": "WARM",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist warm.",
+          "english": "It is warm."
+        }
+      ]
+    },
+    {
+      "id": 5459,
+      "german": "der Wärme",
+      "english": "warmth",
+      "gender": "masculine",
+      "pronunciation": "WAERME",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Wärme.",
+          "english": "That is the warmth."
+        }
+      ]
+    },
+    {
+      "id": 5460,
+      "german": "wärmen",
+      "english": "warm",
+      "gender": null,
+      "pronunciation": "WAERMEN",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist wärmen.",
+          "english": "It is warm."
+        }
+      ]
+    },
+    {
+      "id": 5482,
+      "german": "der Waschen und Legen",
+      "english": "shampoo and set",
+      "gender": "masculine",
+      "pronunciation": "WASKHEN UND LEGEN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Waschen und Legen.",
+          "english": "That is the shampoo and set."
+        }
+      ]
+    },
+    {
+      "id": 5495,
+      "german": "der Wecker",
+      "english": "alarm clock",
+      "gender": "masculine",
+      "pronunciation": "WECKER",
+      "category": "body",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Wecker.",
+          "english": "That is the alarm clock."
+        }
+      ]
+    },
+    {
+      "id": 5623,
+      "german": "der Wimpern",
+      "english": "eyelash",
+      "gender": "masculine",
+      "pronunciation": "WIMPERN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Wimpern.",
+          "english": "That is the eyelash."
+        }
+      ]
+    },
+    {
+      "id": 5709,
+      "german": "der Zahn",
+      "english": "tooth (irr.)",
+      "gender": "masculine",
+      "pronunciation": "ZAHN",
+      "category": "body",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Zahn.",
+          "english": "That is the tooth (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 5710,
+      "german": "der Zahnarzt",
+      "english": "dentist",
+      "gender": "masculine",
+      "pronunciation": "ZAHNARZT",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Zahnarzt.",
+          "english": "That is the dentist."
+        }
+      ]
+    },
+    {
+      "id": 5711,
+      "german": "der Zahnbürste",
+      "english": "toothbrush",
+      "gender": "masculine",
+      "pronunciation": "ZAHNBUERSTE",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Zahnbürste.",
+          "english": "That is the toothbrush."
+        }
+      ]
+    },
+    {
+      "id": 5713,
+      "german": "der Zahnpasta",
+      "english": "toothpaste",
+      "gender": "masculine",
+      "pronunciation": "ZAHNPASTA",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Zahnpasta.",
+          "english": "That is the toothpaste."
+        }
+      ]
+    },
+    {
+      "id": 5714,
+      "german": "der Zahnschmerzen",
+      "english": "toothache",
+      "gender": "masculine",
+      "pronunciation": "ZAHNSKHMERZEN",
+      "category": "body",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Zahnschmerzen.",
+          "english": "That is the toothache."
+        }
+      ]
+    },
+    {
+      "id": 5715,
+      "german": "der Zahnweh",
+      "english": "toothache",
+      "gender": "masculine",
+      "pronunciation": "ZAHNWEH",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Zahnweh.",
+          "english": "That is the toothache."
+        }
+      ]
+    },
+    {
+      "id": 5790,
+      "german": "zu Fuß gehen",
+      "english": "walk",
+      "gender": null,
+      "pronunciation": "ZU FUSS GEHEN",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist zu Fuß gehen.",
+          "english": "It is walk."
+        }
+      ]
+    },
+    {
+      "id": 5827,
+      "german": "die zur Hand",
+      "english": "at hand",
+      "gender": "feminine",
+      "pronunciation": "ZUR HAND",
+      "category": "body",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die zur Hand.",
+          "english": "That is the at hand."
+        }
+      ]
+    }
+  ]
+}

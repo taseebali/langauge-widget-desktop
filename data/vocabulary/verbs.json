@@ -1,0 +1,304 @@
+{
+  "words": [
+    {
+      "id": 501,
+      "german": "gehen",
+      "english": "to go/walk",
+      "gender": null,
+      "pronunciation": "GAY-en",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich gehe zur Schule.", "english": "I go to school."}
+      ]
+    },
+    {
+      "id": 502,
+      "german": "sein",
+      "english": "to be",
+      "gender": null,
+      "pronunciation": "ZAYN",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich bin müde.", "english": "I am tired."}
+      ]
+    },
+    {
+      "id": 503,
+      "german": "haben",
+      "english": "to have",
+      "gender": null,
+      "pronunciation": "HAH-ben",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich habe einen Hund.", "english": "I have a dog."}
+      ]
+    },
+    {
+      "id": 504,
+      "german": "machen",
+      "english": "to do/make",
+      "gender": null,
+      "pronunciation": "MAH-khen",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Was machst du?", "english": "What are you doing?"}
+      ]
+    },
+    {
+      "id": 505,
+      "german": "sagen",
+      "english": "to say",
+      "gender": null,
+      "pronunciation": "ZAH-gen",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Was sagst du?", "english": "What do you say?"}
+      ]
+    },
+    {
+      "id": 506,
+      "german": "kommen",
+      "english": "to come",
+      "gender": null,
+      "pronunciation": "KOH-men",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich komme später.", "english": "I'm coming later."}
+      ]
+    },
+    {
+      "id": 507,
+      "german": "wollen",
+      "english": "to want",
+      "gender": null,
+      "pronunciation": "VOH-len",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich will schlafen.", "english": "I want to sleep."}
+      ]
+    },
+    {
+      "id": 508,
+      "german": "können",
+      "english": "can/to be able to",
+      "gender": null,
+      "pronunciation": "KÖ-nen",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich kann schwimmen.", "english": "I can swim."}
+      ]
+    },
+    {
+      "id": 509,
+      "german": "müssen",
+      "english": "must/to have to",
+      "gender": null,
+      "pronunciation": "MÜ-sen",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich muss arbeiten.", "english": "I have to work."}
+      ]
+    },
+    {
+      "id": 510,
+      "german": "sehen",
+      "english": "to see",
+      "gender": null,
+      "pronunciation": "ZAY-en",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich sehe das Auto.", "english": "I see the car."}
+      ]
+    },
+    {
+      "id": 511,
+      "german": "geben",
+      "english": "to give",
+      "gender": null,
+      "pronunciation": "GAY-ben",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Gib mir das Buch!", "english": "Give me the book!"}
+      ]
+    },
+    {
+      "id": 512,
+      "german": "finden",
+      "english": "to find",
+      "gender": null,
+      "pronunciation": "FIN-den",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich finde es nicht.", "english": "I can't find it."}
+      ]
+    },
+    {
+      "id": 513,
+      "german": "nehmen",
+      "english": "to take",
+      "gender": null,
+      "pronunciation": "NAY-men",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Nimm den Bus!", "english": "Take the bus!"}
+      ]
+    },
+    {
+      "id": 514,
+      "german": "bleiben",
+      "english": "to stay/remain",
+      "gender": null,
+      "pronunciation": "BLY-ben",
+      "category": "verbs",
+      "difficulty": "A2",
+      "examples": [
+        {"german": "Ich bleibe zu Hause.", "english": "I'm staying home."}
+      ]
+    },
+    {
+      "id": 515,
+      "german": "essen",
+      "english": "to eat",
+      "gender": null,
+      "pronunciation": "ES-sen",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich esse Pizza.", "english": "I eat pizza."}
+      ]
+    },
+    {
+      "id": 516,
+      "german": "trinken",
+      "english": "to drink",
+      "gender": null,
+      "pronunciation": "TRIN-ken",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich trinke Wasser.", "english": "I drink water."}
+      ]
+    },
+    {
+      "id": 517,
+      "german": "schlafen",
+      "english": "to sleep",
+      "gender": null,
+      "pronunciation": "SHLAH-fen",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich schlafe gut.", "english": "I sleep well."}
+      ]
+    },
+    {
+      "id": 518,
+      "german": "arbeiten",
+      "english": "to work",
+      "gender": null,
+      "pronunciation": "AR-bay-ten",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich arbeite hier.", "english": "I work here."}
+      ]
+    },
+    {
+      "id": 519,
+      "german": "lernen",
+      "english": "to learn",
+      "gender": null,
+      "pronunciation": "LEHR-nen",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich lerne Deutsch.", "english": "I'm learning German."}
+      ]
+    },
+    {
+      "id": 520,
+      "german": "sprechen",
+      "english": "to speak",
+      "gender": null,
+      "pronunciation": "SHPRE-khen",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich spreche Englisch.", "english": "I speak English."}
+      ]
+    },
+    {
+      "id": 521,
+      "german": "schreiben",
+      "english": "to write",
+      "gender": null,
+      "pronunciation": "SHRY-ben",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich schreibe einen Brief.", "english": "I'm writing a letter."}
+      ]
+    },
+    {
+      "id": 522,
+      "german": "lesen",
+      "english": "to read",
+      "gender": null,
+      "pronunciation": "LAY-zen",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich lese ein Buch.", "english": "I'm reading a book."}
+      ]
+    },
+    {
+      "id": 523,
+      "german": "fahren",
+      "english": "to drive/travel",
+      "gender": null,
+      "pronunciation": "FAH-ren",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich fahre nach Berlin.", "english": "I'm going to Berlin."}
+      ]
+    },
+    {
+      "id": 524,
+      "german": "kaufen",
+      "english": "to buy",
+      "gender": null,
+      "pronunciation": "KOW-fen",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich kaufe Brot.", "english": "I'm buying bread."}
+      ]
+    },
+    {
+      "id": 525,
+      "german": "verstehen",
+      "english": "to understand",
+      "gender": null,
+      "pronunciation": "fer-SHTAY-en",
+      "category": "verbs",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich verstehe dich nicht.", "english": "I don't understand you."}
+      ]
+    }
+  ]
+}

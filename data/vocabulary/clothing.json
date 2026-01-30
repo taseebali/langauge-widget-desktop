@@ -1,0 +1,890 @@
+{
+  "category": "clothing",
+  "words": [
+    {
+      "id": 29,
+      "german": "abnehmen (Hut)",
+      "english": "take off",
+      "gender": null,
+      "pronunciation": "ABNEHMEN HUT",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist abnehmen (Hut).",
+          "english": "It is take off."
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "german": "der Adresse",
+      "english": "address",
+      "gender": "masculine",
+      "pronunciation": "ADRESSE",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Adresse.",
+          "english": "That is the address."
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "german": "angezogen",
+      "english": "dressed",
+      "gender": null,
+      "pronunciation": "ANGEZOGEN",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist angezogen.",
+          "english": "It is dressed."
+        }
+      ]
+    },
+    {
+      "id": 876,
+      "german": "dass",
+      "english": "that",
+      "gender": null,
+      "pronunciation": "DASS",
+      "category": "clothing",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist dass.",
+          "english": "It is that."
+        }
+      ]
+    },
+    {
+      "id": 883,
+      "german": "das genügt",
+      "english": "that will do",
+      "gender": "neuter",
+      "pronunciation": "GENUEGT",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist das genügt.",
+          "english": "That is the that will do."
+        }
+      ]
+    },
+    {
+      "id": 890,
+      "german": "das Wetter hat sich geändert",
+      "english": "the weather changed",
+      "gender": "neuter",
+      "pronunciation": "WETTER HAT SIKH GEAENDERT",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist das Wetter hat sich geändert.",
+          "english": "That is the the weather changed."
+        }
+      ]
+    },
+    {
+      "id": 929,
+      "german": "der Mann den ich sah",
+      "english": "the man that I saw",
+      "gender": "masculine",
+      "pronunciation": "MANN DEN IKH SAH",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Mann den ich sah.",
+          "english": "That is the the man that I saw."
+        }
+      ]
+    },
+    {
+      "id": 939,
+      "german": "deren",
+      "english": "whose",
+      "gender": null,
+      "pronunciation": "DEREN",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist deren.",
+          "english": "It is whose."
+        }
+      ]
+    },
+    {
+      "id": 1670,
+      "german": "der Felsen",
+      "english": "rock",
+      "gender": "masculine",
+      "pronunciation": "FELSEN",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Felsen.",
+          "english": "That is the rock."
+        }
+      ]
+    },
+    {
+      "id": 1827,
+      "german": "Friseur (Damen)",
+      "english": "hairdresser",
+      "gender": null,
+      "pronunciation": "FRISOYR DAMEN",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Friseur (Damen).",
+          "english": "It is hairdresser."
+        }
+      ]
+    },
+    {
+      "id": 2072,
+      "german": "gerade was ich brauche",
+      "english": "just what I need",
+      "gender": null,
+      "pronunciation": "GERADE WAS IKH BRAUKHE",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist gerade was ich brauche.",
+          "english": "It is just what I need."
+        }
+      ]
+    },
+    {
+      "id": 2113,
+      "german": "geschlossen",
+      "english": "shut",
+      "gender": null,
+      "pronunciation": "GESKHLOSSEN",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist geschlossen.",
+          "english": "It is shut."
+        }
+      ]
+    },
+    {
+      "id": 2173,
+      "german": "gewählt",
+      "english": "chosen",
+      "gender": null,
+      "pronunciation": "GEWAEHLT",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist gewählt.",
+          "english": "It is chosen."
+        }
+      ]
+    },
+    {
+      "id": 2326,
+      "german": "gut getrocknet",
+      "english": "well dried",
+      "gender": null,
+      "pronunciation": "GUT GETROCKNET",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist gut getrocknet.",
+          "english": "It is well dried."
+        }
+      ]
+    },
+    {
+      "id": 2327,
+      "german": "gut gewählt",
+      "english": "well-chosen",
+      "gender": null,
+      "pronunciation": "GUT GEWAEHLT",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist gut gewählt.",
+          "english": "It is well-chosen."
+        }
+      ]
+    },
+    {
+      "id": 2395,
+      "german": "der Hass",
+      "english": "hate",
+      "gender": "masculine",
+      "pronunciation": "HASS",
+      "category": "clothing",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Hass.",
+          "english": "That is the hate."
+        }
+      ]
+    },
+    {
+      "id": 2398,
+      "german": "hassen",
+      "english": "hate",
+      "gender": null,
+      "pronunciation": "HASSEN",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist hassen.",
+          "english": "It is hate."
+        }
+      ]
+    },
+    {
+      "id": 2401,
+      "german": "hat",
+      "english": "has",
+      "gender": null,
+      "pronunciation": "HAT",
+      "category": "clothing",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist hat.",
+          "english": "It is has."
+        }
+      ]
+    },
+    {
+      "id": 2402,
+      "german": "hatte",
+      "english": "had",
+      "gender": null,
+      "pronunciation": "HATTE",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist hatte.",
+          "english": "It is had."
+        }
+      ]
+    },
+    {
+      "id": 2403,
+      "german": "hatten",
+      "english": "had",
+      "gender": null,
+      "pronunciation": "HATTEN",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist hatten.",
+          "english": "It is had."
+        }
+      ]
+    },
+    {
+      "id": 2404,
+      "german": "hattest",
+      "english": "had",
+      "gender": null,
+      "pronunciation": "HATTEST",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist hattest.",
+          "english": "It is had."
+        }
+      ]
+    },
+    {
+      "id": 2405,
+      "german": "hattet",
+      "english": "had",
+      "gender": null,
+      "pronunciation": "HATTET",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist hattet.",
+          "english": "It is had."
+        }
+      ]
+    },
+    {
+      "id": 2447,
+      "german": "der Hemd",
+      "english": "shirt",
+      "gender": "masculine",
+      "pronunciation": "HEMD",
+      "category": "clothing",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Hemd.",
+          "english": "That is the shirt."
+        }
+      ]
+    },
+    {
+      "id": 2560,
+      "german": "der Hose",
+      "english": "trousers",
+      "gender": "masculine",
+      "pronunciation": "HOSE",
+      "category": "clothing",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Hose.",
+          "english": "That is the trousers."
+        }
+      ]
+    },
+    {
+      "id": 2561,
+      "german": "der Hose(US)",
+      "english": "pants",
+      "gender": "masculine",
+      "pronunciation": "HOSOYS",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Hose(US).",
+          "english": "That is the pants."
+        }
+      ]
+    },
+    {
+      "id": 2577,
+      "german": "der Hut",
+      "english": "hat",
+      "gender": "masculine",
+      "pronunciation": "HUT",
+      "category": "clothing",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Hut.",
+          "english": "That is the hat."
+        }
+      ]
+    },
+    {
+      "id": 2591,
+      "german": "ich wundere mich dass",
+      "english": "I wonder that",
+      "gender": null,
+      "pronunciation": "IKH WUNDERE MIKH DASS",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist ich wundere mich dass.",
+          "english": "It is I wonder that."
+        }
+      ]
+    },
+    {
+      "id": 2645,
+      "german": "der in diesem Fall",
+      "english": "in that case",
+      "gender": "masculine",
+      "pronunciation": "IN DEESEM FALL",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der in diesem Fall.",
+          "english": "That is the in that case."
+        }
+      ]
+    },
+    {
+      "id": 2751,
+      "german": "der Jackett",
+      "english": "jacket",
+      "gender": "masculine",
+      "pronunciation": "JACKETT",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Jackett.",
+          "english": "That is the jacket."
+        }
+      ]
+    },
+    {
+      "id": 2781,
+      "german": "jene",
+      "english": "that",
+      "gender": null,
+      "pronunciation": "JENE",
+      "category": "clothing",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist jene.",
+          "english": "It is that."
+        }
+      ]
+    },
+    {
+      "id": 2782,
+      "german": "jene (dort) (pl.)",
+      "english": "those",
+      "gender": null,
+      "pronunciation": "JENE DORT PL.",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist jene (dort) (pl.).",
+          "english": "It is those."
+        }
+      ]
+    },
+    {
+      "id": 2783,
+      "german": "jener",
+      "english": "that",
+      "gender": null,
+      "pronunciation": "JENER",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist jener.",
+          "english": "It is that."
+        }
+      ]
+    },
+    {
+      "id": 2784,
+      "german": "jenes",
+      "english": "that",
+      "gender": null,
+      "pronunciation": "JENES",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist jenes.",
+          "english": "It is that."
+        }
+      ]
+    },
+    {
+      "id": 3241,
+      "german": "der Mantel",
+      "english": "overcoat",
+      "gender": "masculine",
+      "pronunciation": "MANTEL",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Mantel.",
+          "english": "That is the overcoat."
+        }
+      ]
+    },
+    {
+      "id": 3242,
+      "german": "der Manteltasche",
+      "english": "coat-pocket",
+      "gender": "masculine",
+      "pronunciation": "MANTELTASKHE",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Manteltasche.",
+          "english": "That is the coat-pocket."
+        }
+      ]
+    },
+    {
+      "id": 3660,
+      "german": "der Paar Schuhe",
+      "english": "pair of shoes",
+      "gender": "masculine",
+      "pronunciation": "PAAR SKHUHE",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Paar Schuhe.",
+          "english": "That is the pair of shoes."
+        }
+      ]
+    },
+    {
+      "id": 3956,
+      "german": "der Rock",
+      "english": "skirt",
+      "gender": "masculine",
+      "pronunciation": "ROCK",
+      "category": "clothing",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Rock.",
+          "english": "That is the skirt."
+        }
+      ]
+    },
+    {
+      "id": 4064,
+      "german": "der Schatten",
+      "english": "shadow",
+      "gender": "masculine",
+      "pronunciation": "SKHATTEN",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schatten.",
+          "english": "That is the shadow."
+        }
+      ]
+    },
+    {
+      "id": 4066,
+      "german": "schattig",
+      "english": "shady",
+      "gender": null,
+      "pronunciation": "SKHATTIG",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist schattig.",
+          "english": "It is shady."
+        }
+      ]
+    },
+    {
+      "id": 4067,
+      "german": "der Schatz",
+      "english": "treasure",
+      "gender": "masculine",
+      "pronunciation": "SKHATZ",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Schatz.",
+          "english": "That is the treasure."
+        }
+      ]
+    },
+    {
+      "id": 4141,
+      "german": "schließen",
+      "english": "shut (irr.)",
+      "gender": null,
+      "pronunciation": "SKHLEESSEN",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist schließen.",
+          "english": "It is shut (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 4147,
+      "german": "schloss",
+      "english": "shut",
+      "gender": null,
+      "pronunciation": "SKHLOSS",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist schloss.",
+          "english": "It is shut."
+        }
+      ]
+    },
+    {
+      "id": 4214,
+      "german": "der Schuh",
+      "english": "shoe",
+      "gender": "masculine",
+      "pronunciation": "SKHUH",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Schuh.",
+          "english": "That is the shoe."
+        }
+      ]
+    },
+    {
+      "id": 4215,
+      "german": "der Schuhmacher",
+      "english": "shoe-maker",
+      "gender": "masculine",
+      "pronunciation": "SKHUHMAKHER",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schuhmacher.",
+          "english": "That is the shoe-maker."
+        }
+      ]
+    },
+    {
+      "id": 4234,
+      "german": "der Schutz",
+      "english": "protection",
+      "gender": "masculine",
+      "pronunciation": "SKHUTZ",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Schutz.",
+          "english": "That is the protection."
+        }
+      ]
+    },
+    {
+      "id": 4343,
+      "german": "sich anziehen",
+      "english": "dress",
+      "gender": null,
+      "pronunciation": "SIKH ANZEEHEN",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist sich anziehen.",
+          "english": "It is dress."
+        }
+      ]
+    },
+    {
+      "id": 4722,
+      "german": "der Tanzschuhe",
+      "english": "dancing-shoes",
+      "gender": "masculine",
+      "pronunciation": "TANZSKHUHE",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Tanzschuhe.",
+          "english": "That is the dancing-shoes."
+        }
+      ]
+    },
+    {
+      "id": 4854,
+      "german": "trocken",
+      "english": "dry",
+      "gender": null,
+      "pronunciation": "TROCKEN",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist trocken.",
+          "english": "It is dry."
+        }
+      ]
+    },
+    {
+      "id": 4855,
+      "german": "der trockenes Wetter",
+      "english": "dry weather",
+      "gender": "masculine",
+      "pronunciation": "TROCKENES WETTER",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der trockenes Wetter.",
+          "english": "That is the dry weather."
+        }
+      ]
+    },
+    {
+      "id": 5075,
+      "german": "der Unterwäsche",
+      "english": "underclothing",
+      "gender": "masculine",
+      "pronunciation": "UNTERWAESKHE",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Unterwäsche.",
+          "english": "That is the underclothing."
+        }
+      ]
+    },
+    {
+      "id": 5232,
+      "german": "verschließen",
+      "english": "shut up",
+      "gender": null,
+      "pronunciation": "VERSKHLEESSEN",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist verschließen.",
+          "english": "It is shut up."
+        }
+      ]
+    },
+    {
+      "id": 5431,
+      "german": "wählte",
+      "english": "chose",
+      "gender": null,
+      "pronunciation": "WAEHLTE",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist wählte.",
+          "english": "It is chose."
+        }
+      ]
+    },
+    {
+      "id": 5472,
+      "german": "was",
+      "english": "what",
+      "gender": null,
+      "pronunciation": "WAS",
+      "category": "clothing",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist was.",
+          "english": "It is what."
+        }
+      ]
+    },
+    {
+      "id": 5473,
+      "german": "was auch immer",
+      "english": "whatever",
+      "gender": null,
+      "pronunciation": "WAS AUKH IMMER",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist was auch immer.",
+          "english": "It is whatever."
+        }
+      ]
+    },
+    {
+      "id": 5476,
+      "german": "was gibt es Neues ?",
+      "english": "what's the news ?",
+      "gender": null,
+      "pronunciation": "WAS GIBT ES NOYES ?",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist was gibt es Neues ?.",
+          "english": "It is what's the news ?."
+        }
+      ]
+    },
+    {
+      "id": 5478,
+      "german": "was ist das",
+      "english": "what is that",
+      "gender": null,
+      "pronunciation": "WAS IST DAS",
+      "category": "clothing",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist was ist das.",
+          "english": "It is what is that."
+        }
+      ]
+    },
+    {
+      "id": 5479,
+      "german": "was ist los ?",
+      "english": "what's the matter ?",
+      "gender": null,
+      "pronunciation": "WAS IST LOS ?",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist was ist los ?.",
+          "english": "It is what's the matter ?."
+        }
+      ]
+    },
+    {
+      "id": 5480,
+      "german": "was wünschen Sie bitte ?",
+      "english": "what can I do for you ?",
+      "gender": null,
+      "pronunciation": "WAS WUENSKHEN SEE BITTE ?",
+      "category": "clothing",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist was wünschen Sie bitte ?.",
+          "english": "It is what can I do for you ?."
+        }
+      ]
+    },
+    {
+      "id": 5587,
+      "german": "der Weste",
+      "english": "waistcoat",
+      "gender": "masculine",
+      "pronunciation": "WESTE",
+      "category": "clothing",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Weste.",
+          "english": "That is the waistcoat."
+        }
+      ]
+    }
+  ]
+}

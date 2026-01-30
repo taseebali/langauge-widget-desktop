@@ -1,0 +1,184 @@
+{
+  "words": [
+    {
+      "id": 101,
+      "german": "das Haus",
+      "english": "house",
+      "gender": "neuter",
+      "pronunciation": "dass HOWS",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Das Haus ist sehr groß.", "english": "The house is very big."}
+      ]
+    },
+    {
+      "id": 102,
+      "german": "die Schule",
+      "english": "school",
+      "gender": "feminine",
+      "pronunciation": "dee SHOO-luh",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Die Schule beginnt um acht Uhr.", "english": "School starts at eight o'clock."}
+      ]
+    },
+    {
+      "id": 103,
+      "german": "der Tisch",
+      "english": "table",
+      "gender": "masculine",
+      "pronunciation": "dair TISH",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Der Tisch ist aus Holz.", "english": "The table is made of wood."}
+      ]
+    },
+    {
+      "id": 104,
+      "german": "das Buch",
+      "english": "book",
+      "gender": "neuter",
+      "pronunciation": "dass BOOKH",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Das Buch ist sehr interessant.", "english": "The book is very interesting."}
+      ]
+    },
+    {
+      "id": 105,
+      "german": "die Zeit",
+      "english": "time",
+      "gender": "feminine",
+      "pronunciation": "dee TSAIT",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich habe keine Zeit.", "english": "I don't have time."}
+      ]
+    },
+    {
+      "id": 106,
+      "german": "der Freund",
+      "english": "friend",
+      "gender": "masculine",
+      "pronunciation": "dair FROYNT",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Mein Freund heißt Thomas.", "english": "My friend is called Thomas."}
+      ]
+    },
+    {
+      "id": 107,
+      "german": "die Arbeit",
+      "english": "work",
+      "gender": "feminine",
+      "pronunciation": "dee AR-bite",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Die Arbeit macht mir Spaß.", "english": "I enjoy the work."}
+      ]
+    },
+    {
+      "id": 108,
+      "german": "das Wasser",
+      "english": "water",
+      "gender": "neuter",
+      "pronunciation": "dass VAH-ser",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Ich trinke viel Wasser.", "english": "I drink a lot of water."}
+      ]
+    },
+    {
+      "id": 109,
+      "german": "die Straße",
+      "english": "street",
+      "gender": "feminine",
+      "pronunciation": "dee SHTRAH-suh",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Die Straße ist sehr lang.", "english": "The street is very long."}
+      ]
+    },
+    {
+      "id": 110,
+      "german": "der Baum",
+      "english": "tree",
+      "gender": "masculine",
+      "pronunciation": "dair BOWM",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Der Baum ist sehr alt.", "english": "The tree is very old."}
+      ]
+    },
+    {
+      "id": 111,
+      "german": "die Tür",
+      "english": "door",
+      "gender": "feminine",
+      "pronunciation": "dee TOOR",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Bitte schließen Sie die Tür.", "english": "Please close the door."}
+      ]
+    },
+    {
+      "id": 112,
+      "german": "das Fenster",
+      "english": "window",
+      "gender": "neuter",
+      "pronunciation": "dass FEN-ster",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Das Fenster ist offen.", "english": "The window is open."}
+      ]
+    },
+    {
+      "id": 113,
+      "german": "die Liebe",
+      "english": "love",
+      "gender": "feminine",
+      "pronunciation": "dee LEE-buh",
+      "category": "common",
+      "difficulty": "A2",
+      "examples": [
+        {"german": "Liebe macht glücklich.", "english": "Love makes you happy."}
+      ]
+    },
+    {
+      "id": 114,
+      "german": "der Tag",
+      "english": "day",
+      "gender": "masculine",
+      "pronunciation": "dair TAHG",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Heute ist ein schöner Tag.", "english": "Today is a beautiful day."}
+      ]
+    },
+    {
+      "id": 115,
+      "german": "die Nacht",
+      "english": "night",
+      "gender": "feminine",
+      "pronunciation": "dee NAKHT",
+      "category": "common",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Die Nacht ist dunkel.", "english": "The night is dark."}
+      ]
+    }
+  ]
+}

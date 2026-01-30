@@ -1,0 +1,172 @@
+/* Dark theme glassmorphic styles */
+
+/* Main Window */
+QMainWindow {
+    background-color: #1a1a2e;
+}
+
+/* Word Card */
+#WordCard {
+    background: rgba(22, 33, 62, 0.7);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    padding: 30px;
+}
+
+/* German Word */
+#GermanWord {
+    color: #ffffff;
+    font-family: "Raleway", "Segoe UI", Arial;
+    font-size: 48px;
+    font-weight: bold;
+    background: transparent;
+    border: none;
+}
+
+/* English Translation */
+#EnglishWord {
+    color: #a8a8a8;
+    font-family: "Inter", "Segoe UI", Arial;
+    font-size: 24px;
+    font-weight: 600;
+    background: transparent;
+    border: none;
+    margin-top: 10px;
+}
+
+/* Gender/Article */
+#Gender {
+    font-family: "Inter", "Segoe UI", Arial;
+    font-size: 18px;
+    font-weight: 500;
+    background: transparent;
+    border: none;
+}
+
+/* Gender-specific colors for visual learning */
+#Gender[gender="masculine"] {
+    color: #5dadec;  /* Blue for der (masculine) */
+}
+
+#Gender[gender="feminine"] {
+    color: #e94560;  /* Pink for die (feminine) */
+}
+
+#Gender[gender="neuter"] {
+    color: #4caf50;  /* Green for das (neuter) */
+}
+
+/* Pronunciation */
+#Pronunciation {
+    color: #7d8597;
+    font-family: "Inter", "Segoe UI", Arial;
+    font-size: 14px;
+    font-style: italic;
+    background: transparent;
+    border: none;
+}
+
+/* Example Sentence */
+#ExampleGerman {
+    color: #c8c8c8;
+    font-family: "Inter", "Segoe UI", Arial;
+    font-size: 16px;
+    background: transparent;
+    border: none;
+    margin-top: 20px;
+}
+
+#ExampleEnglish {
+    color: #8a8a8a;
+    font-family: "Inter", "Segoe UI", Arial;
+    font-size: 14px;
+    background: transparent;
+    border: none;
+}
+
+/* Category Badge */
+#CategoryBadge {
+    background: rgba(233, 69, 96, 0.2);
+    color: #e94560;
+    border: 1px solid rgba(233, 69, 96, 0.4);
+    border-radius: 12px;
+    padding: 4px 12px;
+    font-family: "Inter", "Segoe UI", Arial;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+/* Difficulty Badge */
+#DifficultyBadge {
+    background: rgba(125, 133, 151, 0.2);
+    color: #7d8597;
+    border: 1px solid rgba(125, 133, 151, 0.4);
+    border-radius: 12px;
+    padding: 4px 12px;
+    font-family: "Inter", "Segoe UI", Arial;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+/* Context Menu */
+QMenu {
+    background-color: #16213e;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    padding: 5px;
+}
+
+QMenu::item {
+    background-color: transparent;
+    color: #ffffff;
+    padding: 8px 20px;
+    border-radius: 4px;
+}
+
+QMenu::item:selected {
+    background-color: #e94560;
+}
+
+QMenu::separator {
+    height: 1px;
+    background: rgba(255, 255, 255, 0.1);
+    margin: 5px 0;
+}
+
+/* Buttons */
+QPushButton {
+    background: rgba(233, 69, 96, 0.8);
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-family: "Inter", "Segoe UI", Arial;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+QPushButton:hover {
+    background: rgba(233, 69, 96, 1.0);
+}
+
+QPushButton:pressed {
+    background: rgba(200, 50, 80, 1.0);
+}
+
+/* Progress Circle (for countdown timer) */
+#ProgressCircle {
+    background: transparent;
+    border: 3px solid rgba(233, 69, 96, 0.3);
+    border-radius: 30px;
+}
+
+/* Tooltip */
+QToolTip {
+    background-color: #16213e;
+    color: #ffffff;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    padding: 5px;
+    font-family: "Inter", "Segoe UI", Arial;
+    font-size: 12px;
+}

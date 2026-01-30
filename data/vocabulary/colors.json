@@ -1,0 +1,755 @@
+{
+  "category": "colors",
+  "words": [
+    {
+      "id": 151,
+      "german": "angeliefert",
+      "english": "delivered",
+      "gender": null,
+      "pronunciation": "ANGELEEFERT",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist angeliefert.",
+          "english": "It is delivered."
+        }
+      ]
+    },
+    {
+      "id": 709,
+      "german": "blau",
+      "english": "blue",
+      "gender": null,
+      "pronunciation": "BLAU",
+      "category": "colors",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist blau.",
+          "english": "It is blue."
+        }
+      ]
+    },
+    {
+      "id": 736,
+      "german": "blutrot",
+      "english": "blood-red",
+      "gender": null,
+      "pronunciation": "BLUTROT",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist blutrot.",
+          "english": "It is blood-red."
+        }
+      ]
+    },
+    {
+      "id": 762,
+      "german": "braun",
+      "english": "brown",
+      "gender": null,
+      "pronunciation": "BRAUN",
+      "category": "colors",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist braun.",
+          "english": "It is brown."
+        }
+      ]
+    },
+    {
+      "id": 764,
+      "german": "bräunen",
+      "english": "brown",
+      "gender": null,
+      "pronunciation": "BROYNEN",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist bräunen.",
+          "english": "It is brown."
+        }
+      ]
+    },
+    {
+      "id": 1057,
+      "german": "dunkelgrau",
+      "english": "dark gray",
+      "gender": null,
+      "pronunciation": "DUNKELGRAU",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist dunkelgrau.",
+          "english": "It is dark gray."
+        }
+      ]
+    },
+    {
+      "id": 1335,
+      "german": "die Elektrotechnik",
+      "english": "electrical engineering",
+      "gender": "feminine",
+      "pronunciation": "ELEKTROTEKHNIK",
+      "category": "colors",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist die Elektrotechnik.",
+          "english": "That is the electrical engineering."
+        }
+      ]
+    },
+    {
+      "id": 1502,
+      "german": "erobert",
+      "english": "conquered",
+      "gender": null,
+      "pronunciation": "EROBERT",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist erobert.",
+          "english": "It is conquered."
+        }
+      ]
+    },
+    {
+      "id": 2022,
+      "german": "gelb",
+      "english": "yellow",
+      "gender": null,
+      "pronunciation": "GELB",
+      "category": "colors",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist gelb.",
+          "english": "It is yellow."
+        }
+      ]
+    },
+    {
+      "id": 2207,
+      "german": "gezüchtet",
+      "english": "bred",
+      "gender": null,
+      "pronunciation": "GEZUEKHTET",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist gezüchtet.",
+          "english": "It is bred."
+        }
+      ]
+    },
+    {
+      "id": 2271,
+      "german": "grau",
+      "english": "gray",
+      "gender": null,
+      "pronunciation": "GRAU",
+      "category": "colors",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist grau.",
+          "english": "It is gray."
+        }
+      ]
+    },
+    {
+      "id": 2272,
+      "german": "grausam",
+      "english": "cruel",
+      "gender": null,
+      "pronunciation": "GRAUSAM",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist grausam.",
+          "english": "It is cruel."
+        }
+      ]
+    },
+    {
+      "id": 2300,
+      "german": "grün",
+      "english": "green",
+      "gender": null,
+      "pronunciation": "GRUEN",
+      "category": "colors",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist grün.",
+          "english": "It is green."
+        }
+      ]
+    },
+    {
+      "id": 2302,
+      "german": "gründen",
+      "english": "found",
+      "gender": null,
+      "pronunciation": "GRUENDEN",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist gründen.",
+          "english": "It is found."
+        }
+      ]
+    },
+    {
+      "id": 2304,
+      "german": "gründlich",
+      "english": "thoroughly",
+      "gender": null,
+      "pronunciation": "GRUENDLIKH",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist gründlich.",
+          "english": "It is thoroughly."
+        }
+      ]
+    },
+    {
+      "id": 2305,
+      "german": "der gründliche Kenntnisse",
+      "english": "through knowledge",
+      "gender": "masculine",
+      "pronunciation": "GRUENDLIKHE KENNTNISSE",
+      "category": "colors",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der gründliche Kenntnisse.",
+          "english": "That is the through knowledge."
+        }
+      ]
+    },
+    {
+      "id": 2307,
+      "german": "die Gründung",
+      "english": "foundation",
+      "gender": "feminine",
+      "pronunciation": "GRUENDUNG",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Gründung.",
+          "english": "That is the foundation."
+        }
+      ]
+    },
+    {
+      "id": 2445,
+      "german": "hellgrau",
+      "english": "light gray",
+      "gender": null,
+      "pronunciation": "HELLGRAU",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist hellgrau.",
+          "english": "It is light gray."
+        }
+      ]
+    },
+    {
+      "id": 2451,
+      "german": "herabsetzen",
+      "english": "reduce",
+      "gender": null,
+      "pronunciation": "HERABSETZEN",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist herabsetzen.",
+          "english": "It is reduce."
+        }
+      ]
+    },
+    {
+      "id": 2464,
+      "german": "der Herr (als Anrede)",
+      "english": "Mister",
+      "gender": "masculine",
+      "pronunciation": "HERR ALS ANREDE",
+      "category": "colors",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Herr (als Anrede).",
+          "english": "That is the Mister."
+        }
+      ]
+    },
+    {
+      "id": 2700,
+      "german": "der Indianer",
+      "english": "red Indian",
+      "gender": "masculine",
+      "pronunciation": "INDIANER",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Indianer.",
+          "english": "That is the red Indian."
+        }
+      ]
+    },
+    {
+      "id": 2996,
+      "german": "der Kredit",
+      "english": "credit",
+      "gender": "masculine",
+      "pronunciation": "KREDIT",
+      "category": "colors",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Kredit.",
+          "english": "That is the credit."
+        }
+      ]
+    },
+    {
+      "id": 3037,
+      "german": "die Kürzung",
+      "english": "reduction",
+      "gender": "feminine",
+      "pronunciation": "KUERZUNG",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Kürzung.",
+          "english": "That is the reduction."
+        }
+      ]
+    },
+    {
+      "id": 3068,
+      "german": "lang-begehrt",
+      "english": "long-desired",
+      "gender": null,
+      "pronunciation": "LANG-BEGEHRT",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist lang-begehrt.",
+          "english": "It is long-desired."
+        }
+      ]
+    },
+    {
+      "id": 3420,
+      "german": "müde",
+      "english": "tired",
+      "gender": null,
+      "pronunciation": "MUEDE",
+      "category": "colors",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist müde.",
+          "english": "It is tired."
+        }
+      ]
+    },
+    {
+      "id": 3693,
+      "german": "pensioniert",
+      "english": "retired",
+      "gender": null,
+      "pronunciation": "PENSIONEERT",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist pensioniert.",
+          "english": "It is retired."
+        }
+      ]
+    },
+    {
+      "id": 3773,
+      "german": "der Prediger",
+      "english": "preacher",
+      "gender": "masculine",
+      "pronunciation": "PREDIGER",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Prediger.",
+          "english": "That is the preacher."
+        }
+      ]
+    },
+    {
+      "id": 3794,
+      "german": "der Protest",
+      "english": "protest",
+      "gender": "masculine",
+      "pronunciation": "PROTEST",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Protest.",
+          "english": "That is the protest."
+        }
+      ]
+    },
+    {
+      "id": 3866,
+      "german": "der Rede",
+      "english": "speech",
+      "gender": "masculine",
+      "pronunciation": "REDE",
+      "category": "colors",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Rede.",
+          "english": "That is the speech."
+        }
+      ]
+    },
+    {
+      "id": 3867,
+      "german": "reden",
+      "english": "talk",
+      "gender": null,
+      "pronunciation": "REDEN",
+      "category": "colors",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist reden.",
+          "english": "It is talk."
+        }
+      ]
+    },
+    {
+      "id": 3868,
+      "german": "der Redner",
+      "english": "speaker",
+      "gender": "masculine",
+      "pronunciation": "REDNER",
+      "category": "colors",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Redner.",
+          "english": "That is the speaker."
+        }
+      ]
+    },
+    {
+      "id": 3965,
+      "german": "rot",
+      "english": "red",
+      "gender": null,
+      "pronunciation": "ROT",
+      "category": "colors",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist rot.",
+          "english": "It is red."
+        }
+      ]
+    },
+    {
+      "id": 3966,
+      "german": "rot machen",
+      "english": "redden",
+      "gender": null,
+      "pronunciation": "ROT MAKHEN",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist rot machen.",
+          "english": "It is redden."
+        }
+      ]
+    },
+    {
+      "id": 3967,
+      "german": "der Rotes Kreuz",
+      "english": "Red Cross",
+      "gender": "masculine",
+      "pronunciation": "ROTES KROYZ",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Rotes Kreuz.",
+          "english": "That is the Red Cross."
+        }
+      ]
+    },
+    {
+      "id": 3968,
+      "german": "rotglühend",
+      "english": "red-hot",
+      "gender": null,
+      "pronunciation": "ROTGLUEHEND",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist rotglühend.",
+          "english": "It is red-hot."
+        }
+      ]
+    },
+    {
+      "id": 3969,
+      "german": "rötlich",
+      "english": "reddish",
+      "gender": null,
+      "pronunciation": "ROETLIKH",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist rötlich.",
+          "english": "It is reddish."
+        }
+      ]
+    },
+    {
+      "id": 3970,
+      "german": "der Rotwild",
+      "english": "deer",
+      "gender": "masculine",
+      "pronunciation": "ROTWILD",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Rotwild.",
+          "english": "That is the deer."
+        }
+      ]
+    },
+    {
+      "id": 4033,
+      "german": "satt haben",
+      "english": "be tired of",
+      "gender": null,
+      "pronunciation": "SATT HABEN",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist satt haben.",
+          "english": "It is be tired of."
+        }
+      ]
+    },
+    {
+      "id": 4235,
+      "german": "schützen",
+      "english": "protect",
+      "gender": null,
+      "pronunciation": "SKHUETZEN",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist schützen.",
+          "english": "It is protect."
+        }
+      ]
+    },
+    {
+      "id": 4245,
+      "german": "schwarz",
+      "english": "black",
+      "gender": null,
+      "pronunciation": "SKHWARZ",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist schwarz.",
+          "english": "It is black."
+        }
+      ]
+    },
+    {
+      "id": 4283,
+      "german": "der Segelboot",
+      "english": "sailing boat",
+      "gender": "masculine",
+      "pronunciation": "SEGELBOOT",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Segelboot.",
+          "english": "That is the sailing boat."
+        }
+      ]
+    },
+    {
+      "id": 4791,
+      "german": "der tiefes Blau",
+      "english": "deep blue",
+      "gender": "masculine",
+      "pronunciation": "TEEFES BLAU",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der tiefes Blau.",
+          "english": "That is the deep blue."
+        }
+      ]
+    },
+    {
+      "id": 4861,
+      "german": "trotz",
+      "english": "in spite of",
+      "gender": null,
+      "pronunciation": "TROTZ",
+      "category": "colors",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist trotz.",
+          "english": "It is in spite of."
+        }
+      ]
+    },
+    {
+      "id": 4923,
+      "german": "überreden",
+      "english": "persuade",
+      "gender": null,
+      "pronunciation": "UEBERREDEN",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist überreden.",
+          "english": "It is persuade."
+        }
+      ]
+    },
+    {
+      "id": 4924,
+      "german": "die Überredung",
+      "english": "persuasion",
+      "gender": "feminine",
+      "pronunciation": "UEBERREDUNG",
+      "category": "colors",
+      "difficulty": "B2",
+      "examples": [
+        {
+          "german": "Das ist die Überredung.",
+          "english": "That is the persuasion."
+        }
+      ]
+    },
+    {
+      "id": 5097,
+      "german": "die Verabredung",
+      "english": "date",
+      "gender": "feminine",
+      "pronunciation": "VERABREDUNG",
+      "category": "colors",
+      "difficulty": "B2",
+      "examples": [
+        {
+          "german": "Das ist die Verabredung.",
+          "english": "That is the date."
+        }
+      ]
+    },
+    {
+      "id": 5218,
+      "german": "verrotten",
+      "english": "rot",
+      "gender": null,
+      "pronunciation": "VERROTTEN",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist verrotten.",
+          "english": "It is rot."
+        }
+      ]
+    },
+    {
+      "id": 5219,
+      "german": "verrottet",
+      "english": "rotten",
+      "gender": null,
+      "pronunciation": "VERROTTET",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist verrottet.",
+          "english": "It is rotten."
+        }
+      ]
+    },
+    {
+      "id": 5358,
+      "german": "von etwas reden",
+      "english": "talk about something",
+      "gender": null,
+      "pronunciation": "VON ETWAS REDEN",
+      "category": "colors",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist von etwas reden.",
+          "english": "It is talk about something."
+        }
+      ]
+    },
+    {
+      "id": 5445,
+      "german": "der Wandtafel",
+      "english": "blackboard",
+      "gender": "masculine",
+      "pronunciation": "WANDTAFEL",
+      "category": "colors",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Wandtafel.",
+          "english": "That is the blackboard."
+        }
+      ]
+    }
+  ]
+}

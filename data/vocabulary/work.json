@@ -1,0 +1,380 @@
+{
+  "category": "work",
+  "words": [
+    {
+      "id": 120,
+      "german": "der Amt",
+      "english": "office",
+      "gender": "masculine",
+      "pronunciation": "AMT",
+      "category": "work",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Amt.",
+          "english": "That is the office."
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "german": "der Arzt",
+      "english": "physician",
+      "gender": "masculine",
+      "pronunciation": "ARZT",
+      "category": "work",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Arzt.",
+          "english": "That is the physician."
+        }
+      ]
+    },
+    {
+      "id": 579,
+      "german": "der Beruf",
+      "english": "profession",
+      "gender": "masculine",
+      "pronunciation": "BERUF",
+      "category": "work",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Beruf.",
+          "english": "That is the profession."
+        }
+      ]
+    },
+    {
+      "id": 580,
+      "german": "berufsmäßig",
+      "english": "professional",
+      "gender": null,
+      "pronunciation": "BERUFSMAESSIG",
+      "category": "work",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist berufsmäßig.",
+          "english": "It is professional."
+        }
+      ]
+    },
+    {
+      "id": 641,
+      "german": "der Betrieb",
+      "english": "works",
+      "gender": "masculine",
+      "pronunciation": "BETREEB",
+      "category": "work",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Betrieb.",
+          "english": "That is the works."
+        }
+      ]
+    },
+    {
+      "id": 816,
+      "german": "der Büro",
+      "english": "office",
+      "gender": "masculine",
+      "pronunciation": "BUERO",
+      "category": "work",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Büro.",
+          "english": "That is the office."
+        }
+      ]
+    },
+    {
+      "id": 817,
+      "german": "der Büroangestellter",
+      "english": "clerk",
+      "gender": "masculine",
+      "pronunciation": "BUEROANGESTELLTER",
+      "category": "work",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Büroangestellter.",
+          "english": "That is the clerk."
+        }
+      ]
+    },
+    {
+      "id": 1009,
+      "german": "der Doktor",
+      "english": "doctor",
+      "gender": "masculine",
+      "pronunciation": "DOKTOR",
+      "category": "work",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Doktor.",
+          "english": "That is the doctor."
+        }
+      ]
+    },
+    {
+      "id": 1065,
+      "german": "durchführbar",
+      "english": "workable",
+      "gender": null,
+      "pronunciation": "DURKHFUEHRBAR",
+      "category": "work",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist durchführbar.",
+          "english": "It is workable."
+        }
+      ]
+    },
+    {
+      "id": 1549,
+      "german": "es funktioniert",
+      "english": "it works",
+      "gender": null,
+      "pronunciation": "ES FUNKTIONEERT",
+      "category": "work",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist es funktioniert.",
+          "english": "It is it works."
+        }
+      ]
+    },
+    {
+      "id": 1550,
+      "german": "es geht",
+      "english": "it works",
+      "gender": null,
+      "pronunciation": "ES GEHT",
+      "category": "work",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist es geht.",
+          "english": "It is it works."
+        }
+      ]
+    },
+    {
+      "id": 1594,
+      "german": "die Fabrik",
+      "english": "works",
+      "gender": "feminine",
+      "pronunciation": "FABRIK",
+      "category": "work",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist die Fabrik.",
+          "english": "That is the works."
+        }
+      ]
+    },
+    {
+      "id": 1611,
+      "german": "der Fahrkartenschalter",
+      "english": "booking office",
+      "gender": "masculine",
+      "pronunciation": "FAHRKARTENSKHALTER",
+      "category": "work",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Fahrkartenschalter.",
+          "english": "That is the booking office."
+        }
+      ]
+    },
+    {
+      "id": 1862,
+      "german": "funktionieren",
+      "english": "work",
+      "gender": null,
+      "pronunciation": "FUNKTIONEEREN",
+      "category": "work",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist funktionieren.",
+          "english": "It is work."
+        }
+      ]
+    },
+    {
+      "id": 2417,
+      "german": "der Hausaufgaben",
+      "english": "homework",
+      "gender": "masculine",
+      "pronunciation": "HAUSAUFGABEN",
+      "category": "work",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Hausaufgaben.",
+          "english": "That is the homework."
+        }
+      ]
+    },
+    {
+      "id": 3523,
+      "german": "der Netzwerk",
+      "english": "network",
+      "gender": "masculine",
+      "pronunciation": "NETZWERK",
+      "category": "work",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Netzwerk.",
+          "english": "That is the network."
+        }
+      ]
+    },
+    {
+      "id": 3623,
+      "german": "der Offizier",
+      "english": "officer",
+      "gender": "masculine",
+      "pronunciation": "OFFIZEER",
+      "category": "work",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Offizier.",
+          "english": "That is the officer."
+        }
+      ]
+    },
+    {
+      "id": 3761,
+      "german": "der Postamt",
+      "english": "post office",
+      "gender": "masculine",
+      "pronunciation": "POSTAMT",
+      "category": "work",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Postamt.",
+          "english": "That is the post office."
+        }
+      ]
+    },
+    {
+      "id": 4216,
+      "german": "der Schulbuch",
+      "english": "school-book",
+      "gender": "masculine",
+      "pronunciation": "SKHULBUKH",
+      "category": "work",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schulbuch.",
+          "english": "That is the school-book."
+        }
+      ]
+    },
+    {
+      "id": 4220,
+      "german": "die Schule",
+      "english": "school",
+      "gender": "feminine",
+      "pronunciation": "SKHULE",
+      "category": "work",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist die Schule.",
+          "english": "That is the school."
+        }
+      ]
+    },
+    {
+      "id": 4221,
+      "german": "Schule besuchen",
+      "english": "attend school",
+      "gender": null,
+      "pronunciation": "SKHULE BESUKHEN",
+      "category": "work",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Schule besuchen.",
+          "english": "It is attend school."
+        }
+      ]
+    },
+    {
+      "id": 4224,
+      "german": "der Schuljunge",
+      "english": "school-boy",
+      "gender": "masculine",
+      "pronunciation": "SKHULJUNGE",
+      "category": "work",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schuljunge.",
+          "english": "That is the school-boy."
+        }
+      ]
+    },
+    {
+      "id": 4605,
+      "german": "die Stellung",
+      "english": "job",
+      "gender": "feminine",
+      "pronunciation": "STELLUNG",
+      "category": "work",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Stellung.",
+          "english": "That is the job."
+        }
+      ]
+    },
+    {
+      "id": 5574,
+      "german": "der Werk",
+      "english": "works",
+      "gender": "masculine",
+      "pronunciation": "WERK",
+      "category": "work",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Werk.",
+          "english": "That is the works."
+        }
+      ]
+    },
+    {
+      "id": 5575,
+      "german": "der Werkstatt",
+      "english": "workshop",
+      "gender": "masculine",
+      "pronunciation": "WERKSTATT",
+      "category": "work",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Werkstatt.",
+          "english": "That is the workshop."
+        }
+      ]
+    }
+  ]
+}

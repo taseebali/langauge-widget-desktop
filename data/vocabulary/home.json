@@ -1,0 +1,1280 @@
+{
+  "category": "home",
+  "words": [
+    {
+      "id": 49,
+      "german": "abstürzen",
+      "english": "crash",
+      "gender": null,
+      "pronunciation": "ABSTUERZEN",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist abstürzen.",
+          "english": "It is crash."
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "german": "artistisch",
+      "english": "artistic",
+      "gender": null,
+      "pronunciation": "ARTISTISKH",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist artistisch.",
+          "english": "It is artistic."
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "german": "der Bad",
+      "english": "bath",
+      "gender": "masculine",
+      "pronunciation": "BAD",
+      "category": "home",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Bad.",
+          "english": "That is the bath."
+        }
+      ]
+    },
+    {
+      "id": 428,
+      "german": "baden",
+      "english": "bathe",
+      "gender": null,
+      "pronunciation": "BADEN",
+      "category": "home",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist baden.",
+          "english": "It is bathe."
+        }
+      ]
+    },
+    {
+      "id": 429,
+      "german": "der Badezimmer",
+      "english": "bathroom",
+      "gender": "masculine",
+      "pronunciation": "BADEZIMMER",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Badezimmer.",
+          "english": "That is the bathroom."
+        }
+      ]
+    },
+    {
+      "id": 602,
+      "german": "der Besen",
+      "english": "broom",
+      "gender": "masculine",
+      "pronunciation": "BESEN",
+      "category": "home",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Besen.",
+          "english": "That is the broom."
+        }
+      ]
+    },
+    {
+      "id": 614,
+      "german": "besser",
+      "english": "better",
+      "gender": null,
+      "pronunciation": "BESSER",
+      "category": "home",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist besser.",
+          "english": "It is better."
+        }
+      ]
+    },
+    {
+      "id": 646,
+      "german": "der Bett",
+      "english": "bed",
+      "gender": "masculine",
+      "pronunciation": "BETT",
+      "category": "home",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Bett.",
+          "english": "That is the bed."
+        }
+      ]
+    },
+    {
+      "id": 647,
+      "german": "Bett machen",
+      "english": "make a bed",
+      "gender": null,
+      "pronunciation": "BETT MAKHEN",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist Bett machen.",
+          "english": "It is make a bed."
+        }
+      ]
+    },
+    {
+      "id": 648,
+      "german": "betteln",
+      "english": "beg",
+      "gender": null,
+      "pronunciation": "BETTELN",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist betteln.",
+          "english": "It is beg."
+        }
+      ]
+    },
+    {
+      "id": 766,
+      "german": "der Bräutigam",
+      "english": "bridegroom",
+      "gender": "masculine",
+      "pronunciation": "BROYTIGAM",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Bräutigam.",
+          "english": "That is the bridegroom."
+        }
+      ]
+    },
+    {
+      "id": 784,
+      "german": "britisch",
+      "english": "British",
+      "gender": null,
+      "pronunciation": "BRITISKH",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist britisch.",
+          "english": "It is British."
+        }
+      ]
+    },
+    {
+      "id": 913,
+      "german": "den Haushalt führen",
+      "english": "keep house",
+      "gender": null,
+      "pronunciation": "DEN HAUSHALT FUEHREN",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist den Haushalt führen.",
+          "english": "It is keep house."
+        }
+      ]
+    },
+    {
+      "id": 916,
+      "german": "den Raum betreten",
+      "english": "enter the room",
+      "gender": null,
+      "pronunciation": "DEN RAUM BETRETEN",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist den Raum betreten.",
+          "english": "It is enter the room."
+        }
+      ]
+    },
+    {
+      "id": 944,
+      "german": "die Deutsche Demokratische Republik",
+      "english": "German Democratic Republic",
+      "gender": "feminine",
+      "pronunciation": "DOYTSKHE DEMOKRATISKHE REPUBLIK",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist die Deutsche Demokratische Republik.",
+          "english": "That is the German Democratic Republic."
+        }
+      ]
+    },
+    {
+      "id": 961,
+      "german": "die britischen Inseln",
+      "english": "the British Isles",
+      "gender": "feminine",
+      "pronunciation": "BRITISKHEN INSELN",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist die britischen Inseln.",
+          "english": "That is the the British Isles."
+        }
+      ]
+    },
+    {
+      "id": 1018,
+      "german": "der Doppeltüren",
+      "english": "double doors",
+      "gender": "masculine",
+      "pronunciation": "DOPPELTUEREN",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Doppeltüren.",
+          "english": "That is the double doors."
+        }
+      ]
+    },
+    {
+      "id": 1327,
+      "german": "elastisch",
+      "english": "elastic",
+      "gender": null,
+      "pronunciation": "ELASTISKH",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist elastisch.",
+          "english": "It is elastic."
+        }
+      ]
+    },
+    {
+      "id": 1653,
+      "german": "der Federbett",
+      "english": "feather-bed",
+      "gender": "masculine",
+      "pronunciation": "FEDERBETT",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Federbett.",
+          "english": "That is the feather-bed."
+        }
+      ]
+    },
+    {
+      "id": 1671,
+      "german": "das Fenster",
+      "english": "window",
+      "gender": "neuter",
+      "pronunciation": "FENSTER",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist das Fenster.",
+          "english": "That is the window."
+        }
+      ]
+    },
+    {
+      "id": 1750,
+      "german": "der Flußbett",
+      "english": "bed of a river",
+      "gender": "masculine",
+      "pronunciation": "FLUSSBETT",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Flußbett.",
+          "english": "That is the bed of a river."
+        }
+      ]
+    },
+    {
+      "id": 1910,
+      "german": "der Gasthaus",
+      "english": "inn",
+      "gender": "masculine",
+      "pronunciation": "GASTHAUS",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Gasthaus.",
+          "english": "That is the inn."
+        }
+      ]
+    },
+    {
+      "id": 1988,
+      "german": "geh auf die Türe zu",
+      "english": "go toward the door",
+      "gender": null,
+      "pronunciation": "GEH AUF TUERE ZU",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist geh auf Türe zu.",
+          "english": "It is go toward the door."
+        }
+      ]
+    },
+    {
+      "id": 2219,
+      "german": "der Glashaus",
+      "english": "green-house",
+      "gender": "masculine",
+      "pronunciation": "GLASHAUS",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Glashaus.",
+          "english": "That is the green-house."
+        }
+      ]
+    },
+    {
+      "id": 2341,
+      "german": "der gymnastische Übungen",
+      "english": "gymnastic exercises",
+      "gender": "masculine",
+      "pronunciation": "GYMNASTISKHE UEBUNGEN",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der gymnastische Übungen.",
+          "english": "That is the gymnastic exercises."
+        }
+      ]
+    },
+    {
+      "id": 2416,
+      "german": "das Haus",
+      "english": "house",
+      "gender": "neuter",
+      "pronunciation": "HAUS",
+      "category": "home",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist das Haus.",
+          "english": "That is the house."
+        }
+      ]
+    },
+    {
+      "id": 2419,
+      "german": "der Hausfrau",
+      "english": "house-wife",
+      "gender": "masculine",
+      "pronunciation": "HAUSFRAU",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Hausfrau.",
+          "english": "That is the house-wife."
+        }
+      ]
+    },
+    {
+      "id": 2420,
+      "german": "hausgemacht",
+      "english": "home-made",
+      "gender": null,
+      "pronunciation": "HAUSGEMAKHT",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist hausgemacht.",
+          "english": "It is home-made."
+        }
+      ]
+    },
+    {
+      "id": 2421,
+      "german": "der Haushalt",
+      "english": "household",
+      "gender": "masculine",
+      "pronunciation": "HAUSHALT",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Haushalt.",
+          "english": "That is the household."
+        }
+      ]
+    },
+    {
+      "id": 2422,
+      "german": "der Hausherr",
+      "english": "landlord",
+      "gender": "masculine",
+      "pronunciation": "HAUSHERR",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Hausherr.",
+          "english": "That is the landlord."
+        }
+      ]
+    },
+    {
+      "id": 2423,
+      "german": "der Hausschuhe",
+      "english": "house-shoes",
+      "gender": "masculine",
+      "pronunciation": "HAUSSKHUHE",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Hausschuhe.",
+          "english": "That is the house-shoes."
+        }
+      ]
+    },
+    {
+      "id": 2425,
+      "german": "der Haustür",
+      "english": "front door",
+      "gender": "masculine",
+      "pronunciation": "HAUSTUER",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Haustür.",
+          "english": "That is the front door."
+        }
+      ]
+    },
+    {
+      "id": 2597,
+      "german": "ihn ins Bett bringen",
+      "english": "put him to bed",
+      "gender": null,
+      "pronunciation": "IHN INS BETT BRINGEN",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist ihn ins Bett bringen.",
+          "english": "It is put him to bed."
+        }
+      ]
+    },
+    {
+      "id": 2613,
+      "german": "der im Hause",
+      "english": "indoors",
+      "gender": "masculine",
+      "pronunciation": "IM HAUSE",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der im Hause.",
+          "english": "That is the indoors."
+        }
+      ]
+    },
+    {
+      "id": 2743,
+      "german": "der Irrenhaus",
+      "english": "mad-house",
+      "gender": "masculine",
+      "pronunciation": "IRRENHAUS",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Irrenhaus.",
+          "english": "That is the mad-house."
+        }
+      ]
+    },
+    {
+      "id": 2763,
+      "german": "je eher desto lieber",
+      "english": "the sooner the better",
+      "gender": null,
+      "pronunciation": "JE EHER DESTO LEEBER",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist je eher desto lieber.",
+          "english": "It is the sooner the better."
+        }
+      ]
+    },
+    {
+      "id": 2838,
+      "german": "der Kaufhaus",
+      "english": "department store",
+      "gender": "masculine",
+      "pronunciation": "KAUFHAUS",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Kaufhaus.",
+          "english": "That is the department store."
+        }
+      ]
+    },
+    {
+      "id": 2989,
+      "german": "der Krankenhaus",
+      "english": "hospital",
+      "gender": "masculine",
+      "pronunciation": "KRANKENHAUS",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Krankenhaus.",
+          "english": "That is the hospital."
+        }
+      ]
+    },
+    {
+      "id": 3004,
+      "german": "kritisch",
+      "english": "critical",
+      "gender": null,
+      "pronunciation": "KRITISKH",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist kritisch.",
+          "english": "It is critical."
+        }
+      ]
+    },
+    {
+      "id": 3007,
+      "german": "der Küche",
+      "english": "kitchen",
+      "gender": "masculine",
+      "pronunciation": "KUEKHE",
+      "category": "home",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Küche.",
+          "english": "That is the kitchen."
+        }
+      ]
+    },
+    {
+      "id": 3009,
+      "german": "der Küchenherd",
+      "english": "cooking-stove",
+      "gender": "masculine",
+      "pronunciation": "KUEKHENHERD",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Küchenherd.",
+          "english": "That is the cooking-stove."
+        }
+      ]
+    },
+    {
+      "id": 3151,
+      "german": "der Leuchtturm",
+      "english": "light-house",
+      "gender": "masculine",
+      "pronunciation": "LOYKHTTURM",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Leuchtturm.",
+          "english": "That is the light-house."
+        }
+      ]
+    },
+    {
+      "id": 3394,
+      "german": "Möbel (pl.)",
+      "english": "furniture",
+      "gender": null,
+      "pronunciation": "MOEBEL PL.",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist Möbel (pl.).",
+          "english": "It is furniture."
+        }
+      ]
+    },
+    {
+      "id": 3471,
+      "german": "nachhause",
+      "english": "home",
+      "gender": null,
+      "pronunciation": "NAKHHAUSE",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist nachhause.",
+          "english": "It is home."
+        }
+      ]
+    },
+    {
+      "id": 3479,
+      "german": "das nächstes Haus",
+      "english": "next house",
+      "gender": "neuter",
+      "pronunciation": "NAEKHSTES HAUS",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist das nächstes Haus.",
+          "english": "That is the next house."
+        }
+      ]
+    },
+    {
+      "id": 3505,
+      "german": "natürlich",
+      "english": "natural",
+      "gender": null,
+      "pronunciation": "NATUERLIKH",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist natürlich.",
+          "english": "It is natural."
+        }
+      ]
+    },
+    {
+      "id": 3682,
+      "german": "patriotisch",
+      "english": "patriotic",
+      "gender": null,
+      "pronunciation": "PATRIOTISKH",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist patriotisch.",
+          "english": "It is patriotic."
+        }
+      ]
+    },
+    {
+      "id": 3731,
+      "german": "plastisch",
+      "english": "plastic",
+      "gender": null,
+      "pronunciation": "PLASTISKH",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist plastisch.",
+          "english": "It is plastic."
+        }
+      ]
+    },
+    {
+      "id": 3735,
+      "german": "PLatz machen",
+      "english": "make room",
+      "gender": null,
+      "pronunciation": "PLATZ MAKHEN",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist PLatz machen.",
+          "english": "It is make room."
+        }
+      ]
+    },
+    {
+      "id": 3745,
+      "german": "politisch",
+      "english": "political",
+      "gender": null,
+      "pronunciation": "POLITISKH",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist politisch.",
+          "english": "It is political."
+        }
+      ]
+    },
+    {
+      "id": 3768,
+      "german": "praktisch",
+      "english": "practical",
+      "gender": null,
+      "pronunciation": "PRAKTISKH",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist praktisch.",
+          "english": "It is practical."
+        }
+      ]
+    },
+    {
+      "id": 3769,
+      "german": "praktisch jedermann",
+      "english": "practically everybody",
+      "gender": null,
+      "pronunciation": "PRAKTISKH JEDERMANN",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist praktisch jedermann.",
+          "english": "It is practically everybody."
+        }
+      ]
+    },
+    {
+      "id": 3842,
+      "german": "der Rathaus(Br.)",
+      "english": "town-hall",
+      "gender": "masculine",
+      "pronunciation": "RATHAUSBR.",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Rathaus(Br.).",
+          "english": "That is the town-hall."
+        }
+      ]
+    },
+    {
+      "id": 3843,
+      "german": "der Rathaus(US)",
+      "english": "city hall",
+      "gender": "masculine",
+      "pronunciation": "RATHAUSUS",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Rathaus(US).",
+          "english": "That is the city hall."
+        }
+      ]
+    },
+    {
+      "id": 3851,
+      "german": "das Raum",
+      "english": "room",
+      "gender": "neuter",
+      "pronunciation": "RAUM",
+      "category": "home",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist das Raum.",
+          "english": "That is the room."
+        }
+      ]
+    },
+    {
+      "id": 4076,
+      "german": "der Schaufenster",
+      "english": "shop window",
+      "gender": "masculine",
+      "pronunciation": "SKHAUFENSTER",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schaufenster.",
+          "english": "That is the shop window."
+        }
+      ]
+    },
+    {
+      "id": 4079,
+      "german": "der Schaukelstuhl",
+      "english": "rocking-chair",
+      "gender": "masculine",
+      "pronunciation": "SKHAUKELSTUHL",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Schaukelstuhl.",
+          "english": "That is the rocking-chair."
+        }
+      ]
+    },
+    {
+      "id": 4081,
+      "german": "der Schauspieler",
+      "english": "actor",
+      "gender": "masculine",
+      "pronunciation": "SKHAUSPEELER",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schauspieler.",
+          "english": "That is the actor."
+        }
+      ]
+    },
+    {
+      "id": 4082,
+      "german": "die Schauspielerin",
+      "english": "actress",
+      "gender": "feminine",
+      "pronunciation": "SKHAUSPEELERIN",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist die Schauspielerin.",
+          "english": "That is the actress."
+        }
+      ]
+    },
+    {
+      "id": 4119,
+      "german": "der Schlafzimmer",
+      "english": "bedroom",
+      "gender": "masculine",
+      "pronunciation": "SKHLAFZIMMER",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schlafzimmer.",
+          "english": "That is the bedroom."
+        }
+      ]
+    },
+    {
+      "id": 4131,
+      "german": "schlecht",
+      "english": "bad",
+      "gender": null,
+      "pronunciation": "SKHLEKHT",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist schlecht.",
+          "english": "It is bad."
+        }
+      ]
+    },
+    {
+      "id": 4140,
+      "german": "die schließe die Tür",
+      "english": "close the door",
+      "gender": "feminine",
+      "pronunciation": "SKHLEESSE TUER",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die schließe Tür.",
+          "english": "That is the close the door."
+        }
+      ]
+    },
+    {
+      "id": 4192,
+      "german": "schottisch",
+      "english": "Scottish",
+      "gender": null,
+      "pronunciation": "SKHOTTISKH",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist schottisch.",
+          "english": "It is Scottish."
+        }
+      ]
+    },
+    {
+      "id": 4193,
+      "german": "der schottischer Whisky",
+      "english": "Scotch",
+      "gender": "masculine",
+      "pronunciation": "SKHOTTISKHER WHISKY",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der schottischer Whisky.",
+          "english": "That is the Scotch."
+        }
+      ]
+    },
+    {
+      "id": 4464,
+      "german": "der Sofa",
+      "english": "sofa",
+      "gender": "masculine",
+      "pronunciation": "SOFA",
+      "category": "home",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Sofa.",
+          "english": "That is the sofa."
+        }
+      ]
+    },
+    {
+      "id": 4674,
+      "german": "der Stuhl",
+      "english": "chair",
+      "gender": "masculine",
+      "pronunciation": "STUHL",
+      "category": "home",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Stuhl.",
+          "english": "That is the chair."
+        }
+      ]
+    },
+    {
+      "id": 4681,
+      "german": "stürmen",
+      "english": "storm",
+      "gender": null,
+      "pronunciation": "STUERMEN",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist stürmen.",
+          "english": "It is storm."
+        }
+      ]
+    },
+    {
+      "id": 4682,
+      "german": "stürmisch",
+      "english": "stormy",
+      "gender": null,
+      "pronunciation": "STUERMISKH",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist stürmisch.",
+          "english": "It is stormy."
+        }
+      ]
+    },
+    {
+      "id": 4744,
+      "german": "die Tauchausrüstung",
+      "english": "diving outfit",
+      "gender": "feminine",
+      "pronunciation": "TAUKHAUSRUESTUNG",
+      "category": "home",
+      "difficulty": "B2",
+      "examples": [
+        {
+          "german": "Das ist die Tauchausrüstung.",
+          "english": "That is the diving outfit."
+        }
+      ]
+    },
+    {
+      "id": 4798,
+      "german": "der Tisch",
+      "english": "table",
+      "gender": "masculine",
+      "pronunciation": "TISKH",
+      "category": "home",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Tisch.",
+          "english": "That is the table."
+        }
+      ]
+    },
+    {
+      "id": 4799,
+      "german": "der Tischplatte",
+      "english": "table-top",
+      "gender": "masculine",
+      "pronunciation": "TISKHPLATTE",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Tischplatte.",
+          "english": "That is the table-top."
+        }
+      ]
+    },
+    {
+      "id": 4800,
+      "german": "der Tischtuch",
+      "english": "table-cloth",
+      "gender": "masculine",
+      "pronunciation": "TISKHTUKH",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Tischtuch.",
+          "english": "That is the table-cloth."
+        }
+      ]
+    },
+    {
+      "id": 4819,
+      "german": "der Totenbett",
+      "english": "deathbed",
+      "gender": "masculine",
+      "pronunciation": "TOTENBETT",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Totenbett.",
+          "english": "That is the deathbed."
+        }
+      ]
+    },
+    {
+      "id": 4874,
+      "german": "die Tür",
+      "english": "door",
+      "gender": "feminine",
+      "pronunciation": "TUER",
+      "category": "home",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist die Tür.",
+          "english": "That is the door."
+        }
+      ]
+    },
+    {
+      "id": 4876,
+      "german": "der Türklingel",
+      "english": "door-bell",
+      "gender": "masculine",
+      "pronunciation": "TUERKLINGEL",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Türklingel.",
+          "english": "That is the door-bell."
+        }
+      ]
+    },
+    {
+      "id": 4879,
+      "german": "der Türschloß",
+      "english": "lock",
+      "gender": "masculine",
+      "pronunciation": "TUERSKHLOSS",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Türschloß.",
+          "english": "That is the lock."
+        }
+      ]
+    },
+    {
+      "id": 5111,
+      "german": "verbot",
+      "english": "forbade",
+      "gender": null,
+      "pronunciation": "VERBOT",
+      "category": "home",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist verbot.",
+          "english": "It is forbade."
+        }
+      ]
+    },
+    {
+      "id": 5469,
+      "german": "der Wartessaal",
+      "english": "waiting room",
+      "gender": "masculine",
+      "pronunciation": "WARTESSAAL",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Wartessaal.",
+          "english": "That is the waiting room."
+        }
+      ]
+    },
+    {
+      "id": 5470,
+      "german": "der Wartezimmer",
+      "english": "waiting room",
+      "gender": "masculine",
+      "pronunciation": "WARTEZIMMER",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Wartezimmer.",
+          "english": "That is the waiting room."
+        }
+      ]
+    },
+    {
+      "id": 5658,
+      "german": "die Wohnung",
+      "english": "flat",
+      "gender": "feminine",
+      "pronunciation": "WOHNUNG",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Wohnung.",
+          "english": "That is the flat."
+        }
+      ]
+    },
+    {
+      "id": 5659,
+      "german": "der Wohnzimmer",
+      "english": "living room",
+      "gender": "masculine",
+      "pronunciation": "WOHNZIMMER",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Wohnzimmer.",
+          "english": "That is the living room."
+        }
+      ]
+    },
+    {
+      "id": 5660,
+      "german": "der Wohnzimmer(Br.)",
+      "english": "sitting room",
+      "gender": "masculine",
+      "pronunciation": "WOHNZIMMERBR.",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Wohnzimmer(Br.).",
+          "english": "That is the sitting room."
+        }
+      ]
+    },
+    {
+      "id": 5768,
+      "german": "Zimmer zu vermieten",
+      "english": "rooms to let",
+      "gender": null,
+      "pronunciation": "ZIMMER ZU VERMEETEN",
+      "category": "home",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Zimmer zu vermieten.",
+          "english": "It is rooms to let."
+        }
+      ]
+    },
+    {
+      "id": 5770,
+      "german": "der Zimmer",
+      "english": "room",
+      "gender": "masculine",
+      "pronunciation": "ZIMMER",
+      "category": "home",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Zimmer.",
+          "english": "That is the room."
+        }
+      ]
+    },
+    {
+      "id": 5792,
+      "german": "der zu Hause",
+      "english": "at home",
+      "gender": "masculine",
+      "pronunciation": "ZU HAUSE",
+      "category": "home",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der zu Hause.",
+          "english": "That is the at home."
+        }
+      ]
+    }
+  ]
+}

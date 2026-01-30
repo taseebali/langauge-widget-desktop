@@ -1,0 +1,41 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# User data (don't commit personal learning history)
+data/history.json
+data/config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.spec
+*.exe
+*.msi
+BUILD_INSTRUCTIONS.md
+PACKAGING_SUMMARY.md
+IMPLEMENTATION_SUMMARY.md
+german_wallpaper_app_guide.md
+

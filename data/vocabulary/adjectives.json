@@ -1,0 +1,244 @@
+{
+  "words": [
+    {
+      "id": 601,
+      "german": "gut",
+      "english": "good",
+      "gender": null,
+      "pronunciation": "GOOT",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Das ist gut.", "english": "That is good."}
+      ]
+    },
+    {
+      "id": 602,
+      "german": "schlecht",
+      "english": "bad",
+      "gender": null,
+      "pronunciation": "SHLEKHT",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Das Wetter ist schlecht.", "english": "The weather is bad."}
+      ]
+    },
+    {
+      "id": 603,
+      "german": "groß",
+      "english": "big/large/tall",
+      "gender": null,
+      "pronunciation": "GROHS",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Das Haus ist groß.", "english": "The house is big."}
+      ]
+    },
+    {
+      "id": 604,
+      "german": "klein",
+      "english": "small/little",
+      "gender": null,
+      "pronunciation": "KLYN",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Die Katze ist klein.", "english": "The cat is small."}
+      ]
+    },
+    {
+      "id": 605,
+      "german": "schön",
+      "english": "beautiful/nice",
+      "gender": null,
+      "pronunciation": "SHÖN",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Der Tag ist schön.", "english": "The day is nice."}
+      ]
+    },
+    {
+      "id": 606,
+      "german": "neu",
+      "english": "new",
+      "gender": null,
+      "pronunciation": "NOY",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Das Auto ist neu.", "english": "The car is new."}
+      ]
+    },
+    {
+      "id": 607,
+      "german": "alt",
+      "english": "old",
+      "gender": null,
+      "pronunciation": "ALT",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Der Mann ist alt.", "english": "The man is old."}
+      ]
+    },
+    {
+      "id": 608,
+      "german": "jung",
+      "english": "young",
+      "gender": null,
+      "pronunciation": "YOONG",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Die Frau ist jung.", "english": "The woman is young."}
+      ]
+    },
+    {
+      "id": 609,
+      "german": "schnell",
+      "english": "fast/quick",
+      "gender": null,
+      "pronunciation": "SHNELL",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Der Zug ist schnell.", "english": "The train is fast."}
+      ]
+    },
+    {
+      "id": 610,
+      "german": "langsam",
+      "english": "slow",
+      "gender": null,
+      "pronunciation": "LAHNG-zahm",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Die Schildkröte ist langsam.", "english": "The turtle is slow."}
+      ]
+    },
+    {
+      "id": 611,
+      "german": "heiß",
+      "english": "hot",
+      "gender": null,
+      "pronunciation": "HAYS",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Der Kaffee ist heiß.", "english": "The coffee is hot."}
+      ]
+    },
+    {
+      "id": 612,
+      "german": "kalt",
+      "english": "cold",
+      "gender": null,
+      "pronunciation": "KAHLT",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Das Wasser ist kalt.", "english": "The water is cold."}
+      ]
+    },
+    {
+      "id": 613,
+      "german": "warm",
+      "english": "warm",
+      "gender": null,
+      "pronunciation": "VAHRM",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Der Tee ist warm.", "english": "The tea is warm."}
+      ]
+    },
+    {
+      "id": 614,
+      "german": "schwer",
+      "english": "heavy/difficult",
+      "gender": null,
+      "pronunciation": "SHVEHR",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Die Tasche ist schwer.", "english": "The bag is heavy."}
+      ]
+    },
+    {
+      "id": 615,
+      "german": "leicht",
+      "english": "light/easy",
+      "gender": null,
+      "pronunciation": "LYKT",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Die Aufgabe ist leicht.", "english": "The task is easy."}
+      ]
+    },
+    {
+      "id": 616,
+      "german": "teuer",
+      "english": "expensive",
+      "gender": null,
+      "pronunciation": "TOY-er",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Das Haus ist teuer.", "english": "The house is expensive."}
+      ]
+    },
+    {
+      "id": 617,
+      "german": "billig",
+      "english": "cheap",
+      "gender": null,
+      "pronunciation": "BIL-lig",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Das Buch ist billig.", "english": "The book is cheap."}
+      ]
+    },
+    {
+      "id": 618,
+      "german": "richtig",
+      "english": "right/correct",
+      "gender": null,
+      "pronunciation": "RIKH-tig",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Die Antwort ist richtig.", "english": "The answer is correct."}
+      ]
+    },
+    {
+      "id": 619,
+      "german": "falsch",
+      "english": "wrong/false",
+      "gender": null,
+      "pronunciation": "FAHLSH",
+      "category": "adjectives",
+      "difficulty": "A1",
+      "examples": [
+        {"german": "Das ist falsch.", "english": "That is wrong."}
+      ]
+    },
+    {
+      "id": 620,
+      "german": "wichtig",
+      "english": "important",
+      "gender": null,
+      "pronunciation": "VIKH-tig",
+      "category": "adjectives",
+      "difficulty": "A2",
+      "examples": [
+        {"german": "Das ist sehr wichtig.", "english": "That is very important."}
+      ]
+    }
+  ]
+}

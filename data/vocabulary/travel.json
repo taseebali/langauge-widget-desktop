@@ -1,0 +1,1445 @@
+{
+  "category": "travel",
+  "words": [
+    {
+      "id": 56,
+      "german": "der Abzug",
+      "english": "print",
+      "gender": "masculine",
+      "pronunciation": "ABZUG",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Abzug.",
+          "english": "That is the print."
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "german": "achtgeben (auf)",
+      "english": "take care (of)",
+      "gender": null,
+      "pronunciation": "AKHTGEBEN AUF",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist achtgeben (auf).",
+          "english": "It is take care (of)."
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "german": "der Anzug",
+      "english": "suit",
+      "gender": "masculine",
+      "pronunciation": "ANZUG",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Anzug.",
+          "english": "That is the suit."
+        }
+      ]
+    },
+    {
+      "id": 332,
+      "german": "der Aufzug(Br.)",
+      "english": "lift",
+      "gender": "masculine",
+      "pronunciation": "AUFZUGBR.",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Aufzug(Br.).",
+          "english": "That is the lift."
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "german": "der Aufzug(US)",
+      "english": "elevator",
+      "gender": "masculine",
+      "pronunciation": "AUFZUGUS",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Aufzug(US).",
+          "english": "That is the elevator."
+        }
+      ]
+    },
+    {
+      "id": 349,
+      "german": "ausbilden",
+      "english": "train",
+      "gender": null,
+      "pronunciation": "AUSBILDEN",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist ausbilden.",
+          "english": "It is train."
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "german": "die Ausbildung",
+      "english": "training",
+      "gender": "feminine",
+      "pronunciation": "AUSBILDUNG",
+      "category": "travel",
+      "difficulty": "B2",
+      "examples": [
+        {
+          "german": "Das ist die Ausbildung.",
+          "english": "That is the training."
+        }
+      ]
+    },
+    {
+      "id": 430,
+      "german": "der Bahnhof",
+      "english": "station",
+      "gender": "masculine",
+      "pronunciation": "BAHNHOF",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Bahnhof.",
+          "english": "That is the station."
+        }
+      ]
+    },
+    {
+      "id": 590,
+      "german": "beschäftigt",
+      "english": "busy",
+      "gender": null,
+      "pronunciation": "BESKHAEFTIGT",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist beschäftigt.",
+          "english": "It is busy."
+        }
+      ]
+    },
+    {
+      "id": 654,
+      "german": "bevorzugen",
+      "english": "prefer",
+      "gender": null,
+      "pronunciation": "BEVORZUGEN",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist bevorzugen.",
+          "english": "It is prefer."
+        }
+      ]
+    },
+    {
+      "id": 821,
+      "german": "der Bus",
+      "english": "bus",
+      "gender": "masculine",
+      "pronunciation": "BUS",
+      "category": "travel",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Bus.",
+          "english": "That is the bus."
+        }
+      ]
+    },
+    {
+      "id": 822,
+      "german": "der Busch",
+      "english": "bush",
+      "gender": "masculine",
+      "pronunciation": "BUSKH",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Busch.",
+          "english": "That is the bush."
+        }
+      ]
+    },
+    {
+      "id": 823,
+      "german": "buschig",
+      "english": "bushy",
+      "gender": null,
+      "pronunciation": "BUSKHIG",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist buschig.",
+          "english": "It is bushy."
+        }
+      ]
+    },
+    {
+      "id": 824,
+      "german": "der Bushaltestelle",
+      "english": "bus stop",
+      "gender": "masculine",
+      "pronunciation": "BUSHALTESTELLE",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Bushaltestelle.",
+          "english": "That is the bus stop."
+        }
+      ]
+    },
+    {
+      "id": 845,
+      "german": "der D-Zug",
+      "english": "express train",
+      "gender": "masculine",
+      "pronunciation": "D-ZUG",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der D-Zug.",
+          "english": "That is the express train."
+        }
+      ]
+    },
+    {
+      "id": 936,
+      "german": "der Zug nach London",
+      "english": "the train to London",
+      "gender": "masculine",
+      "pronunciation": "ZUG NAKH LONDON",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Zug nach London.",
+          "english": "That is the the train to London."
+        }
+      ]
+    },
+    {
+      "id": 973,
+      "german": "die Leute dieser Stadt",
+      "english": "the people of this town",
+      "gender": "feminine",
+      "pronunciation": "LOYTE DEESER STADT",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist die Leute dieser Stadt.",
+          "english": "That is the the people of this town."
+        }
+      ]
+    },
+    {
+      "id": 979,
+      "german": "die Straße entlang",
+      "english": "along the road",
+      "gender": "feminine",
+      "pronunciation": "STRASSE ENTLANG",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist die Straße entlang.",
+          "english": "That is the along the road."
+        }
+      ]
+    },
+    {
+      "id": 1066,
+      "german": "durchführen",
+      "english": "carry out",
+      "gender": null,
+      "pronunciation": "DURKHFUEHREN",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist durchführen.",
+          "english": "It is carry out."
+        }
+      ]
+    },
+    {
+      "id": 1078,
+      "german": "der Düsenflugzeug",
+      "english": "jet plane",
+      "gender": "masculine",
+      "pronunciation": "DUESENFLUGZOYG",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Düsenflugzeug.",
+          "english": "That is the jet plane."
+        }
+      ]
+    },
+    {
+      "id": 1350,
+      "german": "die Ende der Straße",
+      "english": "end of the road",
+      "gender": "feminine",
+      "pronunciation": "ENDE STRASSE",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Ende Straße.",
+          "english": "That is the end of the road."
+        }
+      ]
+    },
+    {
+      "id": 1610,
+      "german": "der Fahrkarte",
+      "english": "ticket",
+      "gender": "masculine",
+      "pronunciation": "FAHRKARTE",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Fahrkarte.",
+          "english": "That is the ticket."
+        }
+      ]
+    },
+    {
+      "id": 1678,
+      "german": "der Fernstraße",
+      "english": "highway",
+      "gender": "masculine",
+      "pronunciation": "FERNSTRASSE",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Fernstraße.",
+          "english": "That is the highway."
+        }
+      ]
+    },
+    {
+      "id": 1689,
+      "german": "der Festzug",
+      "english": "procession",
+      "gender": "masculine",
+      "pronunciation": "FESTZUG",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Festzug.",
+          "english": "That is the procession."
+        }
+      ]
+    },
+    {
+      "id": 1745,
+      "german": "der Flugplatz",
+      "english": "airport",
+      "gender": "masculine",
+      "pronunciation": "FLUGPLATZ",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Flugplatz.",
+          "english": "That is the airport."
+        }
+      ]
+    },
+    {
+      "id": 1746,
+      "german": "der Flugzeug",
+      "english": "plane",
+      "gender": "masculine",
+      "pronunciation": "FLUGZOYG",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Flugzeug.",
+          "english": "That is the plane."
+        }
+      ]
+    },
+    {
+      "id": 1747,
+      "german": "Flugzeug (Am.)",
+      "english": "airplane",
+      "gender": null,
+      "pronunciation": "FLUGZOYG AM.",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Flugzeug (Am.).",
+          "english": "It is airplane."
+        }
+      ]
+    },
+    {
+      "id": 1748,
+      "german": "Flugzeug (Br.)",
+      "english": "aeroplane",
+      "gender": null,
+      "pronunciation": "FLUGZOYG BR.",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Flugzeug (Br.).",
+          "english": "It is aeroplane."
+        }
+      ]
+    },
+    {
+      "id": 1771,
+      "german": "fortfahren",
+      "english": "carry on",
+      "gender": null,
+      "pronunciation": "FORTFAHREN",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist fortfahren.",
+          "english": "It is carry on."
+        }
+      ]
+    },
+    {
+      "id": 1784,
+      "german": "Fracht bezahlt",
+      "english": "carriage paid",
+      "gender": null,
+      "pronunciation": "FRAKHT BEZAHLT",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Fracht bezahlt.",
+          "english": "It is carriage paid."
+        }
+      ]
+    },
+    {
+      "id": 1941,
+      "german": "der Geburtstagskarte",
+      "english": "birthday card",
+      "gender": "masculine",
+      "pronunciation": "GEBURTSTAGSKARTE",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Geburtstagskarte.",
+          "english": "That is the birthday card."
+        }
+      ]
+    },
+    {
+      "id": 2095,
+      "german": "geschäftig",
+      "english": "busy",
+      "gender": null,
+      "pronunciation": "GESKHAEFTIG",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist geschäftig.",
+          "english": "It is busy."
+        }
+      ]
+    },
+    {
+      "id": 2097,
+      "german": "der Geschäftsleute",
+      "english": "businessmen (pl.)",
+      "gender": "masculine",
+      "pronunciation": "GESKHAEFTSLOYTE",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Geschäftsleute.",
+          "english": "That is the businessmen (pl.)."
+        }
+      ]
+    },
+    {
+      "id": 2098,
+      "german": "der Geschäftsmann",
+      "english": "businessman (irr.)",
+      "gender": "masculine",
+      "pronunciation": "GESKHAEFTSMANN",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Geschäftsmann.",
+          "english": "That is the businessman (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 2413,
+      "german": "der Hauptstadt",
+      "english": "capital",
+      "gender": "masculine",
+      "pronunciation": "HAUPTSTADT",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Hauptstadt.",
+          "english": "That is the capital."
+        }
+      ]
+    },
+    {
+      "id": 2414,
+      "german": "der Hauptstraße",
+      "english": "main road",
+      "gender": "masculine",
+      "pronunciation": "HAUPTSTRASSE",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Hauptstraße.",
+          "english": "That is the main road."
+        }
+      ]
+    },
+    {
+      "id": 2563,
+      "german": "der Hotel",
+      "english": "hotel",
+      "gender": "masculine",
+      "pronunciation": "HOTEL",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Hotel.",
+          "english": "That is the hotel."
+        }
+      ]
+    },
+    {
+      "id": 2564,
+      "german": "die Hotelbuchung",
+      "english": "arrangement",
+      "gender": "feminine",
+      "pronunciation": "HOTELBUKHUNG",
+      "category": "travel",
+      "difficulty": "B2",
+      "examples": [
+        {
+          "german": "Das ist die Hotelbuchung.",
+          "english": "That is the arrangement."
+        }
+      ]
+    },
+    {
+      "id": 2587,
+      "german": "ich mache mir nichts daraus",
+      "english": "I don't care",
+      "gender": null,
+      "pronunciation": "IKH MAKHE MIR NIKHTS DARAUS",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist ich mache mir nichts daraus.",
+          "english": "It is I don't care."
+        }
+      ]
+    },
+    {
+      "id": 2614,
+      "german": "der im Hotel",
+      "english": "at the hotel",
+      "gender": "masculine",
+      "pronunciation": "IM HOTEL",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der im Hotel.",
+          "english": "That is the at the hotel."
+        }
+      ]
+    },
+    {
+      "id": 2829,
+      "german": "der Karre",
+      "english": "cart",
+      "gender": "masculine",
+      "pronunciation": "KARRE",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Karre.",
+          "english": "That is the cart."
+        }
+      ]
+    },
+    {
+      "id": 2830,
+      "german": "karren",
+      "english": "cart",
+      "gender": null,
+      "pronunciation": "KARREN",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist karren.",
+          "english": "It is cart."
+        }
+      ]
+    },
+    {
+      "id": 2831,
+      "german": "der Karte",
+      "english": "card",
+      "gender": "masculine",
+      "pronunciation": "KARTE",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Karte.",
+          "english": "That is the card."
+        }
+      ]
+    },
+    {
+      "id": 2841,
+      "german": "kaum",
+      "english": "scarcely",
+      "gender": null,
+      "pronunciation": "KAUM",
+      "category": "travel",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist kaum.",
+          "english": "It is scarcely."
+        }
+      ]
+    },
+    {
+      "id": 2903,
+      "german": "knapp",
+      "english": "scarce",
+      "gender": null,
+      "pronunciation": "KNAPP",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist knapp.",
+          "english": "It is scarce."
+        }
+      ]
+    },
+    {
+      "id": 3063,
+      "german": "der Landstraße",
+      "english": "road",
+      "gender": "masculine",
+      "pronunciation": "LANDSTRASSE",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Landstraße.",
+          "english": "That is the road."
+        }
+      ]
+    },
+    {
+      "id": 3166,
+      "german": "liebt sie ihn wirklich",
+      "english": "does she really care for him",
+      "gender": null,
+      "pronunciation": "LEEBT SEE IHN WIRKLIKH",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist liebt sie ihn wirklich.",
+          "english": "It is does she really care for him."
+        }
+      ]
+    },
+    {
+      "id": 3362,
+      "german": "mit Bezug auf",
+      "english": "referring to",
+      "gender": null,
+      "pronunciation": "MIT BEZUG AUF",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist mit Bezug auf.",
+          "english": "It is referring to."
+        }
+      ]
+    },
+    {
+      "id": 3363,
+      "german": "das mit dem Auto",
+      "english": "by car",
+      "gender": "neuter",
+      "pronunciation": "MIT DEM AUTO",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist das mit dem Auto.",
+          "english": "That is the by car."
+        }
+      ]
+    },
+    {
+      "id": 3364,
+      "german": "der mit dem Bus",
+      "english": "by bus",
+      "gender": "masculine",
+      "pronunciation": "MIT DEM BUS",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der mit dem Bus.",
+          "english": "That is the by bus."
+        }
+      ]
+    },
+    {
+      "id": 3365,
+      "german": "der mit dem Flugzeug",
+      "english": "by plane",
+      "gender": "masculine",
+      "pronunciation": "MIT DEM FLUGZOYG",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der mit dem Flugzeug.",
+          "english": "That is the by plane."
+        }
+      ]
+    },
+    {
+      "id": 3366,
+      "german": "der mit dem Zug",
+      "english": "by train",
+      "gender": "masculine",
+      "pronunciation": "MIT DEM ZUG",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der mit dem Zug.",
+          "english": "That is the by train."
+        }
+      ]
+    },
+    {
+      "id": 3407,
+      "german": "der Möhre",
+      "english": "carrot",
+      "gender": "masculine",
+      "pronunciation": "MOEHRE",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Möhre.",
+          "english": "That is the carrot."
+        }
+      ]
+    },
+    {
+      "id": 3764,
+      "german": "der Postkarte",
+      "english": "postcard",
+      "gender": "masculine",
+      "pronunciation": "POSTKARTE",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Postkarte.",
+          "english": "That is the postcard."
+        }
+      ]
+    },
+    {
+      "id": 3765,
+      "german": "der Postzug",
+      "english": "mail-train",
+      "gender": "masculine",
+      "pronunciation": "POSTZUG",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Postzug.",
+          "english": "That is the mail-train."
+        }
+      ]
+    },
+    {
+      "id": 3822,
+      "german": "der Querstraße",
+      "english": "turning",
+      "gender": "masculine",
+      "pronunciation": "QUERSTRASSE",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Querstraße.",
+          "english": "That is the turning."
+        }
+      ]
+    },
+    {
+      "id": 3972,
+      "german": "der Rückfahrkarte",
+      "english": "return ticket",
+      "gender": "masculine",
+      "pronunciation": "RUECKFAHRKARTE",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Rückfahrkarte.",
+          "english": "That is the return ticket."
+        }
+      ]
+    },
+    {
+      "id": 3996,
+      "german": "die Rundfunkstation",
+      "english": "radio station",
+      "gender": "feminine",
+      "pronunciation": "RUNDFUNKSTATION",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist die Rundfunkstation.",
+          "english": "That is the radio station."
+        }
+      ]
+    },
+    {
+      "id": 4102,
+      "german": "der Schiff",
+      "english": "ship",
+      "gender": "masculine",
+      "pronunciation": "SKHIFF",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Schiff.",
+          "english": "That is the ship."
+        }
+      ]
+    },
+    {
+      "id": 4103,
+      "german": "der Schiffahrtskanal",
+      "english": "canal",
+      "gender": "masculine",
+      "pronunciation": "SKHIFFAHRTSKANAL",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Schiffahrtskanal.",
+          "english": "That is the canal."
+        }
+      ]
+    },
+    {
+      "id": 4105,
+      "german": "der Schiffsbau",
+      "english": "shipbuilding",
+      "gender": "masculine",
+      "pronunciation": "SKHIFFSBAU",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schiffsbau.",
+          "english": "That is the shipbuilding."
+        }
+      ]
+    },
+    {
+      "id": 4106,
+      "german": "der Schiffswrack",
+      "english": "shipwreck",
+      "gender": "masculine",
+      "pronunciation": "SKHIFFSWRACK",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schiffswrack.",
+          "english": "That is the shipwreck."
+        }
+      ]
+    },
+    {
+      "id": 4118,
+      "german": "der Schlafwagen",
+      "english": "sleeping-car",
+      "gender": "masculine",
+      "pronunciation": "SKHLAFWAGEN",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schlafwagen.",
+          "english": "That is the sleeping-car."
+        }
+      ]
+    },
+    {
+      "id": 4373,
+      "german": "sich etwas machen aus",
+      "english": "care for",
+      "gender": null,
+      "pronunciation": "SIKH ETWAS MAKHEN AUS",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist sich etwas machen aus.",
+          "english": "It is care for."
+        }
+      ]
+    },
+    {
+      "id": 4497,
+      "german": "sorgen für",
+      "english": "take care of",
+      "gender": null,
+      "pronunciation": "SORGEN FUER",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist sorgen für.",
+          "english": "It is take care of."
+        }
+      ]
+    },
+    {
+      "id": 4498,
+      "german": "der Sorgfalt",
+      "english": "care",
+      "gender": "masculine",
+      "pronunciation": "SORGFALT",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Sorgfalt.",
+          "english": "That is the care."
+        }
+      ]
+    },
+    {
+      "id": 4533,
+      "german": "der Spielkarten",
+      "english": "paying-cards",
+      "gender": "masculine",
+      "pronunciation": "SPEELKARTEN",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Spielkarten.",
+          "english": "That is the paying-cards."
+        }
+      ]
+    },
+    {
+      "id": 4545,
+      "german": "der Sportwagen",
+      "english": "sports-car",
+      "gender": "masculine",
+      "pronunciation": "SPORTWAGEN",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Sportwagen.",
+          "english": "That is the sports-car."
+        }
+      ]
+    },
+    {
+      "id": 4559,
+      "german": "die Stadt",
+      "english": "town",
+      "gender": "feminine",
+      "pronunciation": "STADT",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist die Stadt.",
+          "english": "That is the town."
+        }
+      ]
+    },
+    {
+      "id": 4575,
+      "german": "starten (abheben) (Flugzeug)",
+      "english": "take off",
+      "gender": null,
+      "pronunciation": "STARTEN ABHEBEN FLUGZOYG",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist starten (abheben) (Flugzeug).",
+          "english": "It is take off."
+        }
+      ]
+    },
+    {
+      "id": 4576,
+      "german": "die Station",
+      "english": "station",
+      "gender": "feminine",
+      "pronunciation": "STATION",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Station.",
+          "english": "That is the station."
+        }
+      ]
+    },
+    {
+      "id": 4577,
+      "german": "stationieren",
+      "english": "station",
+      "gender": null,
+      "pronunciation": "STATIONEEREN",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist stationieren.",
+          "english": "It is station."
+        }
+      ]
+    },
+    {
+      "id": 4578,
+      "german": "stationiert",
+      "english": "stationed",
+      "gender": null,
+      "pronunciation": "STATIONEERT",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist stationiert.",
+          "english": "It is stationed."
+        }
+      ]
+    },
+    {
+      "id": 4642,
+      "german": "die Straße",
+      "english": "street",
+      "gender": "feminine",
+      "pronunciation": "STRASSE",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist die Straße.",
+          "english": "That is the street."
+        }
+      ]
+    },
+    {
+      "id": 4643,
+      "german": "der Straßenbahn",
+      "english": "tram",
+      "gender": "masculine",
+      "pronunciation": "STRASSENBAHN",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Straßenbahn.",
+          "english": "That is the tram."
+        }
+      ]
+    },
+    {
+      "id": 4644,
+      "german": "der Straßenrand",
+      "english": "roadside",
+      "gender": "masculine",
+      "pronunciation": "STRASSENRAND",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Straßenrand.",
+          "english": "That is the roadside."
+        }
+      ]
+    },
+    {
+      "id": 4715,
+      "german": "der Tankstelle",
+      "english": "filling station",
+      "gender": "masculine",
+      "pronunciation": "TANKSTELLE",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Tankstelle.",
+          "english": "That is the filling station."
+        }
+      ]
+    },
+    {
+      "id": 4716,
+      "german": "der Tankstelle(Br.)",
+      "english": "petrol station",
+      "gender": "masculine",
+      "pronunciation": "TANKSTELLEBR.",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Tankstelle(Br.).",
+          "english": "That is the petrol station."
+        }
+      ]
+    },
+    {
+      "id": 4717,
+      "german": "der Tankstelle(US)",
+      "english": "gas station",
+      "gender": "masculine",
+      "pronunciation": "TANKSTELLOYS",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Tankstelle(US).",
+          "english": "That is the gas station."
+        }
+      ]
+    },
+    {
+      "id": 4727,
+      "german": "der Tasche am Anzug",
+      "english": "pocket",
+      "gender": "masculine",
+      "pronunciation": "TASKHE AM ANZUG",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Tasche am Anzug.",
+          "english": "That is the pocket."
+        }
+      ]
+    },
+    {
+      "id": 4777,
+      "german": "der Teppich",
+      "english": "carpet",
+      "gender": "masculine",
+      "pronunciation": "TEPPIKH",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Teppich.",
+          "english": "That is the carpet."
+        }
+      ]
+    },
+    {
+      "id": 4824,
+      "german": "trainieren",
+      "english": "train",
+      "gender": null,
+      "pronunciation": "TRAINEEREN",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist trainieren.",
+          "english": "It is train."
+        }
+      ]
+    },
+    {
+      "id": 4825,
+      "german": "der Training",
+      "english": "training",
+      "gender": "masculine",
+      "pronunciation": "TRAINING",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Training.",
+          "english": "That is the training."
+        }
+      ]
+    },
+    {
+      "id": 4891,
+      "german": "die über die Straße",
+      "english": "across the road",
+      "gender": "feminine",
+      "pronunciation": "UEBER STRASSE",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die über Straße.",
+          "english": "That is the across the road."
+        }
+      ]
+    },
+    {
+      "id": 4929,
+      "german": "übersorgfältig",
+      "english": "over-careful",
+      "gender": null,
+      "pronunciation": "UEBERSORGFAELTIG",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist übersorgfältig.",
+          "english": "It is over-careful."
+        }
+      ]
+    },
+    {
+      "id": 4972,
+      "german": "der Umzug",
+      "english": "removal",
+      "gender": "masculine",
+      "pronunciation": "UMZUG",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Umzug.",
+          "english": "That is the removal."
+        }
+      ]
+    },
+    {
+      "id": 5079,
+      "german": "unvorsichtig",
+      "english": "careless",
+      "gender": null,
+      "pronunciation": "UNVORSIKHTIG",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist unvorsichtig.",
+          "english": "It is careless."
+        }
+      ]
+    },
+    {
+      "id": 5085,
+      "german": "der Urlaub",
+      "english": "vacation",
+      "gender": "masculine",
+      "pronunciation": "URLAUB",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Urlaub.",
+          "english": "That is the vacation."
+        }
+      ]
+    },
+    {
+      "id": 5086,
+      "german": "Urlaub (Militär)",
+      "english": "leave",
+      "gender": null,
+      "pronunciation": "URLAUB MILITAER",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Urlaub (Militär).",
+          "english": "It is leave."
+        }
+      ]
+    },
+    {
+      "id": 5087,
+      "german": "Urlaub nehmen",
+      "english": "take leave",
+      "gender": null,
+      "pronunciation": "URLAUB NEHMEN",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Urlaub nehmen.",
+          "english": "It is take leave."
+        }
+      ]
+    },
+    {
+      "id": 5230,
+      "german": "verschiffen",
+      "english": "ship",
+      "gender": null,
+      "pronunciation": "VERSKHIFFEN",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist verschiffen.",
+          "english": "It is ship."
+        }
+      ]
+    },
+    {
+      "id": 5352,
+      "german": "vom Geschäft reden",
+      "english": "talk business",
+      "gender": null,
+      "pronunciation": "VOM GESKHAEFT REDEN",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist vom Geschäft reden.",
+          "english": "It is talk business."
+        }
+      ]
+    },
+    {
+      "id": 5426,
+      "german": "die Wagenladung",
+      "english": "car-load",
+      "gender": "feminine",
+      "pronunciation": "WAGENLADUNG",
+      "category": "travel",
+      "difficulty": "B2",
+      "examples": [
+        {
+          "german": "Das ist die Wagenladung.",
+          "english": "That is the car-load."
+        }
+      ]
+    },
+    {
+      "id": 5808,
+      "german": "Zug (Bahn)",
+      "english": "train",
+      "gender": null,
+      "pronunciation": "ZUG BAHN",
+      "category": "travel",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist Zug (Bahn).",
+          "english": "It is train."
+        }
+      ]
+    },
+    {
+      "id": 5809,
+      "german": "der Zugang",
+      "english": "admission",
+      "gender": "masculine",
+      "pronunciation": "ZUGANG",
+      "category": "travel",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Zugang.",
+          "english": "That is the admission."
+        }
+      ]
+    },
+    {
+      "id": 5810,
+      "german": "zugrunde richten",
+      "english": "wreck",
+      "gender": null,
+      "pronunciation": "ZUGRUNDE RIKHTEN",
+      "category": "travel",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist zugrunde richten.",
+          "english": "It is wreck."
+        }
+      ]
+    }
+  ]
+}

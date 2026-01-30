@@ -1,0 +1,1265 @@
+{
+  "category": "family",
+  "words": [
+    {
+      "id": 208,
+      "german": "anziehen (Person)",
+      "english": "dress",
+      "gender": null,
+      "pronunciation": "ANZEEHEN PERSON",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist anziehen (Person).",
+          "english": "It is dress."
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "german": "der Art",
+      "english": "kind",
+      "gender": "masculine",
+      "pronunciation": "ART",
+      "category": "family",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Art.",
+          "english": "That is the kind."
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "german": "aufgehen (Sonne etc)",
+      "english": "rise (irr.)",
+      "gender": null,
+      "pronunciation": "AUFGEHEN SONNE ETC",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist aufgehen (Sonne etc).",
+          "english": "It is rise (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 346,
+      "german": "der aus verschiedenen Gründen",
+      "english": "for various reasons",
+      "gender": "masculine",
+      "pronunciation": "AUS VERSKHEEDENEN GRUENDEN",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der aus verschiedenen Gründen.",
+          "english": "That is the for various reasons."
+        }
+      ]
+    },
+    {
+      "id": 414,
+      "german": "der Austausch von Gefangenen",
+      "english": "exchange of prisoners",
+      "gender": "masculine",
+      "pronunciation": "AUSTAUSKH VON GEFANGENEN",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Austausch von Gefangenen.",
+          "english": "That is the exchange of prisoners."
+        }
+      ]
+    },
+    {
+      "id": 611,
+      "german": "besonderer",
+      "english": "particular",
+      "gender": null,
+      "pronunciation": "BESONDERER",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist besonderer.",
+          "english": "It is particular."
+        }
+      ]
+    },
+    {
+      "id": 612,
+      "german": "besonders",
+      "english": "particularly",
+      "gender": null,
+      "pronunciation": "BESONDERS",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist besonders.",
+          "english": "It is particularly."
+        }
+      ]
+    },
+    {
+      "id": 1342,
+      "german": "der Eltern",
+      "english": "parents",
+      "gender": "masculine",
+      "pronunciation": "ELTERN",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Eltern.",
+          "english": "That is the parents."
+        }
+      ]
+    },
+    {
+      "id": 1366,
+      "german": "der Enkel",
+      "english": "grandson",
+      "gender": "masculine",
+      "pronunciation": "ENKEL",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Enkel.",
+          "english": "That is the grandson."
+        }
+      ]
+    },
+    {
+      "id": 1367,
+      "german": "die Enkelin",
+      "english": "granddaughter",
+      "gender": "feminine",
+      "pronunciation": "ENKELIN",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Enkelin.",
+          "english": "That is the granddaughter."
+        }
+      ]
+    },
+    {
+      "id": 1368,
+      "german": "der Enkelkind",
+      "english": "grandchild",
+      "gender": "masculine",
+      "pronunciation": "ENKELKIND",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Enkelkind.",
+          "english": "That is the grandchild."
+        }
+      ]
+    },
+    {
+      "id": 1417,
+      "german": "er ist immer freundlich",
+      "english": "he is always kind",
+      "gender": null,
+      "pronunciation": "ER IST IMMER FROYNDLIKH",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist er ist immer freundlich.",
+          "english": "It is he is always kind."
+        }
+      ]
+    },
+    {
+      "id": 1634,
+      "german": "der Familie",
+      "english": "family",
+      "gender": "masculine",
+      "pronunciation": "FAMILEE",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Familie.",
+          "english": "That is the family."
+        }
+      ]
+    },
+    {
+      "id": 1635,
+      "german": "der Familienleben",
+      "english": "family-life",
+      "gender": "masculine",
+      "pronunciation": "FAMILEENLEBEN",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Familienleben.",
+          "english": "That is the family-life."
+        }
+      ]
+    },
+    {
+      "id": 1636,
+      "german": "der Familienname",
+      "english": "surname",
+      "gender": "masculine",
+      "pronunciation": "FAMILEENNAME",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Familienname.",
+          "english": "That is the surname."
+        }
+      ]
+    },
+    {
+      "id": 1741,
+      "german": "der Flucht aus dem Gefängnis",
+      "english": "escape out of prison",
+      "gender": "masculine",
+      "pronunciation": "FLUKHT AUS DEM GEFAENGNIS",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Flucht aus dem Gefängnis.",
+          "english": "That is the escape out of prison."
+        }
+      ]
+    },
+    {
+      "id": 1932,
+      "german": "der gebräunt von der Sonne",
+      "english": "browned by the sun",
+      "gender": "masculine",
+      "pronunciation": "GEBROYNT VON SONNE",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der gebräunt von Sonne.",
+          "english": "That is the browned by the sun."
+        }
+      ]
+    },
+    {
+      "id": 1960,
+      "german": "der Gefangener",
+      "english": "prisoner",
+      "gender": "masculine",
+      "pronunciation": "GEFANGENER",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Gefangener.",
+          "english": "That is the prisoner."
+        }
+      ]
+    },
+    {
+      "id": 1961,
+      "german": "Gefangen setzen",
+      "english": "imprison",
+      "gender": null,
+      "pronunciation": "GEFANGEN SETZEN",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Gefangen setzen.",
+          "english": "It is imprison."
+        }
+      ]
+    },
+    {
+      "id": 1962,
+      "german": "der Gefängnis",
+      "english": "prison",
+      "gender": "masculine",
+      "pronunciation": "GEFAENGNIS",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Gefängnis.",
+          "english": "That is the prison."
+        }
+      ]
+    },
+    {
+      "id": 2212,
+      "german": "der Gift",
+      "english": "poison",
+      "gender": "masculine",
+      "pronunciation": "GIFT",
+      "category": "family",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Gift.",
+          "english": "That is the poison."
+        }
+      ]
+    },
+    {
+      "id": 2213,
+      "german": "giftig",
+      "english": "poisonous",
+      "gender": null,
+      "pronunciation": "GIFTIG",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist giftig.",
+          "english": "It is poisonous."
+        }
+      ]
+    },
+    {
+      "id": 2292,
+      "german": "der Großeltern",
+      "english": "grandparents",
+      "gender": "masculine",
+      "pronunciation": "GROSSELTERN",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Großeltern.",
+          "english": "That is the grandparents."
+        }
+      ]
+    },
+    {
+      "id": 2294,
+      "german": "der Großmutter",
+      "english": "grandmother",
+      "gender": "masculine",
+      "pronunciation": "GROSSMUTTER",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Großmutter.",
+          "english": "That is the grandmother."
+        }
+      ]
+    },
+    {
+      "id": 2295,
+      "german": "der Großvater",
+      "english": "grandfather",
+      "gender": "masculine",
+      "pronunciation": "GROSSVATER",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Großvater.",
+          "english": "That is the grandfather."
+        }
+      ]
+    },
+    {
+      "id": 2301,
+      "german": "der Grund",
+      "english": "reason",
+      "gender": "masculine",
+      "pronunciation": "GRUND",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Grund.",
+          "english": "That is the reason."
+        }
+      ]
+    },
+    {
+      "id": 2718,
+      "german": "insbesondere",
+      "english": "particularly",
+      "gender": null,
+      "pronunciation": "INSBESONDERE",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist insbesondere.",
+          "english": "It is particularly."
+        }
+      ]
+    },
+    {
+      "id": 2862,
+      "german": "das Kind",
+      "english": "child (irr.)",
+      "gender": "neuter",
+      "pronunciation": "KIND",
+      "category": "family",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist das Kind.",
+          "english": "That is the child (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 2863,
+      "german": "der Kinder",
+      "english": "children",
+      "gender": "masculine",
+      "pronunciation": "KINDER",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Kinder.",
+          "english": "That is the children."
+        }
+      ]
+    },
+    {
+      "id": 2864,
+      "german": "der Kindertagesstätte",
+      "english": "nursery",
+      "gender": "masculine",
+      "pronunciation": "KINDERTAGESSTAETTE",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Kindertagesstätte.",
+          "english": "That is the nursery."
+        }
+      ]
+    },
+    {
+      "id": 2866,
+      "german": "kindisch",
+      "english": "childish",
+      "gender": null,
+      "pronunciation": "KINDISKH",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist kindisch.",
+          "english": "It is childish."
+        }
+      ]
+    },
+    {
+      "id": 2867,
+      "german": "kindlich",
+      "english": "childlike",
+      "gender": null,
+      "pronunciation": "KINDLIKH",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist kindlich.",
+          "english": "It is childlike."
+        }
+      ]
+    },
+    {
+      "id": 2990,
+      "german": "der Krankenschwester",
+      "english": "nurse",
+      "gender": "masculine",
+      "pronunciation": "KRANKENSKHWESTER",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Krankenschwester.",
+          "english": "That is the nurse."
+        }
+      ]
+    },
+    {
+      "id": 3239,
+      "german": "der männliche Person",
+      "english": "male",
+      "gender": "masculine",
+      "pronunciation": "MAENNLIKHE PERSON",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der männliche Person.",
+          "english": "That is the male."
+        }
+      ]
+    },
+    {
+      "id": 3447,
+      "german": "die Mutter",
+      "english": "mother",
+      "gender": "feminine",
+      "pronunciation": "MUTTER",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist die Mutter.",
+          "english": "That is the mother."
+        }
+      ]
+    },
+    {
+      "id": 3448,
+      "german": "mütterlich",
+      "english": "motherly",
+      "gender": null,
+      "pronunciation": "MUETTERLIKH",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist mütterlich.",
+          "english": "It is motherly."
+        }
+      ]
+    },
+    {
+      "id": 3449,
+      "german": "der Muttersprache",
+      "english": "mother-tongue",
+      "gender": "masculine",
+      "pronunciation": "MUTTERSPRAKHE",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Muttersprache.",
+          "english": "That is the mother-tongue."
+        }
+      ]
+    },
+    {
+      "id": 3450,
+      "german": "der Muttersprachler",
+      "english": "native speaker",
+      "gender": "masculine",
+      "pronunciation": "MUTTERSPRAKHLER",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Muttersprachler.",
+          "english": "That is the native speaker."
+        }
+      ]
+    },
+    {
+      "id": 3544,
+      "german": "nicht nur sondern auch",
+      "english": "not only but also",
+      "gender": null,
+      "pronunciation": "NIKHT NUR SONDERN AUKH",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist nicht nur sondern auch.",
+          "english": "It is not only but also."
+        }
+      ]
+    },
+    {
+      "id": 3638,
+      "german": "der Onkel",
+      "english": "uncle",
+      "gender": "masculine",
+      "pronunciation": "ONKEL",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Onkel.",
+          "english": "That is the uncle."
+        }
+      ]
+    },
+    {
+      "id": 3679,
+      "german": "der Pate",
+      "english": "godfather",
+      "gender": "masculine",
+      "pronunciation": "PATE",
+      "category": "family",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Pate.",
+          "english": "That is the godfather."
+        }
+      ]
+    },
+    {
+      "id": 3681,
+      "german": "die Patin",
+      "english": "godmother",
+      "gender": "feminine",
+      "pronunciation": "PATIN",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist die Patin.",
+          "english": "That is the godmother."
+        }
+      ]
+    },
+    {
+      "id": 3697,
+      "german": "der Person",
+      "english": "person",
+      "gender": "masculine",
+      "pronunciation": "PERSON",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Person.",
+          "english": "That is the person."
+        }
+      ]
+    },
+    {
+      "id": 3698,
+      "german": "der Person im Ruhestand",
+      "english": "retired person",
+      "gender": "masculine",
+      "pronunciation": "PERSON IM RUHESTAND",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Person im Ruhestand.",
+          "english": "That is the retired person."
+        }
+      ]
+    },
+    {
+      "id": 3699,
+      "german": "der Personal",
+      "english": "staff",
+      "gender": "masculine",
+      "pronunciation": "PERSONAL",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Personal.",
+          "english": "That is the staff."
+        }
+      ]
+    },
+    {
+      "id": 3700,
+      "german": "persönlich",
+      "english": "personal",
+      "gender": null,
+      "pronunciation": "PERSOENLIKH",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist persönlich.",
+          "english": "It is personal."
+        }
+      ]
+    },
+    {
+      "id": 4016,
+      "german": "der Saison",
+      "english": "season",
+      "gender": "masculine",
+      "pronunciation": "SAISON",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Saison.",
+          "english": "That is the season."
+        }
+      ]
+    },
+    {
+      "id": 4017,
+      "german": "der Saisonschlußverkauf",
+      "english": "end of season sale",
+      "gender": "masculine",
+      "pronunciation": "SAISONSKHLUSSVERKAUF",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Saisonschlußverkauf.",
+          "english": "That is the end of season sale."
+        }
+      ]
+    },
+    {
+      "id": 4097,
+      "german": "der Schwiegereltern",
+      "english": "parents-in-law",
+      "gender": "masculine",
+      "pronunciation": "SKHWEEGERELTERN",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Schwiegereltern.",
+          "english": "That is the parents-in-law."
+        }
+      ]
+    },
+    {
+      "id": 4098,
+      "german": "der Schwiegersohn",
+      "english": "son-in-law",
+      "gender": "masculine",
+      "pronunciation": "SKHWEEGERSOHN",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Schwiegersohn.",
+          "english": "That is the son-in-law."
+        }
+      ]
+    },
+    {
+      "id": 4114,
+      "german": "der schlafende Person",
+      "english": "sleeper",
+      "gender": "masculine",
+      "pronunciation": "SKHLAFENDE PERSON",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der schlafende Person.",
+          "english": "That is the sleeper."
+        }
+      ]
+    },
+    {
+      "id": 4240,
+      "german": "die Schwägerin",
+      "english": "sister-in-law",
+      "gender": "feminine",
+      "pronunciation": "SKHWAEGERIN",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Schwägerin.",
+          "english": "That is the sister-in-law."
+        }
+      ]
+    },
+    {
+      "id": 4257,
+      "german": "der Schwerhörige",
+      "english": "deaf person",
+      "gender": "masculine",
+      "pronunciation": "SKHWERHOERIGE",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Schwerhörige.",
+          "english": "That is the deaf person."
+        }
+      ]
+    },
+    {
+      "id": 4258,
+      "german": "der schwerhörige Person",
+      "english": "deaf",
+      "gender": "masculine",
+      "pronunciation": "SKHWERHOERIGE PERSON",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der schwerhörige Person.",
+          "english": "That is the deaf."
+        }
+      ]
+    },
+    {
+      "id": 4259,
+      "german": "der Schwerhöriger",
+      "english": "deaf person",
+      "gender": "masculine",
+      "pronunciation": "SKHWERHOERIGER",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Schwerhöriger.",
+          "english": "That is the deaf person."
+        }
+      ]
+    },
+    {
+      "id": 4261,
+      "german": "die Schwester",
+      "english": "sister",
+      "gender": "feminine",
+      "pronunciation": "SKHWESTER",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Schwester.",
+          "english": "That is the sister."
+        }
+      ]
+    },
+    {
+      "id": 4262,
+      "german": "der Schwiegermutter",
+      "english": "mother-in-law",
+      "gender": "masculine",
+      "pronunciation": "SKHWEEGERMUTTER",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Schwiegermutter.",
+          "english": "That is the mother-in-law."
+        }
+      ]
+    },
+    {
+      "id": 4263,
+      "german": "der Schwiegertochter",
+      "english": "daughter-in-law",
+      "gender": "masculine",
+      "pronunciation": "SKHWEEGERTOKHTER",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Schwiegertochter.",
+          "english": "That is the daughter-in-law."
+        }
+      ]
+    },
+    {
+      "id": 4264,
+      "german": "der Schwiegervater",
+      "english": "father-in-law",
+      "gender": "masculine",
+      "pronunciation": "SKHWEEGERVATER",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Schwiegervater.",
+          "english": "That is the father-in-law."
+        }
+      ]
+    },
+    {
+      "id": 4470,
+      "german": "der Sohn",
+      "english": "son",
+      "gender": "masculine",
+      "pronunciation": "SOHN",
+      "category": "family",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Sohn.",
+          "english": "That is the son."
+        }
+      ]
+    },
+    {
+      "id": 4483,
+      "german": "sondern",
+      "english": "but",
+      "gender": null,
+      "pronunciation": "SONDERN",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist sondern.",
+          "english": "It is but."
+        }
+      ]
+    },
+    {
+      "id": 4484,
+      "german": "der Sonne",
+      "english": "sun",
+      "gender": "masculine",
+      "pronunciation": "SONNE",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Sonne.",
+          "english": "That is the sun."
+        }
+      ]
+    },
+    {
+      "id": 4485,
+      "german": "der Sonnenaufgang",
+      "english": "sun rise, day break",
+      "gender": "masculine",
+      "pronunciation": "SONNENAUFGANG",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Sonnenaufgang.",
+          "english": "That is the sun rise, day break."
+        }
+      ]
+    },
+    {
+      "id": 4486,
+      "german": "der Sonnenlicht",
+      "english": "sunlight",
+      "gender": "masculine",
+      "pronunciation": "SONNENLIKHT",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Sonnenlicht.",
+          "english": "That is the sunlight."
+        }
+      ]
+    },
+    {
+      "id": 4488,
+      "german": "der Sonnenstrahl",
+      "english": "sunbeam",
+      "gender": "masculine",
+      "pronunciation": "SONNENSTRAHL",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Sonnenstrahl.",
+          "english": "That is the sunbeam."
+        }
+      ]
+    },
+    {
+      "id": 4489,
+      "german": "der Sonnenuntergang",
+      "english": "sunset, dusk",
+      "gender": "masculine",
+      "pronunciation": "SONNENUNTERGANG",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Sonnenuntergang.",
+          "english": "That is the sunset, dusk."
+        }
+      ]
+    },
+    {
+      "id": 4490,
+      "german": "sonnig",
+      "english": "sunny",
+      "gender": null,
+      "pronunciation": "SONNIG",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist sonnig.",
+          "english": "It is sunny."
+        }
+      ]
+    },
+    {
+      "id": 4491,
+      "german": "der Sonntag",
+      "english": "Sunday",
+      "gender": "masculine",
+      "pronunciation": "SONNTAG",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Sonntag.",
+          "english": "That is the Sunday."
+        }
+      ]
+    },
+    {
+      "id": 4492,
+      "german": "sonst",
+      "english": "otherwise",
+      "gender": null,
+      "pronunciation": "SONST",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist sonst.",
+          "english": "It is otherwise."
+        }
+      ]
+    },
+    {
+      "id": 4494,
+      "german": "sonst noch",
+      "english": "else",
+      "gender": null,
+      "pronunciation": "SONST NOKH",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist sonst noch.",
+          "english": "It is else."
+        }
+      ]
+    },
+    {
+      "id": 4495,
+      "german": "sonst wo",
+      "english": "elsewhere",
+      "gender": null,
+      "pronunciation": "SONST WO",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist sonst wo.",
+          "english": "It is elsewhere."
+        }
+      ]
+    },
+    {
+      "id": 4718,
+      "german": "der Tante",
+      "english": "aunt",
+      "gender": "masculine",
+      "pronunciation": "TANTE",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Tante.",
+          "english": "That is the aunt."
+        }
+      ]
+    },
+    {
+      "id": 4801,
+      "german": "der Tochter",
+      "english": "daughter",
+      "gender": "masculine",
+      "pronunciation": "TOKHTER",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Tochter.",
+          "english": "That is the daughter."
+        }
+      ]
+    },
+    {
+      "id": 4990,
+      "german": "unfreundlich",
+      "english": "unkind",
+      "gender": null,
+      "pronunciation": "UNFROYNDLIKH",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist unfreundlich.",
+          "english": "It is unkind."
+        }
+      ]
+    },
+    {
+      "id": 5066,
+      "german": "der Unterrichtsstunde",
+      "english": "lesson",
+      "gender": "masculine",
+      "pronunciation": "UNTERRIKHTSSTUNDE",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Unterrichtsstunde.",
+          "english": "That is the lesson."
+        }
+      ]
+    },
+    {
+      "id": 5084,
+      "german": "der Urgroßvater",
+      "english": "great-grandfather",
+      "gender": "masculine",
+      "pronunciation": "URGROSSVATER",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Urgroßvater.",
+          "english": "That is the great-grandfather."
+        }
+      ]
+    },
+    {
+      "id": 5096,
+      "german": "der Vater",
+      "english": "father",
+      "gender": "masculine",
+      "pronunciation": "VATER",
+      "category": "family",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Vater.",
+          "english": "That is the father."
+        }
+      ]
+    },
+    {
+      "id": 5155,
+      "german": "vergiften",
+      "english": "poison",
+      "gender": null,
+      "pronunciation": "VERGIFTEN",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist vergiften.",
+          "english": "It is poison."
+        }
+      ]
+    },
+    {
+      "id": 5156,
+      "german": "vergiftet",
+      "english": "poisoned",
+      "gender": null,
+      "pronunciation": "VERGIFTET",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist vergiftet.",
+          "english": "It is poisoned."
+        }
+      ]
+    },
+    {
+      "id": 5213,
+      "german": "der Vernunft",
+      "english": "reason",
+      "gender": "masculine",
+      "pronunciation": "VERNUNFT",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Vernunft.",
+          "english": "That is the reason."
+        }
+      ]
+    },
+    {
+      "id": 5215,
+      "german": "vernünftig (adv.)",
+      "english": "reasonably",
+      "gender": null,
+      "pronunciation": "VERNUENFTIG ADV.",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist vernünftig (adv.).",
+          "english": "It is reasonably."
+        }
+      ]
+    },
+    {
+      "id": 5241,
+      "german": "der versicherte Person",
+      "english": "insured person",
+      "gender": "masculine",
+      "pronunciation": "VERSIKHERTE PERSON",
+      "category": "family",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der versicherte Person.",
+          "english": "That is the insured person."
+        }
+      ]
+    },
+    {
+      "id": 5394,
+      "german": "der Vorsitzende",
+      "english": "chairperson",
+      "gender": "masculine",
+      "pronunciation": "VORSITZENDE",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Vorsitzende.",
+          "english": "That is the chairperson."
+        }
+      ]
+    },
+    {
+      "id": 5615,
+      "german": "der Wild(bret)",
+      "english": "venison",
+      "gender": "masculine",
+      "pronunciation": "WILDBRET",
+      "category": "family",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Wild(bret).",
+          "english": "That is the venison."
+        }
+      ]
+    }
+  ]
+}

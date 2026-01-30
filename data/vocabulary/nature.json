@@ -1,0 +1,1460 @@
+{
+  "category": "nature",
+  "words": [
+    {
+      "id": 66,
+      "german": "adoptieren",
+      "english": "adopt",
+      "gender": null,
+      "pronunciation": "ADOPTEEREN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist adoptieren.",
+          "english": "It is adopt."
+        }
+      ]
+    },
+    {
+      "id": 452,
+      "german": "das Baum",
+      "english": "tree",
+      "gender": "neuter",
+      "pronunciation": "BAUM",
+      "category": "nature",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist das Baum.",
+          "english": "That is the tree."
+        }
+      ]
+    },
+    {
+      "id": 453,
+      "german": "der Baumspitze",
+      "english": "top of the tree",
+      "gender": "masculine",
+      "pronunciation": "BAUMSPITZE",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Baumspitze.",
+          "english": "That is the top of the tree."
+        }
+      ]
+    },
+    {
+      "id": 454,
+      "german": "der Baumstamm",
+      "english": "trunk of a tree",
+      "gender": "masculine",
+      "pronunciation": "BAUMSTAMM",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Baumstamm.",
+          "english": "That is the trunk of a tree."
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "german": "der Baumwolle",
+      "english": "cotton",
+      "gender": "masculine",
+      "pronunciation": "BAUMWOLLE",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Baumwolle.",
+          "english": "That is the cotton."
+        }
+      ]
+    },
+    {
+      "id": 512,
+      "german": "beherbergen",
+      "english": "house",
+      "gender": null,
+      "pronunciation": "BEHERBERGEN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist beherbergen.",
+          "english": "It is house."
+        }
+      ]
+    },
+    {
+      "id": 572,
+      "german": "der Berg",
+      "english": "mountain",
+      "gender": "masculine",
+      "pronunciation": "BERG",
+      "category": "nature",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Berg.",
+          "english": "That is the mountain."
+        }
+      ]
+    },
+    {
+      "id": 573,
+      "german": "der Berggipfel",
+      "english": "top of the mountain",
+      "gender": "masculine",
+      "pronunciation": "BERGGIPFEL",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Berggipfel.",
+          "english": "That is the top of the mountain."
+        }
+      ]
+    },
+    {
+      "id": 574,
+      "german": "der Bergmann",
+      "english": "miner",
+      "gender": "masculine",
+      "pronunciation": "BERGMANN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Bergmann.",
+          "english": "That is the miner."
+        }
+      ]
+    },
+    {
+      "id": 575,
+      "german": "der Bergwerk",
+      "english": "mine",
+      "gender": "masculine",
+      "pronunciation": "BERGWERK",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Bergwerk.",
+          "english": "That is the mine."
+        }
+      ]
+    },
+    {
+      "id": 663,
+      "german": "die Bewerbung",
+      "english": "application",
+      "gender": "feminine",
+      "pronunciation": "BEWERBUNG",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Bewerbung.",
+          "english": "That is the application."
+        }
+      ]
+    },
+    {
+      "id": 723,
+      "german": "der Blume",
+      "english": "flower",
+      "gender": "masculine",
+      "pronunciation": "BLUME",
+      "category": "nature",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Blume.",
+          "english": "That is the flower."
+        }
+      ]
+    },
+    {
+      "id": 724,
+      "german": "der Blumenbeet",
+      "english": "flower bed",
+      "gender": "masculine",
+      "pronunciation": "BLUMENBEET",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Blumenbeet.",
+          "english": "That is the flower bed."
+        }
+      ]
+    },
+    {
+      "id": 725,
+      "german": "der Blumengarten",
+      "english": "flower-garden",
+      "gender": "masculine",
+      "pronunciation": "BLUMENGARTEN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Blumengarten.",
+          "english": "That is the flower-garden."
+        }
+      ]
+    },
+    {
+      "id": 726,
+      "german": "der Blumenstrauß",
+      "english": "bunch of flowers",
+      "gender": "masculine",
+      "pronunciation": "BLUMENSTRAUSS",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Blumenstrauß.",
+          "english": "That is the bunch of flowers."
+        }
+      ]
+    },
+    {
+      "id": 727,
+      "german": "der Blumentopf",
+      "english": "flower-pot",
+      "gender": "masculine",
+      "pronunciation": "BLUMENTOPF",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Blumentopf.",
+          "english": "That is the flower-pot."
+        }
+      ]
+    },
+    {
+      "id": 728,
+      "german": "der Blumenzwiebel",
+      "english": "bulb",
+      "gender": "masculine",
+      "pronunciation": "BLUMENZWEEBEL",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Blumenzwiebel.",
+          "english": "That is the bulb."
+        }
+      ]
+    },
+    {
+      "id": 763,
+      "german": "braun gebrannt",
+      "english": "sunburnt",
+      "gender": null,
+      "pronunciation": "BRAUN GEBRANNT",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist braun gebrannt.",
+          "english": "It is sunburnt."
+        }
+      ]
+    },
+    {
+      "id": 894,
+      "german": "datieren",
+      "english": "date",
+      "gender": null,
+      "pronunciation": "DATEEREN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist datieren.",
+          "english": "It is date."
+        }
+      ]
+    },
+    {
+      "id": 949,
+      "german": "der Diamant",
+      "english": "diamond",
+      "gender": "masculine",
+      "pronunciation": "DIAMANT",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Diamant.",
+          "english": "That is the diamond."
+        }
+      ]
+    },
+    {
+      "id": 999,
+      "german": "diktieren",
+      "english": "dictate",
+      "gender": null,
+      "pronunciation": "DIKTEEREN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist diktieren.",
+          "english": "It is dictate."
+        }
+      ]
+    },
+    {
+      "id": 1005,
+      "german": "diskutieren",
+      "english": "discuss",
+      "gender": null,
+      "pronunciation": "DISKUTEEREN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist diskutieren.",
+          "english": "It is discuss."
+        }
+      ]
+    },
+    {
+      "id": 1013,
+      "german": "der Donner",
+      "english": "thunder",
+      "gender": "masculine",
+      "pronunciation": "DONNER",
+      "category": "nature",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Donner.",
+          "english": "That is the thunder."
+        }
+      ]
+    },
+    {
+      "id": 1014,
+      "german": "donnern",
+      "english": "thunder",
+      "gender": null,
+      "pronunciation": "DONNERN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist donnern.",
+          "english": "It is thunder."
+        }
+      ]
+    },
+    {
+      "id": 1017,
+      "german": "die doppelte Verglasung",
+      "english": "double glazing",
+      "gender": "feminine",
+      "pronunciation": "DOPPELTE VERGLASUNG",
+      "category": "nature",
+      "difficulty": "B2",
+      "examples": [
+        {
+          "german": "Das ist die doppelte Verglasung.",
+          "english": "That is the double glazing."
+        }
+      ]
+    },
+    {
+      "id": 1348,
+      "german": "empfindlich",
+      "english": "delicate",
+      "gender": null,
+      "pronunciation": "EMPFINDLIKH",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist empfindlich.",
+          "english": "It is delicate."
+        }
+      ]
+    },
+    {
+      "id": 1363,
+      "german": "der Engel im Himmel",
+      "english": "angels in heaven",
+      "gender": "masculine",
+      "pronunciation": "ENGEL IM HIMMEL",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Engel im Himmel.",
+          "english": "That is the angels in heaven."
+        }
+      ]
+    },
+    {
+      "id": 1383,
+      "german": "die Entlassung",
+      "english": "dismissal",
+      "gender": "feminine",
+      "pronunciation": "ENTLASSUNG",
+      "category": "nature",
+      "difficulty": "B2",
+      "examples": [
+        {
+          "german": "Das ist die Entlassung.",
+          "english": "That is the dismissal."
+        }
+      ]
+    },
+    {
+      "id": 1543,
+      "german": "erziehen",
+      "english": "educate",
+      "gender": null,
+      "pronunciation": "ERZEEHEN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist erziehen.",
+          "english": "It is educate."
+        }
+      ]
+    },
+    {
+      "id": 1544,
+      "german": "der Erzieher",
+      "english": "educator",
+      "gender": "masculine",
+      "pronunciation": "ERZEEHER",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Erzieher.",
+          "english": "That is the educator."
+        }
+      ]
+    },
+    {
+      "id": 1545,
+      "german": "die Erziehung",
+      "english": "education",
+      "gender": "feminine",
+      "pronunciation": "ERZEEHUNG",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die Erziehung.",
+          "english": "That is the education."
+        }
+      ]
+    },
+    {
+      "id": 1571,
+      "german": "der etwas von dieser Art",
+      "english": "a thing of this nature",
+      "gender": "masculine",
+      "pronunciation": "ETWAS VON DEESER ART",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der etwas von dieser Art.",
+          "english": "That is the a thing of this nature."
+        }
+      ]
+    },
+    {
+      "id": 1582,
+      "german": "existieren",
+      "english": "exist",
+      "gender": null,
+      "pronunciation": "EXISTEEREN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist existieren.",
+          "english": "It is exist."
+        }
+      ]
+    },
+    {
+      "id": 1585,
+      "german": "experimentieren",
+      "english": "experiment",
+      "gender": null,
+      "pronunciation": "EXPERIMENTEEREN",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist experimentieren.",
+          "english": "It is experiment."
+        }
+      ]
+    },
+    {
+      "id": 1591,
+      "german": "exportieren",
+      "english": "export",
+      "gender": null,
+      "pronunciation": "EXPORTEEREN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist exportieren.",
+          "english": "It is export."
+        }
+      ]
+    },
+    {
+      "id": 1593,
+      "german": "der Extrem",
+      "english": "extreem",
+      "gender": "masculine",
+      "pronunciation": "EXTREM",
+      "category": "nature",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Extrem.",
+          "english": "That is the extreem."
+        }
+      ]
+    },
+    {
+      "id": 1639,
+      "german": "fangen",
+      "english": "catch (irr.)",
+      "gender": null,
+      "pronunciation": "FANGEN",
+      "category": "nature",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist fangen.",
+          "english": "It is catch (irr.)."
+        }
+      ]
+    },
+    {
+      "id": 1673,
+      "german": "der Ferien(US)",
+      "english": "vacation",
+      "gender": "masculine",
+      "pronunciation": "FEREENUS",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Ferien(US).",
+          "english": "That is the vacation."
+        }
+      ]
+    },
+    {
+      "id": 1754,
+      "german": "der Flussufer",
+      "english": "river-bank",
+      "gender": "masculine",
+      "pronunciation": "FLUSSUFER",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Flussufer.",
+          "english": "That is the river-bank."
+        }
+      ]
+    },
+    {
+      "id": 1810,
+      "german": "frequentieren",
+      "english": "frequent",
+      "gender": null,
+      "pronunciation": "FREQUENTEEREN",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist frequentieren.",
+          "english": "It is frequent."
+        }
+      ]
+    },
+    {
+      "id": 1904,
+      "german": "der Garten",
+      "english": "garden",
+      "gender": "masculine",
+      "pronunciation": "GARTEN",
+      "category": "nature",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Garten.",
+          "english": "That is the garden."
+        }
+      ]
+    },
+    {
+      "id": 1918,
+      "german": "gebildet",
+      "english": "educated",
+      "gender": null,
+      "pronunciation": "GEBILDET",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist gebildet.",
+          "english": "It is educated."
+        }
+      ]
+    },
+    {
+      "id": 2155,
+      "german": "gesund",
+      "english": "healthy",
+      "gender": null,
+      "pronunciation": "GESUND",
+      "category": "nature",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist gesund.",
+          "english": "It is healthy."
+        }
+      ]
+    },
+    {
+      "id": 2156,
+      "german": "der gesunder Menschenverstand",
+      "english": "commonsense",
+      "gender": "masculine",
+      "pronunciation": "GESUNMENSKHENVERSTAND",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der gesunMenschenverstand.",
+          "english": "That is the commonsense."
+        }
+      ]
+    },
+    {
+      "id": 2158,
+      "german": "gesungen",
+      "english": "sung",
+      "gender": null,
+      "pronunciation": "GESUNGEN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist gesungen.",
+          "english": "It is sung."
+        }
+      ]
+    },
+    {
+      "id": 2159,
+      "german": "gesunken",
+      "english": "sunk",
+      "gender": null,
+      "pronunciation": "GESUNKEN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist gesunken.",
+          "english": "It is sunk."
+        }
+      ]
+    },
+    {
+      "id": 2197,
+      "german": "der Gewitter",
+      "english": "thunderstorm",
+      "gender": "masculine",
+      "pronunciation": "GEWITTER",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Gewitter.",
+          "english": "That is the thunderstorm."
+        }
+      ]
+    },
+    {
+      "id": 2250,
+      "german": "der Goldbergwerk",
+      "english": "gold-mine",
+      "gender": "masculine",
+      "pronunciation": "GOLDBERGWERK",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Goldbergwerk.",
+          "english": "That is the gold-mine."
+        }
+      ]
+    },
+    {
+      "id": 2424,
+      "german": "der Haustier",
+      "english": "pet",
+      "gender": "masculine",
+      "pronunciation": "HAUSTEER",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Haustier.",
+          "english": "That is the pet."
+        }
+      ]
+    },
+    {
+      "id": 2504,
+      "german": "der Himmel",
+      "english": "sky",
+      "gender": "masculine",
+      "pronunciation": "HIMMEL",
+      "category": "nature",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Himmel.",
+          "english": "That is the sky."
+        }
+      ]
+    },
+    {
+      "id": 2515,
+      "german": "der hinter den Bergen",
+      "english": "behind the mountains",
+      "gender": "masculine",
+      "pronunciation": "HINTER DEN BERGEN",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der hinter den Bergen.",
+          "english": "That is the behind the mountains."
+        }
+      ]
+    },
+    {
+      "id": 2570,
+      "german": "der Hund",
+      "english": "dog",
+      "gender": "masculine",
+      "pronunciation": "HUND",
+      "category": "nature",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Hund.",
+          "english": "That is the dog."
+        }
+      ]
+    },
+    {
+      "id": 2571,
+      "german": "hundert",
+      "english": "hundred",
+      "gender": null,
+      "pronunciation": "HUNDERT",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist hundert.",
+          "english": "It is hundred."
+        }
+      ]
+    },
+    {
+      "id": 2572,
+      "german": "hundertste",
+      "english": "hundredth",
+      "gender": null,
+      "pronunciation": "HUNDERTSTE",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist hundertste.",
+          "english": "It is hundredth."
+        }
+      ]
+    },
+    {
+      "id": 2623,
+      "german": "importieren",
+      "english": "import",
+      "gender": null,
+      "pronunciation": "IMPORTEEREN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist importieren.",
+          "english": "It is import."
+        }
+      ]
+    },
+    {
+      "id": 2637,
+      "german": "der in den Garten",
+      "english": "into the garden",
+      "gender": "masculine",
+      "pronunciation": "IN DEN GARTEN",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der in den Garten.",
+          "english": "That is the into the garden."
+        }
+      ]
+    },
+    {
+      "id": 2835,
+      "german": "der Kathedrale",
+      "english": "cathedral",
+      "gender": "masculine",
+      "pronunciation": "KATHEDRALE",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Kathedrale.",
+          "english": "That is the cathedral."
+        }
+      ]
+    },
+    {
+      "id": 2836,
+      "german": "der Katze",
+      "english": "cat",
+      "gender": "masculine",
+      "pronunciation": "KATZE",
+      "category": "nature",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Katze.",
+          "english": "That is the cat."
+        }
+      ]
+    },
+    {
+      "id": 2858,
+      "german": "kette den Hund an",
+      "english": "chain up the dog",
+      "gender": null,
+      "pronunciation": "KETTE DEN HUND AN",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist kette den Hund an.",
+          "english": "It is chain up the dog."
+        }
+      ]
+    },
+    {
+      "id": 2882,
+      "german": "die Klassifikation",
+      "english": "classification",
+      "gender": "feminine",
+      "pronunciation": "KLASSIFIKATION",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist die Klassifikation.",
+          "english": "That is the classification."
+        }
+      ]
+    },
+    {
+      "id": 2932,
+      "german": "kompliziert",
+      "english": "complicated",
+      "gender": null,
+      "pronunciation": "KOMPLIZEERT",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist kompliziert.",
+          "english": "It is complicated."
+        }
+      ]
+    },
+    {
+      "id": 3039,
+      "german": "der Kuscheltier",
+      "english": "pet",
+      "gender": "masculine",
+      "pronunciation": "KUSKHELTEER",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Kuscheltier.",
+          "english": "That is the pet."
+        }
+      ]
+    },
+    {
+      "id": 3103,
+      "german": "der Lebensunterhalt",
+      "english": "living",
+      "gender": "masculine",
+      "pronunciation": "LEBENSUNTERHALT",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Lebensunterhalt.",
+          "english": "That is the living."
+        }
+      ]
+    },
+    {
+      "id": 3199,
+      "german": "die Lösung",
+      "english": "solution",
+      "gender": "feminine",
+      "pronunciation": "LOESUNG",
+      "category": "nature",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist die Lösung.",
+          "english": "That is the solution."
+        }
+      ]
+    },
+    {
+      "id": 3277,
+      "german": "der Meeresboden",
+      "english": "bottom of the sea",
+      "gender": "masculine",
+      "pronunciation": "MEERESBODEN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Meeresboden.",
+          "english": "That is the bottom of the sea."
+        }
+      ]
+    },
+    {
+      "id": 3278,
+      "german": "der Meereshöhe",
+      "english": "sea-level",
+      "gender": "masculine",
+      "pronunciation": "MEERESHOEHE",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Meereshöhe.",
+          "english": "That is the sea-level."
+        }
+      ]
+    },
+    {
+      "id": 3280,
+      "german": "der Meereswellen",
+      "english": "sea waves",
+      "gender": "masculine",
+      "pronunciation": "MEERESWELLEN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Meereswellen.",
+          "english": "That is the sea waves."
+        }
+      ]
+    },
+    {
+      "id": 3411,
+      "german": "der Mond",
+      "english": "moon",
+      "gender": "masculine",
+      "pronunciation": "MOND",
+      "category": "nature",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Mond.",
+          "english": "That is the moon."
+        }
+      ]
+    },
+    {
+      "id": 3425,
+      "german": "die Multiplikation",
+      "english": "multiplication",
+      "gender": "feminine",
+      "pronunciation": "MULTIPLIKATION",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist die Multiplikation.",
+          "english": "That is the multiplication."
+        }
+      ]
+    },
+    {
+      "id": 3504,
+      "german": "der Natur",
+      "english": "nature",
+      "gender": "masculine",
+      "pronunciation": "NATUR",
+      "category": "nature",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Natur.",
+          "english": "That is the nature."
+        }
+      ]
+    },
+    {
+      "id": 3581,
+      "german": "notieren",
+      "english": "note",
+      "gender": null,
+      "pronunciation": "NOTEEREN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist notieren.",
+          "english": "It is note."
+        }
+      ]
+    },
+    {
+      "id": 3795,
+      "german": "protestieren",
+      "english": "protest",
+      "gender": null,
+      "pronunciation": "PROTESTEEREN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist protestieren.",
+          "english": "It is protest."
+        }
+      ]
+    },
+    {
+      "id": 3819,
+      "german": "die Qualifikation",
+      "english": "qualification",
+      "gender": "feminine",
+      "pronunciation": "QUALIFIKATION",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist die Qualifikation.",
+          "english": "That is the qualification."
+        }
+      ]
+    },
+    {
+      "id": 3871,
+      "german": "reflektieren",
+      "english": "reflect",
+      "gender": null,
+      "pronunciation": "REFLEKTEEREN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist reflektieren.",
+          "english": "It is reflect."
+        }
+      ]
+    },
+    {
+      "id": 3930,
+      "german": "respektieren",
+      "english": "respect",
+      "gender": null,
+      "pronunciation": "RESPEKTEEREN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist respektieren.",
+          "english": "It is respect."
+        }
+      ]
+    },
+    {
+      "id": 3932,
+      "german": "resultierend",
+      "english": "resulting",
+      "gender": null,
+      "pronunciation": "RESULTEEREND",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist resultierend.",
+          "english": "It is resulting."
+        }
+      ]
+    },
+    {
+      "id": 3943,
+      "german": "der Rindvieh",
+      "english": "cattle",
+      "gender": "masculine",
+      "pronunciation": "RINDVEEH",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Rindvieh.",
+          "english": "That is the cattle."
+        }
+      ]
+    },
+    {
+      "id": 4065,
+      "german": "schattieren",
+      "english": "shade",
+      "gender": null,
+      "pronunciation": "SKHATTEEREN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist schattieren.",
+          "english": "It is shade."
+        }
+      ]
+    },
+    {
+      "id": 4418,
+      "german": "sicher und gesund",
+      "english": "safe and sound",
+      "gender": null,
+      "pronunciation": "SIKHER UND GESUND",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist sicher und gesund.",
+          "english": "It is safe and sound."
+        }
+      ]
+    },
+    {
+      "id": 4614,
+      "german": "der Stier",
+      "english": "bull",
+      "gender": "masculine",
+      "pronunciation": "STEER",
+      "category": "nature",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Stier.",
+          "english": "That is the bull."
+        }
+      ]
+    },
+    {
+      "id": 4793,
+      "german": "der Tier",
+      "english": "animal",
+      "gender": "masculine",
+      "pronunciation": "TEER",
+      "category": "nature",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Tier.",
+          "english": "That is the animal."
+        }
+      ]
+    },
+    {
+      "id": 4794,
+      "german": "der Tierwelt",
+      "english": "animal world",
+      "gender": "masculine",
+      "pronunciation": "TEERWELT",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Tierwelt.",
+          "english": "That is the animal world."
+        }
+      ]
+    },
+    {
+      "id": 4830,
+      "german": "transportieren",
+      "english": "transport",
+      "gender": null,
+      "pronunciation": "TRANSPORTEEREN",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist transportieren.",
+          "english": "It is transport."
+        }
+      ]
+    },
+    {
+      "id": 4890,
+      "german": "der über den Bäumen",
+      "english": "above the trees",
+      "gender": "masculine",
+      "pronunciation": "UEBER DEN BOYMEN",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der über den Bäumen.",
+          "english": "That is the above the trees."
+        }
+      ]
+    },
+    {
+      "id": 4992,
+      "german": "ungebildet",
+      "english": "uneducated",
+      "gender": null,
+      "pronunciation": "UNGEBILDET",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist ungebildet.",
+          "english": "It is uneducated."
+        }
+      ]
+    },
+    {
+      "id": 5070,
+      "german": "der Unterschrift",
+      "english": "signature",
+      "gender": "masculine",
+      "pronunciation": "UNTERSKHRIFT",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Unterschrift.",
+          "english": "That is the signature."
+        }
+      ]
+    },
+    {
+      "id": 5179,
+      "german": "der Verkehrsunfall",
+      "english": "road accident",
+      "gender": "masculine",
+      "pronunciation": "VERKEHRSUNFALL",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Verkehrsunfall.",
+          "english": "That is the road accident."
+        }
+      ]
+    },
+    {
+      "id": 5257,
+      "german": "verstreuen",
+      "english": "scatter",
+      "gender": null,
+      "pronunciation": "VERSTROYEN",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist verstreuen.",
+          "english": "It is scatter."
+        }
+      ]
+    },
+    {
+      "id": 5287,
+      "german": "der verwelkte Blumen",
+      "english": "faded flowers",
+      "gender": "masculine",
+      "pronunciation": "VERWELKTE BLUMEN",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der verwelkte Blumen.",
+          "english": "That is the faded flowers."
+        }
+      ]
+    },
+    {
+      "id": 5337,
+      "german": "der Vogel",
+      "english": "bird",
+      "gender": "masculine",
+      "pronunciation": "VOGEL",
+      "category": "nature",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Vogel.",
+          "english": "That is the bird."
+        }
+      ]
+    },
+    {
+      "id": 5338,
+      "german": "der Vogelfeder",
+      "english": "feather",
+      "gender": "masculine",
+      "pronunciation": "VOGELFEDER",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Vogelfeder.",
+          "english": "That is the feather."
+        }
+      ]
+    },
+    {
+      "id": 5404,
+      "german": "vorübergehend",
+      "english": "passing by",
+      "gender": null,
+      "pronunciation": "VORUEBERGEHEND",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist vorübergehend.",
+          "english": "It is passing by."
+        }
+      ]
+    },
+    {
+      "id": 5413,
+      "german": "der Wachhund",
+      "english": "watch-dog",
+      "gender": "masculine",
+      "pronunciation": "WAKHHUND",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Wachhund.",
+          "english": "That is the watch-dog."
+        }
+      ]
+    },
+    {
+      "id": 5441,
+      "german": "der Wald",
+      "english": "wood",
+      "gender": "masculine",
+      "pronunciation": "WALD",
+      "category": "nature",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Wald.",
+          "english": "That is the wood."
+        }
+      ]
+    },
+    {
+      "id": 5489,
+      "german": "die Wattierung",
+      "english": "padding",
+      "gender": "feminine",
+      "pronunciation": "WATTEERUNG",
+      "category": "nature",
+      "difficulty": "B2",
+      "examples": [
+        {
+          "german": "Das ist die Wattierung.",
+          "english": "That is the padding."
+        }
+      ]
+    },
+    {
+      "id": 5616,
+      "german": "der wildes Tier",
+      "english": "beast",
+      "gender": "masculine",
+      "pronunciation": "WILDES TEER",
+      "category": "nature",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der wildes Tier.",
+          "english": "That is the beast."
+        }
+      ]
+    },
+    {
+      "id": 5656,
+      "german": "wohnen (vorübergehend)",
+      "english": "stay",
+      "gender": null,
+      "pronunciation": "WOHNEN VORUEBERGEHEND",
+      "category": "nature",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist wohnen (vorübergehend).",
+          "english": "It is stay."
+        }
+      ]
+    }
+  ]
+}

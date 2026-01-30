@@ -1,0 +1,1220 @@
+{
+  "category": "time",
+  "words": [
+    {
+      "id": 2,
+      "german": "der Abend",
+      "english": "evening",
+      "gender": "masculine",
+      "pronunciation": "ABEND",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Abend.",
+          "english": "That is the evening."
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "german": "der alle paar Stunden",
+      "english": "every few hours",
+      "gender": "masculine",
+      "pronunciation": "ALLE PAAR STUNDEN",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der alle paar Stunden.",
+          "english": "That is the every few hours."
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "german": "der an jedem Tag",
+      "english": "everyday",
+      "gender": "masculine",
+      "pronunciation": "AN JEDEM TAG",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der an jedem Tag.",
+          "english": "That is the everyday."
+        }
+      ]
+    },
+    {
+      "id": 694,
+      "german": "bis heute",
+      "english": "down to the present day",
+      "gender": null,
+      "pronunciation": "BIS HOYTE",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist bis heute.",
+          "english": "It is down to the present day."
+        }
+      ]
+    },
+    {
+      "id": 695,
+      "german": "bis mittags",
+      "english": "up to midday",
+      "gender": null,
+      "pronunciation": "BIS MITTAGS",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist bis mittags.",
+          "english": "It is up to midday."
+        }
+      ]
+    },
+    {
+      "id": 807,
+      "german": "der Bühne",
+      "english": "stage",
+      "gender": "masculine",
+      "pronunciation": "BUEHNE",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Bühne.",
+          "english": "That is the stage."
+        }
+      ]
+    },
+    {
+      "id": 911,
+      "german": "der den ganzen Tag",
+      "english": "all day",
+      "gender": "masculine",
+      "pronunciation": "DEN GANZEN TAG",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der den ganzen Tag.",
+          "english": "That is the all day."
+        }
+      ]
+    },
+    {
+      "id": 925,
+      "german": "der falsche Tag",
+      "english": "the wrong day",
+      "gender": "masculine",
+      "pronunciation": "FALSKHE TAG",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der falsche Tag.",
+          "english": "That is the the wrong day."
+        }
+      ]
+    },
+    {
+      "id": 928,
+      "german": "der heutige Tag war schön",
+      "english": "today has been fine",
+      "gender": "masculine",
+      "pronunciation": "HOYTIGE TAG WAR SKHOEN",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der heutige Tag war schön.",
+          "english": "That is the today has been fine."
+        }
+      ]
+    },
+    {
+      "id": 966,
+      "german": "die ganze Nacht",
+      "english": "all night long",
+      "gender": "feminine",
+      "pronunciation": "GANZE NAKHT",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist die ganze Nacht.",
+          "english": "That is the all night long."
+        }
+      ]
+    },
+    {
+      "id": 991,
+      "german": "der Dienstag",
+      "english": "Tuesday",
+      "gender": "masculine",
+      "pronunciation": "DEENSTAG",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Dienstag.",
+          "english": "That is the Tuesday."
+        }
+      ]
+    },
+    {
+      "id": 992,
+      "german": "der Dienststunden",
+      "english": "office hours",
+      "gender": "masculine",
+      "pronunciation": "DEENSTSTUNDEN",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Dienststunden.",
+          "english": "That is the office hours."
+        }
+      ]
+    },
+    {
+      "id": 1015,
+      "german": "der Donnerstag",
+      "english": "Thursday",
+      "gender": "masculine",
+      "pronunciation": "DONNERSTAG",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Donnerstag.",
+          "english": "That is the Thursday."
+        }
+      ]
+    },
+    {
+      "id": 1352,
+      "german": "der Ende des Tages",
+      "english": "end of the day",
+      "gender": "masculine",
+      "pronunciation": "ENDE DES TAGES",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Ende des Tages.",
+          "english": "That is the end of the day."
+        }
+      ]
+    },
+    {
+      "id": 1612,
+      "german": "der Fahrplan",
+      "english": "timetable",
+      "gender": "masculine",
+      "pronunciation": "FAHRPLAN",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Fahrplan.",
+          "english": "That is the timetable."
+        }
+      ]
+    },
+    {
+      "id": 1672,
+      "german": "der Ferien(Br.)",
+      "english": "holidays",
+      "gender": "masculine",
+      "pronunciation": "FEREENBR.",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Ferien(Br.).",
+          "english": "That is the holidays."
+        }
+      ]
+    },
+    {
+      "id": 1828,
+      "german": "der Frist",
+      "english": "time limit",
+      "gender": "masculine",
+      "pronunciation": "FRIST",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Frist.",
+          "english": "That is the time limit."
+        }
+      ]
+    },
+    {
+      "id": 1846,
+      "german": "fuhr",
+      "english": "drove",
+      "gender": null,
+      "pronunciation": "FUHR",
+      "category": "time",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist fuhr.",
+          "english": "It is drove."
+        }
+      ]
+    },
+    {
+      "id": 1865,
+      "german": "der für den Rest des Tages",
+      "english": "for the rest of the day",
+      "gender": "masculine",
+      "pronunciation": "FUER DEN REST DES TAGES",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der für den Rest des Tages.",
+          "english": "That is the for the rest of the day."
+        }
+      ]
+    },
+    {
+      "id": 1940,
+      "german": "der Geburtstag",
+      "english": "birthday",
+      "gender": "masculine",
+      "pronunciation": "GEBURTSTAG",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Geburtstag.",
+          "english": "That is the birthday."
+        }
+      ]
+    },
+    {
+      "id": 2150,
+      "german": "gestern",
+      "english": "yesterday",
+      "gender": null,
+      "pronunciation": "GESTERN",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist gestern.",
+          "english": "It is yesterday."
+        }
+      ]
+    },
+    {
+      "id": 2331,
+      "german": "Gute Nacht !",
+      "english": "good night !",
+      "gender": null,
+      "pronunciation": "GUTE NAKHT !",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist Gute Nacht !.",
+          "english": "It is good night !."
+        }
+      ]
+    },
+    {
+      "id": 2333,
+      "german": "Guten Abend !",
+      "english": "good evening !",
+      "gender": null,
+      "pronunciation": "GUTEN ABEND !",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Guten Abend !.",
+          "english": "It is good evening !."
+        }
+      ]
+    },
+    {
+      "id": 2334,
+      "german": "Guten Morgen !",
+      "english": "good morning !",
+      "gender": null,
+      "pronunciation": "GUTEN MORGEN !",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Guten Morgen !.",
+          "english": "It is good morning !."
+        }
+      ]
+    },
+    {
+      "id": 2335,
+      "german": "Guten Tag !",
+      "english": "hello !",
+      "gender": null,
+      "pronunciation": "GUTEN TAG !",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist Guten Tag !.",
+          "english": "It is hello !."
+        }
+      ]
+    },
+    {
+      "id": 2336,
+      "german": "Guten Tag ! (nachmittags)",
+      "english": "good afternoon !",
+      "gender": null,
+      "pronunciation": "GUTEN TAG ! NAKHMITTAGS",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Guten Tag ! (nachmittags).",
+          "english": "It is good afternoon !."
+        }
+      ]
+    },
+    {
+      "id": 2337,
+      "german": "Guten Tag ! (vormittags)",
+      "english": "good morning !",
+      "gender": null,
+      "pronunciation": "GUTEN TAG ! VORMITTAGS",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Guten Tag ! (vormittags).",
+          "english": "It is good morning !."
+        }
+      ]
+    },
+    {
+      "id": 2353,
+      "german": "der halb sechs Uhr",
+      "english": "half past five",
+      "gender": "masculine",
+      "pronunciation": "HALB SEKHS UHR",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der halb sechs Uhr.",
+          "english": "That is the half past five."
+        }
+      ]
+    },
+    {
+      "id": 2418,
+      "german": "das Häuschen",
+      "english": "cottage",
+      "gender": "neuter",
+      "pronunciation": "HOYSKHEN",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist das Häuschen.",
+          "english": "That is the cottage."
+        }
+      ]
+    },
+    {
+      "id": 2489,
+      "german": "heute",
+      "english": "today",
+      "gender": null,
+      "pronunciation": "HOYTE",
+      "category": "time",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Es ist heute.",
+          "english": "It is today."
+        }
+      ]
+    },
+    {
+      "id": 2490,
+      "german": "heute abend",
+      "english": "tonight",
+      "gender": null,
+      "pronunciation": "HOYTE ABEND",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist heute abend.",
+          "english": "It is tonight."
+        }
+      ]
+    },
+    {
+      "id": 2491,
+      "german": "heute morgen",
+      "english": "this morning",
+      "gender": null,
+      "pronunciation": "HOYTE MORGEN",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist heute morgen.",
+          "english": "It is this morning."
+        }
+      ]
+    },
+    {
+      "id": 2492,
+      "german": "heute nachmittag",
+      "english": "this afternoon",
+      "gender": null,
+      "pronunciation": "HOYTE NAKHMITTAG",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist heute nachmittag.",
+          "english": "It is this afternoon."
+        }
+      ]
+    },
+    {
+      "id": 2493,
+      "german": "heutzutage",
+      "english": "nowadays",
+      "gender": null,
+      "pronunciation": "HOYTZUTAGE",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist heutzutage.",
+          "english": "It is nowadays."
+        }
+      ]
+    },
+    {
+      "id": 2578,
+      "german": "der Hütte",
+      "english": "cottage",
+      "gender": "masculine",
+      "pronunciation": "HUETTE",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Hütte.",
+          "english": "That is the cottage."
+        }
+      ]
+    },
+    {
+      "id": 2657,
+      "german": "der in fünf Minuten",
+      "english": "within five minutes",
+      "gender": "masculine",
+      "pronunciation": "IN FUENF MINUTEN",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der in fünf Minuten.",
+          "english": "That is the within five minutes."
+        }
+      ]
+    },
+    {
+      "id": 2757,
+      "german": "der Jahrhundert",
+      "english": "century",
+      "gender": "masculine",
+      "pronunciation": "JAHRHUNDERT",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Jahrhundert.",
+          "english": "That is the century."
+        }
+      ]
+    },
+    {
+      "id": 2764,
+      "german": "der jeden Tag",
+      "english": "each day",
+      "gender": "masculine",
+      "pronunciation": "JEDEN TAG",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der jeden Tag.",
+          "english": "That is the each day."
+        }
+      ]
+    },
+    {
+      "id": 2929,
+      "german": "der kommenden Montag",
+      "english": "next Monday",
+      "gender": "masculine",
+      "pronunciation": "KOMMENDEN MONTAG",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der kommenden Montag.",
+          "english": "That is the next Monday."
+        }
+      ]
+    },
+    {
+      "id": 3231,
+      "german": "manchmal",
+      "english": "sometimes",
+      "gender": null,
+      "pronunciation": "MANKHMAL",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist manchmal.",
+          "english": "It is sometimes."
+        }
+      ]
+    },
+    {
+      "id": 3351,
+      "german": "der Minute",
+      "english": "minute",
+      "gender": "masculine",
+      "pronunciation": "MINUTE",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Minute.",
+          "english": "That is the minute."
+        }
+      ]
+    },
+    {
+      "id": 3381,
+      "german": "der Mittag",
+      "english": "noon",
+      "gender": "masculine",
+      "pronunciation": "MITTAG",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Mittag.",
+          "english": "That is the noon."
+        }
+      ]
+    },
+    {
+      "id": 3388,
+      "german": "der Mitternacht",
+      "english": "midnight",
+      "gender": "masculine",
+      "pronunciation": "MITTERNAKHT",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Mitternacht.",
+          "english": "That is the midnight."
+        }
+      ]
+    },
+    {
+      "id": 3393,
+      "german": "der Mittwoch",
+      "english": "Wednesday",
+      "gender": "masculine",
+      "pronunciation": "MITTWOKH",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Mittwoch.",
+          "english": "That is the Wednesday."
+        }
+      ]
+    },
+    {
+      "id": 3409,
+      "german": "der Monat",
+      "english": "month",
+      "gender": "masculine",
+      "pronunciation": "MONAT",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Monat.",
+          "english": "That is the month."
+        }
+      ]
+    },
+    {
+      "id": 3410,
+      "german": "monatlich",
+      "english": "monthly",
+      "gender": null,
+      "pronunciation": "MONATLIKH",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist monatlich.",
+          "english": "It is monthly."
+        }
+      ]
+    },
+    {
+      "id": 3412,
+      "german": "der Montag",
+      "english": "Monday",
+      "gender": "masculine",
+      "pronunciation": "MONTAG",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Montag.",
+          "english": "That is the Monday."
+        }
+      ]
+    },
+    {
+      "id": 3416,
+      "german": "der Morgen",
+      "english": "morning",
+      "gender": "masculine",
+      "pronunciation": "MORGEN",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Morgen.",
+          "english": "That is the morning."
+        }
+      ]
+    },
+    {
+      "id": 3417,
+      "german": "morgen",
+      "english": "tomorrow",
+      "gender": null,
+      "pronunciation": "MORGEN",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist morgen.",
+          "english": "It is tomorrow."
+        }
+      ]
+    },
+    {
+      "id": 3457,
+      "german": "der nach fünf Uhr",
+      "english": "past five",
+      "gender": "masculine",
+      "pronunciation": "NAKH FUENF UHR",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der nach fünf Uhr.",
+          "english": "That is the past five."
+        }
+      ]
+    },
+    {
+      "id": 3461,
+      "german": "der nach Stunden",
+      "english": "after hours",
+      "gender": "masculine",
+      "pronunciation": "NAKH STUNDEN",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der nach Stunden.",
+          "english": "That is the after hours."
+        }
+      ]
+    },
+    {
+      "id": 3473,
+      "german": "der Nachmittag",
+      "english": "afternoon",
+      "gender": "masculine",
+      "pronunciation": "NAKHMITTAG",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Nachmittag.",
+          "english": "That is the afternoon."
+        }
+      ]
+    },
+    {
+      "id": 3480,
+      "german": "die Nacht",
+      "english": "night",
+      "gender": "feminine",
+      "pronunciation": "NAKHT",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist die Nacht.",
+          "english": "That is the night."
+        }
+      ]
+    },
+    {
+      "id": 3482,
+      "german": "nachts",
+      "english": "by night",
+      "gender": null,
+      "pronunciation": "NAKHTS",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Es ist nachts.",
+          "english": "It is by night."
+        }
+      ]
+    },
+    {
+      "id": 3532,
+      "german": "der neun Uhr",
+      "english": "nine o'clock",
+      "gender": "masculine",
+      "pronunciation": "NOYN UHR",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der neun Uhr.",
+          "english": "That is the nine o'clock."
+        }
+      ]
+    },
+    {
+      "id": 3756,
+      "german": "der Porto",
+      "english": "postage",
+      "gender": "masculine",
+      "pronunciation": "PORTO",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Porto.",
+          "english": "That is the postage."
+        }
+      ]
+    },
+    {
+      "id": 3951,
+      "german": "der Ritter",
+      "english": "knight",
+      "gender": "masculine",
+      "pronunciation": "RITTER",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Ritter.",
+          "english": "That is the knight."
+        }
+      ]
+    },
+    {
+      "id": 4024,
+      "german": "der Samstag",
+      "english": "Saturday",
+      "gender": "masculine",
+      "pronunciation": "SAMSTAG",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Samstag.",
+          "english": "That is the Saturday."
+        }
+      ]
+    },
+    {
+      "id": 4558,
+      "german": "das Stadium",
+      "english": "stage",
+      "gender": "neuter",
+      "pronunciation": "STADIUM",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist das Stadium.",
+          "english": "That is the stage."
+        }
+      ]
+    },
+    {
+      "id": 4676,
+      "german": "der Stunde",
+      "english": "hour",
+      "gender": "masculine",
+      "pronunciation": "STUNDE",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Stunde.",
+          "english": "That is the hour."
+        }
+      ]
+    },
+    {
+      "id": 4677,
+      "german": "der Stundenplan",
+      "english": "timetable",
+      "gender": "masculine",
+      "pronunciation": "STUNDENPLAN",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Stundenplan.",
+          "english": "That is the timetable."
+        }
+      ]
+    },
+    {
+      "id": 4679,
+      "german": "stündlich",
+      "english": "hourly",
+      "gender": null,
+      "pronunciation": "STUENDLIKH",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist stündlich.",
+          "english": "It is hourly."
+        }
+      ]
+    },
+    {
+      "id": 4709,
+      "german": "der Tag",
+      "english": "day",
+      "gender": "masculine",
+      "pronunciation": "TAG",
+      "category": "time",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Tag.",
+          "english": "That is the day."
+        }
+      ]
+    },
+    {
+      "id": 4710,
+      "german": "der Tag für Tag",
+      "english": "day after day",
+      "gender": "masculine",
+      "pronunciation": "TAG FUER TAG",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Tag für Tag.",
+          "english": "That is the day after day."
+        }
+      ]
+    },
+    {
+      "id": 4712,
+      "german": "das Tagtraum",
+      "english": "day-dream",
+      "gender": "neuter",
+      "pronunciation": "TAGTRAUM",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist das Tagtraum.",
+          "english": "That is the day-dream."
+        }
+      ]
+    },
+    {
+      "id": 4878,
+      "german": "der Turmuhr",
+      "english": "clock",
+      "gender": "masculine",
+      "pronunciation": "TURMUHR",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Turmuhr.",
+          "english": "That is the clock."
+        }
+      ]
+    },
+    {
+      "id": 4912,
+      "german": "übermorgen",
+      "english": "the day after tomorrow",
+      "gender": null,
+      "pronunciation": "UEBERMORGEN",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Es ist übermorgen.",
+          "english": "It is the day after tomorrow."
+        }
+      ]
+    },
+    {
+      "id": 4941,
+      "german": "der Uhr",
+      "english": "clock",
+      "gender": "masculine",
+      "pronunciation": "UHR",
+      "category": "time",
+      "difficulty": "A1",
+      "examples": [
+        {
+          "german": "Das ist der Uhr.",
+          "english": "That is the clock."
+        }
+      ]
+    },
+    {
+      "id": 4942,
+      "german": "der Uhrwerk",
+      "english": "clockwork",
+      "gender": "masculine",
+      "pronunciation": "UHRWERK",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Uhrwerk.",
+          "english": "That is the clockwork."
+        }
+      ]
+    },
+    {
+      "id": 4948,
+      "german": "der um neun Uhr",
+      "english": "at nine o'clock",
+      "gender": "masculine",
+      "pronunciation": "UM NOYN UHR",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der um neun Uhr.",
+          "english": "That is the at nine o'clock."
+        }
+      ]
+    },
+    {
+      "id": 5318,
+      "german": "Viel Vergnügen !",
+      "english": "have a good time !",
+      "gender": null,
+      "pronunciation": "VEEL VERGNUEGEN !",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist Viel Vergnügen !.",
+          "english": "It is have a good time !."
+        }
+      ]
+    },
+    {
+      "id": 5330,
+      "german": "der Viertelstunde",
+      "english": "quarter",
+      "gender": "masculine",
+      "pronunciation": "VEERTELSTUNDE",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der Viertelstunde.",
+          "english": "That is the quarter."
+        }
+      ]
+    },
+    {
+      "id": 5332,
+      "german": "der vierzehn Tage",
+      "english": "fortnight",
+      "gender": "masculine",
+      "pronunciation": "VEERZEHN TAGE",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der vierzehn Tage.",
+          "english": "That is the fortnight."
+        }
+      ]
+    },
+    {
+      "id": 5434,
+      "german": "die während der Nacht",
+      "english": "in the night",
+      "gender": "feminine",
+      "pronunciation": "WAEHREND NAKHT",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist die während Nacht.",
+          "english": "That is the in the night."
+        }
+      ]
+    },
+    {
+      "id": 5435,
+      "german": "der während des Tags",
+      "english": "by day",
+      "gender": "masculine",
+      "pronunciation": "WAEHREND DES TAGS",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Das ist der während des Tags.",
+          "english": "That is the by day."
+        }
+      ]
+    },
+    {
+      "id": 5446,
+      "german": "der Wanduhr",
+      "english": "clock",
+      "gender": "masculine",
+      "pronunciation": "WANDUHR",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Wanduhr.",
+          "english": "That is the clock."
+        }
+      ]
+    },
+    {
+      "id": 5547,
+      "german": "welcher Tag paßt dir",
+      "english": "what day will suit you",
+      "gender": null,
+      "pronunciation": "WELKHER TAG PASST DIR",
+      "category": "time",
+      "difficulty": "C1",
+      "examples": [
+        {
+          "german": "Es ist welcher Tag paßt dir.",
+          "english": "It is what day will suit you."
+        }
+      ]
+    },
+    {
+      "id": 5648,
+      "german": "der Woche",
+      "english": "week",
+      "gender": "masculine",
+      "pronunciation": "WOKHE",
+      "category": "time",
+      "difficulty": "A2",
+      "examples": [
+        {
+          "german": "Das ist der Woche.",
+          "english": "That is the week."
+        }
+      ]
+    },
+    {
+      "id": 5649,
+      "german": "der Wochenende",
+      "english": "weekend",
+      "gender": "masculine",
+      "pronunciation": "WOKHENENDE",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Wochenende.",
+          "english": "That is the weekend."
+        }
+      ]
+    },
+    {
+      "id": 5650,
+      "german": "der Wochentag",
+      "english": "weekday",
+      "gender": "masculine",
+      "pronunciation": "WOKHENTAG",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Wochentag.",
+          "english": "That is the weekday."
+        }
+      ]
+    },
+    {
+      "id": 5741,
+      "german": "der Zentimeter",
+      "english": "centimetre",
+      "gender": "masculine",
+      "pronunciation": "ZENTIMETER",
+      "category": "time",
+      "difficulty": "B1",
+      "examples": [
+        {
+          "german": "Das ist der Zentimeter.",
+          "english": "That is the centimetre."
+        }
+      ]
+    }
+  ]
+}
